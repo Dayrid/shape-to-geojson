@@ -1,0 +1,45 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": "0",
+            "type": "Feature",
+            "properties": {
+                "Инвен": "431506\n",
+                "Модел": "HP LaserJet P2055d",
+                "Ответ": null,
+                "Кафед": "ГИС",
+                "Состо": "В работе\n",
+                "Харак": null,
+                "Дата ?": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.94108727272116,
+                    54.72481960053951
+                ]
+            }
+        },
+        {
+            "id": "1",
+            "type": "Feature",
+            "properties": {
+                "Инвен": "430552\n",
+                "Модел": "HP LaserJet P2015d",
+                "Ответ": null,
+                "Кафед": "ГИС",
+                "Состо": "В работе",
+                "Харак": null,
+                "Дата ?": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.941165566526315,
+                    54.72481409035407
+                ]
+            }
+        }
+    ]
+}

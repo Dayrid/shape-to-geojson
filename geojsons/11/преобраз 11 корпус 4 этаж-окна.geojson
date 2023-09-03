@@ -1,0 +1,4080 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": "0",
+            "type": "Feature",
+            "properties": {
+                "Layer": "11_корпус_4_этаж-Слой_окон",
+                "PaperSpace": null,
+                "SubClasses": null,
+                "Linetype": "BYLAYER",
+                "EntityHand": null,
+                "Text": null
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        55.93968733930373,
+                        54.73506728828847
+                    ],
+                    [
+                        55.93976277727257,
+                        54.735092657234134
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "1",
+            "type": "Feature",
+            "properties": {
+                "Layer": "11_корпус_4_этаж-Слой_окон",
+                "PaperSpace": null,
+                "SubClasses": null,
+                "Linetype": "BYLAYER",
+                "EntityHand": null,
+                "Text": null
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        55.93976156483785,
+                        54.735094410705145
+                    ],
+                    [
+                        55.93968521800558,
+                        54.7350693052358
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "2",
+            "type": "Feature",
+            "properties": {
+                "Layer": "11_корпус_4_этаж-Слой_окон",
+                "PaperSpace": null,
+                "SubClasses": null,
+                "Linetype": "BYLAYER",
+                "EntityHand": null,
+                "Text": null
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        55.93968385405316,
+                        54.73507060209269
+                    ],
+                    [
+                        55.939760635795054,
+                        54.73509575432355
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "3",
+            "type": "Feature",
+            "properties": {
+                "Layer": "11_корпус_4_этаж-Слой_окон",
+                "PaperSpace": null,
+                "SubClasses": null,
+                "Linetype": "BYLAYER",
+                "EntityHand": null,
+                "Text": null
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        55.93975935207388,
+                        54.735097610891714
+                    ],
+                    [
+                        55.939682611176025,
+                        54.73507178383015
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "4",
+            "type": "Feature",
+            "properties": {
+                "Layer": "11_корпус_4_этаж-Слой_окон",
+                "PaperSpace": null,
+                "SubClasses": null,
+                "Linetype": "BYLAYER",
+                "EntityHand": null,
+                "Text": null
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        55.93980704793417,
+                        54.735096130583706
+                    ],
+                    [
+                        55.939870755133015,
+                        54.7350862749195
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "5",
+            "type": "Feature",
+            "properties": {
+                "Layer": "11_корпус_4_этаж-Слой_окон",
+                "PaperSpace": null,
+                "SubClasses": null,
+                "Linetype": "BYLAYER",
+                "EntityHand": null,
+                "Text": null
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        55.939868436340106,
+                        54.735081278550226
+                    ],
+                    [
+                        55.93980466192987,
+                        54.73509098939339
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "6",
+            "type": "Feature",
+            "properties": {
+                "Layer": "11_корпус_4_этаж-Слой_окон",
+                "PaperSpace": null,
+                "SubClasses": null,
+                "Linetype": "BYLAYER",
+                "EntityHand": null,
+                "Text": null
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        55.93980537815124,
+                        54.73509253265572
+                    ],
+                    [
+                        55.939869152561464,
+                        54.73508282181289
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "7",
+            "type": "Feature",
+            "properties": {
+                "Layer": "11_корпус_4_этаж-Слой_окон",
+                "PaperSpace": null,
+                "SubClasses": null,
+                "Linetype": "BYLAYER",
+                "EntityHand": null,
+                "Text": null
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        55.93986989188674,
+                        54.73508441485817
+                    ],
+                    [
+                        55.9398061510822,
+                        54.73509419811173
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "8",
+            "type": "Feature",
+            "properties": {
+                "Layer": "11_корпус_4_этаж-Слой_окон",
+                "PaperSpace": null,
+                "SubClasses": null,
+                "Linetype": "BYLAYER",
+                "EntityHand": null,
+                "Text": null
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        55.939888654792426,
+                        54.7350781507038
+                    ],
+                    [
+                        55.939952816814724,
+                        54.73506830228286
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "9",
+            "type": "Feature",
+            "properties": {
+                "Layer": "11_корпус_4_этаж-Слой_окон",
+                "PaperSpace": null,
+                "SubClasses": null,
+                "Linetype": "BYLAYER",
+                "EntityHand": null,
+                "Text": null
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        55.93995328938695,
+                        54.735069999654314
+                    ],
+                    [
+                        55.93988942142233,
+                        54.735079802583314
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "10",
+            "type": "Feature",
+            "properties": {
+                "Layer": "11_корпус_4_этаж-Слой_окон",
+                "PaperSpace": null,
+                "SubClasses": null,
+                "Linetype": "BYLAYER",
+                "EntityHand": null,
+                "Text": null
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        55.939890143944766,
+                        54.735081359423155
+                    ],
+                    [
+                        55.93995401190938,
+                        54.73507155649448
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "11",
+            "type": "Feature",
+            "properties": {
+                "Layer": "11_корпус_4_этаж-Слой_окон",
+                "PaperSpace": null,
+                "SubClasses": null,
+                "Linetype": "BYLAYER",
+                "EntityHand": null,
+                "Text": null
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        55.93995487515564,
+                        54.73507341655637
+                    ],
+                    [
+                        55.939891040796724,
+                        54.73508329189576
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "12",
+            "type": "Feature",
+            "properties": {
+                "Layer": "11_корпус_4_этаж-Слой_окон",
+                "PaperSpace": null,
+                "SubClasses": null,
+                "Linetype": "BYLAYER",
+                "EntityHand": null,
+                "Text": null
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        55.93998991138835,
+                        54.735068151580265
+                    ],
+                    [
+                        55.94005377935296,
+                        54.735058348648415
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "13",
+            "type": "Feature",
+            "properties": {
+                "Layer": "11_корпус_4_этаж-Слой_окон",
+                "PaperSpace": null,
+                "SubClasses": null,
+                "Linetype": "BYLAYER",
+                "EntityHand": null,
+                "Text": null
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        55.940052916106694,
+                        54.73505648858581
+                    ],
+                    [
+                        55.93998903133923,
+                        54.735066255312525
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "14",
+            "type": "Feature",
+            "properties": {
+                "Layer": "11_корпус_4_этаж-Слой_окон",
+                "PaperSpace": null,
+                "SubClasses": null,
+                "Linetype": "BYLAYER",
+                "EntityHand": null,
+                "Text": null
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        55.93998824160541,
+                        54.735064553649764
+                    ],
+                    [
+                        55.94005215997857,
+                        54.73505485933386
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "15",
+            "type": "Feature",
+            "properties": {
+                "Layer": "11_корпус_4_этаж-Слой_окон",
+                "PaperSpace": null,
+                "SubClasses": null,
+                "Linetype": "BYLAYER",
+                "EntityHand": null,
+                "Text": null
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        55.940051426954355,
+                        54.735053279864495
+                    ],
+                    [
+                        55.93998752538406,
+                        54.73506301038639
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "16",
+            "type": "Feature",
+            "properties": {
+                "Layer": "11_корпус_4_этаж-Слой_окон",
+                "PaperSpace": null,
+                "SubClasses": null,
+                "Linetype": "BYLAYER",
+                "EntityHand": null,
+                "Text": null
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        55.94007326845052,
+                        54.73505541124342
+                    ],
+                    [
+                        55.940137170020826,
+                        54.73504568071972
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "17",
+            "type": "Feature",
+            "properties": {
+                "Layer": "11_корпус_4_этаж-Слой_окон",
+                "PaperSpace": null,
+                "SubClasses": null,
+                "Linetype": "BYLAYER",
+                "EntityHand": null,
+                "Text": null
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        55.940136289971704,
+                        54.73504378445094
+                    ],
+                    [
+                        55.94007237159855,
+                        54.735053478769494
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "18",
+            "type": "Feature",
+            "properties": {
+                "Layer": "11_корпус_4_этаж-Слой_окон",
+                "PaperSpace": null,
+                "SubClasses": null,
+                "Linetype": "BYLAYER",
+                "EntityHand": null,
+                "Text": null
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        55.94007163227327,
+                        54.73505188572301
+                    ],
+                    [
+                        55.940135550646424,
+                        54.73504219140404
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "19",
+            "type": "Feature",
+            "properties": {
+                "Layer": "11_корпус_4_этаж-Слой_окон",
+                "PaperSpace": null,
+                "SubClasses": null,
+                "Linetype": "BYLAYER",
+                "EntityHand": null,
+                "Text": null
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        55.940134750410834,
+                        54.735040467111766
+                    ],
+                    [
+                        55.94007088244622,
+                        54.73505027004794
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "20",
+            "type": "Feature",
+            "properties": {
+                "Layer": "11_корпус_4_этаж-Слой_окон",
+                "PaperSpace": null,
+                "SubClasses": null,
+                "Linetype": "BYLAYER",
+                "EntityHand": null,
+                "Text": null
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        55.940159075159855,
+                        54.73504236954566
+                    ],
+                    [
+                        55.940223339591874,
+                        54.735032466467885
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "21",
+            "type": "Feature",
+            "properties": {
+                "Layer": "11_корпус_4_этаж-Слой_окон",
+                "PaperSpace": null,
+                "SubClasses": null,
+                "Linetype": "BYLAYER",
+                "EntityHand": null,
+                "Text": null
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        55.94022249314844,
+                        54.73503064260974
+                    ],
+                    [
+                        55.94015816150504,
+                        54.73504040086549
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "22",
+            "type": "Feature",
+            "properties": {
+                "Layer": "11_корпус_4_этаж-Слой_окон",
+                "PaperSpace": null,
+                "SubClasses": null,
+                "Linetype": "BYLAYER",
+                "EntityHand": null,
+                "Text": null
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        55.940157405376915,
+                        54.73503877161287
+                    ],
+                    [
+                        55.94022172021747,
+                        54.73502897715112
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "23",
+            "type": "Feature",
+            "properties": {
+                "Layer": "11_корпус_4_этаж-Слой_окон",
+                "PaperSpace": null,
+                "SubClasses": null,
+                "Linetype": "BYLAYER",
+                "EntityHand": null,
+                "Text": null
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        55.940221003996115,
+                        54.735027433886394
+                    ],
+                    [
+                        55.94015668915556,
+                        54.7350372283485
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "24",
+            "type": "Feature",
+            "properties": {
+                "Layer": "11_корпус_4_этаж-Слой_окон",
+                "PaperSpace": null,
+                "SubClasses": null,
+                "Linetype": "BYLAYER",
+                "EntityHand": null,
+                "Text": null
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        55.94025893124208,
+                        54.735027076756765
+                    ],
+                    [
+                        55.94032315071258,
+                        54.73501729704619
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "25",
+            "type": "Feature",
+            "properties": {
+                "Layer": "11_корпус_4_этаж-Слой_окон",
+                "PaperSpace": null,
+                "SubClasses": null,
+                "Linetype": "BYLAYER",
+                "EntityHand": null,
+                "Text": null
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        55.940322321071996,
+                        54.735015509392966
+                    ],
+                    [
+                        55.940258067995806,
+                        54.73502521669274
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "26",
+            "type": "Feature",
+            "properties": {
+                "Layer": "11_корпус_4_этаж-Слой_окон",
+                "PaperSpace": null,
+                "SubClasses": null,
+                "Linetype": "BYLAYER",
+                "EntityHand": null,
+                "Text": null
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        55.94025729506484,
+                        54.73502355123386
+                    ],
+                    [
+                        55.940321514535334,
+                        54.73501377152247
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "27",
+            "type": "Feature",
+            "properties": {
+                "Layer": "11_корпус_4_этаж-Слой_окон",
+                "PaperSpace": null,
+                "SubClasses": null,
+                "Linetype": "BYLAYER",
+                "EntityHand": null,
+                "Text": null
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        55.94032081511682,
+                        54.73501226446279
+                    ],
+                    [
+                        55.94025661244917,
+                        54.73502208038021
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "28",
+            "type": "Feature",
+            "properties": {
+                "Layer": "11_корпус_4_этаж-Слой_окон",
+                "PaperSpace": null,
+                "SubClasses": null,
+                "Linetype": "BYLAYER",
+                "EntityHand": null,
+                "Text": null
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        55.94034419570541,
+                        54.735014041326686
+                    ],
+                    [
+                        55.94040860228467,
+                        54.73500407744632
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "29",
+            "type": "Feature",
+            "properties": {
+                "Layer": "11_корпус_4_этаж-Слой_окон",
+                "PaperSpace": null,
+                "SubClasses": null,
+                "Linetype": "BYLAYER",
+                "EntityHand": null,
+                "Text": null
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        55.94040781200542,
+                        54.73500232315162
+                    ],
+                    [
+                        55.94034334926199,
+                        54.735012217467705
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "30",
+            "type": "Feature",
+            "properties": {
+                "Layer": "11_корпус_4_этаж-Слой_окон",
+                "PaperSpace": null,
+                "SubClasses": null,
+                "Linetype": "BYLAYER",
+                "EntityHand": null,
+                "Text": null
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        55.940342593133856,
+                        54.73501058821394
+                    ],
+                    [
+                        55.94040704360195,
+                        54.7350006174176
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "31",
+            "type": "Feature",
+            "properties": {
+                "Layer": "11_корпус_4_этаж-Слой_окон",
+                "PaperSpace": null,
+                "SubClasses": null,
+                "Linetype": "BYLAYER",
+                "EntityHand": null,
+                "Text": null
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        55.94040634707181,
+                        54.73499907123092
+                    ],
+                    [
+                        55.940341876912505,
+                        54.735009044948505
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "32",
+            "type": "Feature",
+            "properties": {
+                "Layer": "11_корпус_4_этаж-Слой_окон",
+                "PaperSpace": null,
+                "SubClasses": null,
+                "Linetype": "BYLAYER",
+                "EntityHand": null,
+                "Text": null
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        55.94043835774281,
+                        54.734999474191795
+                    ],
+                    [
+                        55.94050269120189,
+                        54.734989793255515
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "33",
+            "type": "Feature",
+            "properties": {
+                "Layer": "11_корпус_4_этаж-Слой_окон",
+                "PaperSpace": null,
+                "SubClasses": null,
+                "Linetype": "BYLAYER",
+                "EntityHand": null,
+                "Text": null
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        55.94050178191085,
+                        54.734987940227995
+                    ],
+                    [
+                        55.94043756170793,
+                        54.73499775894911
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "34",
+            "type": "Feature",
+            "properties": {
+                "Layer": "11_корпус_4_этаж-Слой_окон",
+                "PaperSpace": null,
+                "SubClasses": null,
+                "Linetype": "BYLAYER",
+                "EntityHand": null,
+                "Text": null
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        55.94043678877696,
+                        54.73499609348911
+                    ],
+                    [
+                        55.940500968209356,
+                        54.73498628200057
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "35",
+            "type": "Feature",
+            "properties": {
+                "Layer": "11_корпус_4_этаж-Слой_окон",
+                "PaperSpace": null,
+                "SubClasses": null,
+                "Linetype": "BYLAYER",
+                "EntityHand": null,
+                "Text": null
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        55.940500178037524,
+                        54.73498467172375
+                    ],
+                    [
+                        55.940436038949905,
+                        54.73499447781183
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "36",
+            "type": "Feature",
+            "properties": {
+                "Layer": "11_корпус_4_этаж-Слой_окон",
+                "PaperSpace": null,
+                "SubClasses": null,
+                "Linetype": "BYLAYER",
+                "EntityHand": null,
+                "Text": null
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        55.940518204731355,
+                        54.73498739326732
+                    ],
+                    [
+                        55.940582547730585,
+                        54.73497743921645
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "37",
+            "type": "Feature",
+            "properties": {
+                "Layer": "11_корпус_4_этаж-Слой_окон",
+                "PaperSpace": null,
+                "SubClasses": null,
+                "Linetype": "BYLAYER",
+                "EntityHand": null,
+                "Text": null
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        55.94058170860266,
+                        54.734975576074056
+                    ],
+                    [
+                        55.940517324682226,
+                        54.73498549699581
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "38",
+            "type": "Feature",
+            "properties": {
+                "Layer": "11_корпус_4_этаж-Слой_окон",
+                "PaperSpace": null,
+                "SubClasses": null,
+                "Linetype": "BYLAYER",
+                "EntityHand": null,
+                "Text": null
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        55.94051658535695,
+                        54.734983903946656
+                    ],
+                    [
+                        55.9405810057067,
+                        54.73497401541183
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "39",
+            "type": "Feature",
+            "properties": {
+                "Layer": "11_корпус_4_этаж-Слой_окон",
+                "PaperSpace": null,
+                "SubClasses": null,
+                "Linetype": "BYLAYER",
+                "EntityHand": null,
+                "Text": null
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        55.94058030932056,
+                        54.73497246920341
+                    ],
+                    [
+                        55.94051581872705,
+                        54.73498225206322
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "40",
+            "type": "Feature",
+            "properties": {
+                "Layer": "11_корпус_4_этаж-Слой_окон",
+                "PaperSpace": null,
+                "SubClasses": null,
+                "Linetype": "BYLAYER",
+                "EntityHand": null,
+                "Text": null
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        55.9406256849712,
+                        54.73497068814704
+                    ],
+                    [
+                        55.94069057021644,
+                        54.734960727815235
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "41",
+            "type": "Feature",
+            "properties": {
+                "Layer": "11_корпус_4_этаж-Слой_окон",
+                "PaperSpace": null,
+                "SubClasses": null,
+                "Linetype": "BYLAYER",
+                "EntityHand": null,
+                "Text": null
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        55.940689723773005,
+                        54.73495890395383
+                    ],
+                    [
+                        55.94062485000427,
+                        54.73496894084243
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "42",
+            "type": "Feature",
+            "properties": {
+                "Layer": "11_корпус_4_этаж-Слой_окон",
+                "PaperSpace": null,
+                "SubClasses": null,
+                "Linetype": "BYLAYER",
+                "EntityHand": null,
+                "Text": null
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        55.94062409017118,
+                        54.734967350767576
+                    ],
+                    [
+                        55.94068898444773,
+                        54.73495731090363
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "43",
+            "type": "Feature",
+            "properties": {
+                "Layer": "11_корпус_4_этаж-Слой_окон",
+                "PaperSpace": null,
+                "SubClasses": null,
+                "Linetype": "BYLAYER",
+                "EntityHand": null,
+                "Text": null
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        55.940688268226374,
+                        54.734955767636166
+                    ],
+                    [
+                        55.9406233194011,
+                        54.73496573780522
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "44",
+            "type": "Feature",
+            "properties": {
+                "Layer": "11_корпус_4_этаж-Слой_окон",
+                "PaperSpace": null,
+                "SubClasses": null,
+                "Linetype": "BYLAYER",
+                "EntityHand": null,
+                "Text": null
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        55.94071360299332,
+                        54.7349572033801
+                    ],
+                    [
+                        55.94077783200395,
+                        54.73494715054074
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "45",
+            "type": "Feature",
+            "properties": {
+                "Layer": "11_корпус_4_этаж-Слой_окон",
+                "PaperSpace": null,
+                "SubClasses": null,
+                "Linetype": "BYLAYER",
+                "EntityHand": null,
+                "Text": null
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        55.94077568714832,
+                        54.73494208844054
+                    ],
+                    [
+                        55.94071125059472,
+                        54.73495213458354
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "46",
+            "type": "Feature",
+            "properties": {
+                "Layer": "11_корпус_4_этаж-Слой_окон",
+                "PaperSpace": null,
+                "SubClasses": null,
+                "Linetype": "BYLAYER",
+                "EntityHand": null,
+                "Text": null
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        55.94071198361892,
+                        54.734953714056815
+                    ],
+                    [
+                        55.94077633046627,
+                        54.7349436067432
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "47",
+            "type": "Feature",
+            "properties": {
+                "Layer": "11_корпус_4_этаж-Слой_окон",
+                "PaperSpace": null,
+                "SubClasses": null,
+                "Linetype": "BYLAYER",
+                "EntityHand": null,
+                "Text": null
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        55.94077703993489,
+                        54.734945281168834
+                    ],
+                    [
+                        55.94071273974704,
+                        54.73495534331287
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "48",
+            "type": "Feature",
+            "properties": {
+                "Layer": "11_корпус_4_этаж-Слой_окон",
+                "PaperSpace": null,
+                "SubClasses": null,
+                "Linetype": "BYLAYER",
+                "EntityHand": null,
+                "Text": null
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        55.940799288451366,
+                        54.73494375355201
+                    ],
+                    [
+                        55.940862915267324,
+                        54.73493387148101
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "49",
+            "type": "Feature",
+            "properties": {
+                "Layer": "11_корпус_4_этаж-Слой_окон",
+                "PaperSpace": null,
+                "SubClasses": null,
+                "Linetype": "BYLAYER",
+                "EntityHand": null,
+                "Text": null
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        55.94086067322595,
+                        54.73492874680375
+                    ],
+                    [
+                        55.940796775287,
+                        54.7349386320144
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "50",
+            "type": "Feature",
+            "properties": {
+                "Layer": "11_корпус_4_этаж-Слой_окон",
+                "PaperSpace": null,
+                "SubClasses": null,
+                "Linetype": "BYLAYER",
+                "EntityHand": null,
+                "Text": null
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        55.940797564434064,
+                        54.73494024020469
+                    ],
+                    [
+                        55.94086135153248,
+                        54.73493029722216
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "51",
+            "type": "Feature",
+            "properties": {
+                "Layer": "11_корпус_4_этаж-Слой_окон",
+                "PaperSpace": null,
+                "SubClasses": null,
+                "Linetype": "BYLAYER",
+                "EntityHand": null,
+                "Text": null
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        55.94086209826145,
+                        54.734932004034995
+                    ],
+                    [
+                        55.94079839608648,
+                        54.734941935015904
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "52",
+            "type": "Feature",
+            "properties": {
+                "Layer": "11_корпус_4_этаж-Слой_окон",
+                "PaperSpace": null,
+                "SubClasses": null,
+                "Linetype": "BYLAYER",
+                "EntityHand": null,
+                "Text": null
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        55.9408552584056,
+                        54.734896522479104
+                    ],
+                    [
+                        55.94084795279843,
+                        54.73488092763746
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "53",
+            "type": "Feature",
+            "properties": {
+                "Layer": "11_корпус_4_этаж-Слой_окон",
+                "PaperSpace": null,
+                "SubClasses": null,
+                "Linetype": "BYLAYER",
+                "EntityHand": null,
+                "Text": null
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        55.94086419321672,
+                        54.73489521784504
+                    ],
+                    [
+                        55.94085698116393,
+                        54.73487953091929
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "54",
+            "type": "Feature",
+            "properties": {
+                "Layer": "11_корпус_4_этаж-Слой_окон",
+                "PaperSpace": null,
+                "SubClasses": null,
+                "Linetype": "BYLAYER",
+                "EntityHand": null,
+                "Text": null
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        55.940851521228105,
+                        54.734880375589526
+                    ],
+                    [
+                        55.940858837490595,
+                        54.73489599987194
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "55",
+            "type": "Feature",
+            "properties": {
+                "Layer": "11_корпус_4_этаж-Слой_окон",
+                "PaperSpace": null,
+                "SubClasses": null,
+                "Linetype": "BYLAYER",
+                "EntityHand": null,
+                "Text": null
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        55.940853746529456,
+                        54.734880031328
+                    ],
+                    [
+                        55.940861059007055,
+                        54.73489549413957
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "56",
+            "type": "Feature",
+            "properties": {
+                "Layer": "11_корпус_4_этаж-Слой_окон",
+                "PaperSpace": null,
+                "SubClasses": null,
+                "Linetype": "BYLAYER",
+                "EntityHand": null,
+                "Text": null
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        55.94083948280955,
+                        54.7348619428426
+                    ],
+                    [
+                        55.94082270901319,
+                        54.73482697432802
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "57",
+            "type": "Feature",
+            "properties": {
+                "Layer": "11_корпус_4_этаж-Слой_окон",
+                "PaperSpace": null,
+                "SubClasses": null,
+                "Linetype": "BYLAYER",
+                "EntityHand": null,
+                "Text": null
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        55.940825514482405,
+                        54.73482654031202
+                    ],
+                    [
+                        55.94084222967595,
+                        54.734861530106805
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "58",
+            "type": "Feature",
+            "properties": {
+                "Layer": "11_корпус_4_этаж-Слой_окон",
+                "PaperSpace": null,
+                "SubClasses": null,
+                "Linetype": "BYLAYER",
+                "EntityHand": null,
+                "Text": null
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        55.94084477810369,
+                        54.73486114718779
+                    ],
+                    [
+                        55.94082818484403,
+                        54.734826127197664
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "59",
+            "type": "Feature",
+            "properties": {
+                "Layer": "11_корпус_4_этаж-Слой_окон",
+                "PaperSpace": null,
+                "SubClasses": null,
+                "Linetype": "BYLAYER",
+                "EntityHand": null,
+                "Text": null
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        55.94083173737869,
+                        54.73482557760799
+                    ],
+                    [
+                        55.940848210077704,
+                        54.734860631509775
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "60",
+            "type": "Feature",
+            "properties": {
+                "Layer": "11_корпус_4_этаж-Слой_окон",
+                "PaperSpace": null,
+                "SubClasses": null,
+                "Linetype": "BYLAYER",
+                "EntityHand": null,
+                "Text": null
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        55.94081705008504,
+                        54.73481492762959
+                    ],
+                    [
+                        55.940812016493595,
+                        54.73480437520247
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "61",
+            "type": "Feature",
+            "properties": {
+                "Layer": "11_корпус_4_этаж-Слой_окон",
+                "PaperSpace": null,
+                "SubClasses": null,
+                "Linetype": "BYLAYER",
+                "EntityHand": null,
+                "Text": null
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        55.940819728394175,
+                        54.734814513285606
+                    ],
+                    [
+                        55.94081475045904,
+                        54.734803928320034
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "62",
+            "type": "Feature",
+            "properties": {
+                "Layer": "11_корпус_4_этаж-Слой_окон",
+                "PaperSpace": null,
+                "SubClasses": null,
+                "Linetype": "BYLAYER",
+                "EntityHand": null,
+                "Text": null
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        55.940817915070205,
+                        54.734803411046094
+                    ],
+                    [
+                        55.94082303455619,
+                        54.734814001810506
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "63",
+            "type": "Feature",
+            "properties": {
+                "Layer": "11_корпус_4_этаж-Слой_окон",
+                "PaperSpace": null,
+                "SubClasses": null,
+                "Linetype": "BYLAYER",
+                "EntityHand": null,
+                "Text": null
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        55.94082588771044,
+                        54.73481356041732
+                    ],
+                    [
+                        55.94082088409332,
+                        54.73480292574215
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "64",
+            "type": "Feature",
+            "properties": {
+                "Layer": "11_корпус_4_этаж-Слой_окон",
+                "PaperSpace": null,
+                "SubClasses": null,
+                "Linetype": "BYLAYER",
+                "EntityHand": null,
+                "Text": null
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        55.94076885784185,
+                        54.73477760183719
+                    ],
+                    [
+                        55.94078971572592,
+                        54.73477453026612
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "65",
+            "type": "Feature",
+            "properties": {
+                "Layer": "11_корпус_4_этаж-Слой_окон",
+                "PaperSpace": null,
+                "SubClasses": null,
+                "Linetype": "BYLAYER",
+                "EntityHand": null,
+                "Text": null
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        55.940766555851795,
+                        54.73477264163573
+                    ],
+                    [
+                        55.9407874437102,
+                        54.734769487816486
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "66",
+            "type": "Feature",
+            "properties": {
+                "Layer": "11_корпус_4_этаж-Слой_окон",
+                "PaperSpace": null,
+                "SubClasses": null,
+                "Linetype": "BYLAYER",
+                "EntityHand": null,
+                "Text": null
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        55.940767288875996,
+                        54.734774221116005
+                    ],
+                    [
+                        55.940788156364206,
+                        54.734771069461395
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "67",
+            "type": "Feature",
+            "properties": {
+                "Layer": "11_корпус_4_этаж-Слой_окон",
+                "PaperSpace": null,
+                "SubClasses": null,
+                "Linetype": "BYLAYER",
+                "EntityHand": null,
+                "Text": null
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        55.94076799459559,
+                        54.734775741761716
+                    ],
+                    [
+                        55.94078884319867,
+                        54.73477259380304
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "68",
+            "type": "Feature",
+            "properties": {
+                "Layer": "11_корпус_4_этаж-Слой_окон",
+                "PaperSpace": null,
+                "SubClasses": null,
+                "Linetype": "BYLAYER",
+                "EntityHand": null,
+                "Text": null
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        55.94072624604439,
+                        54.73478431045609
+                    ],
+                    [
+                        55.94074749494883,
+                        54.734780906756065
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "69",
+            "type": "Feature",
+            "properties": {
+                "Layer": "11_корпус_4_этаж-Слой_окон",
+                "PaperSpace": null,
+                "SubClasses": null,
+                "Linetype": "BYLAYER",
+                "EntityHand": null,
+                "Text": null
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        55.94072389364578,
+                        54.73477924163788
+                    ],
+                    [
+                        55.94074519295877,
+                        54.73477594655498
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "70",
+            "type": "Feature",
+            "properties": {
+                "Layer": "11_корпус_4_этаж-Слой_окон",
+                "PaperSpace": null,
+                "SubClasses": null,
+                "Linetype": "BYLAYER",
+                "EntityHand": null,
+                "Text": null
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        55.940724576261445,
+                        54.73478071250038
+                    ],
+                    [
+                        55.94074587557444,
+                        54.73477741741759
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "71",
+            "type": "Feature",
+            "properties": {
+                "Layer": "11_корпус_4_этаж-Слой_окон",
+                "PaperSpace": null,
+                "SubClasses": null,
+                "Linetype": "BYLAYER",
+                "EntityHand": null,
+                "Text": null
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        55.94072531558673,
+                        54.73478230555755
+                    ],
+                    [
+                        55.94074663170256,
+                        54.734779046680714
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "72",
+            "type": "Feature",
+            "properties": {
+                "Layer": "11_корпус_4_этаж-Слой_окон",
+                "PaperSpace": null,
+                "SubClasses": null,
+                "Linetype": "BYLAYER",
+                "EntityHand": null,
+                "Text": null
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        55.9406778280292,
+                        54.73479172329054
+                    ],
+                    [
+                        55.94069895340492,
+                        54.734788493922665
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "73",
+            "type": "Feature",
+            "properties": {
+                "Layer": "11_корпус_4_этаж-Слой_окон",
+                "PaperSpace": null,
+                "SubClasses": null,
+                "Linetype": "BYLAYER",
+                "EntityHand": null,
+                "Text": null
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        55.940676964782924,
+                        54.7347898632157
+                    ],
+                    [
+                        55.94069805655294,
+                        54.73478656143601
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "74",
+            "type": "Feature",
+            "properties": {
+                "Layer": "11_корпус_4_этаж-Слой_окон",
+                "PaperSpace": null,
+                "SubClasses": null,
+                "Linetype": "BYLAYER",
+                "EntityHand": null,
+                "Text": null
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        55.94067627586619,
+                        54.73478837877634
+                    ],
+                    [
+                        55.94069738443907,
+                        54.73478511320237
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "75",
+            "type": "Feature",
+            "properties": {
+                "Layer": "11_корпус_4_этаж-Слой_окон",
+                "PaperSpace": null,
+                "SubClasses": null,
+                "Linetype": "BYLAYER",
+                "EntityHand": null,
+                "Text": null
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        55.94067549243345,
+                        54.7347866906791
+                    ],
+                    [
+                        55.940696601006316,
+                        54.734783425104986
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "76",
+            "type": "Feature",
+            "properties": {
+                "Layer": "11_корпус_4_этаж-Слой_окон",
+                "PaperSpace": null,
+                "SubClasses": null,
+                "Linetype": "BYLAYER",
+                "EntityHand": null,
+                "Text": null
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        55.94063497871442,
+                        54.734798507457164
+                    ],
+                    [
+                        55.94065582933579,
+                        54.734795126568855
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "77",
+            "type": "Feature",
+            "properties": {
+                "Layer": "11_корпус_4_этаж-Слой_окон",
+                "PaperSpace": null,
+                "SubClasses": null,
+                "Linetype": "BYLAYER",
+                "EntityHand": null,
+                "Text": null
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        55.940634065059605,
+                        54.73479653876514
+                    ],
+                    [
+                        55.940654999695205,
+                        54.73479333890586
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "78",
+            "type": "Feature",
+            "properties": {
+                "Layer": "11_корпус_4_этаж-Слой_окон",
+                "PaperSpace": null,
+                "SubClasses": null,
+                "Linetype": "BYLAYER",
+                "EntityHand": null,
+                "Text": null
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        55.940633342537176,
+                        54.73479498191438
+                    ],
+                    [
+                        55.94065427717278,
+                        54.734791782054955
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "79",
+            "type": "Feature",
+            "properties": {
+                "Layer": "11_корпус_4_этаж-Слой_окон",
+                "PaperSpace": null,
+                "SubClasses": null,
+                "Linetype": "BYLAYER",
+                "EntityHand": null,
+                "Text": null
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        55.940632609512974,
+                        54.734793402434896
+                    ],
+                    [
+                        55.94065349374003,
+                        54.734790093957876
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "80",
+            "type": "Feature",
+            "properties": {
+                "Layer": "11_корпус_4_этаж-Слой_окон",
+                "PaperSpace": null,
+                "SubClasses": null,
+                "Linetype": "BYLAYER",
+                "EntityHand": null,
+                "Text": null
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        55.94055316800738,
+                        54.73481120267448
+                    ],
+                    [
+                        55.9406116580117,
+                        54.73480199883868
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "81",
+            "type": "Feature",
+            "properties": {
+                "Layer": "11_корпус_4_этаж-Слой_окон",
+                "PaperSpace": null,
+                "SubClasses": null,
+                "Linetype": "BYLAYER",
+                "EntityHand": null,
+                "Text": null
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        55.9405507352259,
+                        54.734806107489874
+                    ],
+                    [
+                        55.94060933921879,
+                        54.73479700243436
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "82",
+            "type": "Feature",
+            "properties": {
+                "Layer": "11_корпус_4_этаж-Слой_окон",
+                "PaperSpace": null,
+                "SubClasses": null,
+                "Linetype": "BYLAYER",
+                "EntityHand": null,
+                "Text": null
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        55.9406100050316,
+                        54.73479843709037
+                    ],
+                    [
+                        55.94055138475848,
+                        54.73480746786219
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "83",
+            "type": "Feature",
+            "properties": {
+                "Layer": "11_корпус_4_этаж-Слой_окон",
+                "PaperSpace": null,
+                "SubClasses": null,
+                "Linetype": "BYLAYER",
+                "EntityHand": null,
+                "Text": null
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        55.94055223002369,
+                        54.73480923817419
+                    ],
+                    [
+                        55.94061082837111,
+                        54.73480021117599
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "84",
+            "type": "Feature",
+            "properties": {
+                "Layer": "11_корпус_4_этаж-Слой_окон",
+                "PaperSpace": null,
+                "SubClasses": null,
+                "Linetype": "BYLAYER",
+                "EntityHand": null,
+                "Text": null
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        55.940454806056074,
+                        54.734826264397526
+                    ],
+                    [
+                        55.94051875440357,
+                        54.734816487776904
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "85",
+            "type": "Feature",
+            "properties": {
+                "Layer": "11_корпус_4_этаж-Слой_окон",
+                "PaperSpace": null,
+                "SubClasses": null,
+                "Linetype": "BYLAYER",
+                "EntityHand": null,
+                "Text": null
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        55.940452390077425,
+                        54.73482120542064
+                    ],
+                    [
+                        55.94051636839928,
+                        54.7348113465511
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "86",
+            "type": "Feature",
+            "properties": {
+                "Layer": "11_корпус_4_этаж-Слой_окон",
+                "PaperSpace": null,
+                "SubClasses": null,
+                "Linetype": "BYLAYER",
+                "EntityHand": null,
+                "Text": null
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        55.940453160019366,
+                        54.73482281765286
+                    ],
+                    [
+                        55.94051713502917,
+                        54.734812998441505
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "87",
+            "type": "Feature",
+            "properties": {
+                "Layer": "11_корпус_4_этаж-Слой_окон",
+                "PaperSpace": null,
+                "SubClasses": null,
+                "Linetype": "BYLAYER",
+                "EntityHand": null,
+                "Text": null
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        55.94045391928712,
+                        54.73482440753365
+                    ],
+                    [
+                        55.94051787435444,
+                        54.734814591497376
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "88",
+            "type": "Feature",
+            "properties": {
+                "Layer": "11_корпус_4_этаж-Слой_окон",
+                "PaperSpace": null,
+                "SubClasses": null,
+                "Linetype": "BYLAYER",
+                "EntityHand": null,
+                "Text": null
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        55.940360258907084,
+                        54.734840735951785
+                    ],
+                    [
+                        55.94042419045173,
+                        54.73483092312884
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "89",
+            "type": "Feature",
+            "properties": {
+                "Layer": "11_корпус_4_этаж-Слой_окон",
+                "PaperSpace": null,
+                "SubClasses": null,
+                "Linetype": "BYLAYER",
+                "EntityHand": null,
+                "Text": null
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        55.94035787653414,
+                        54.73483574938831
+                    ],
+                    [
+                        55.94042182488163,
+                        54.734825972769976
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "90",
+            "type": "Feature",
+            "properties": {
+                "Layer": "11_корпус_4_этаж-Слой_окон",
+                "PaperSpace": null,
+                "SubClasses": null,
+                "Linetype": "BYLAYER",
+                "EntityHand": null,
+                "Text": null
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        55.94035861224166,
+                        54.734837289303556
+                    ],
+                    [
+                        55.940422577867494,
+                        54.734827548521395
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "91",
+            "type": "Feature",
+            "properties": {
+                "Layer": "11_корпус_4_этаж-Слой_окон",
+                "PaperSpace": null,
+                "SubClasses": null,
+                "Linetype": "BYLAYER",
+                "EntityHand": null,
+                "Text": null
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        55.94035937179783,
+                        54.73483887913653
+                    ],
+                    [
+                        55.94042333783015,
+                        54.734829138872826
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "92",
+            "type": "Feature",
+            "properties": {
+                "Layer": "11_корпус_4_этаж-Слой_окон",
+                "PaperSpace": null,
+                "SubClasses": null,
+                "Linetype": "BYLAYER",
+                "EntityHand": null,
+                "Text": null
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        55.94026885715434,
+                        54.73485464328684
+                    ],
+                    [
+                        55.94033341132788,
+                        54.734844850560165
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "93",
+            "type": "Feature",
+            "properties": {
+                "Layer": "11_корпус_4_этаж-Слой_окон",
+                "PaperSpace": null,
+                "SubClasses": null,
+                "Linetype": "BYLAYER",
+                "EntityHand": null,
+                "Text": null
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        55.940266588769965,
+                        54.73484975550638
+                    ],
+                    [
+                        55.94033102532357,
+                        54.73483970933797
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "94",
+            "type": "Feature",
+            "properties": {
+                "Layer": "11_корпус_4_этаж-Слой_окон",
+                "PaperSpace": null,
+                "SubClasses": null,
+                "Linetype": "BYLAYER",
+                "EntityHand": null,
+                "Text": null
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        55.940267254582785,
+                        54.734851190160505
+                    ],
+                    [
+                        55.94033179195348,
+                        54.73484136122723
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "95",
+            "type": "Feature",
+            "properties": {
+                "Layer": "11_корпус_4_этаж-Слой_окон",
+                "PaperSpace": null,
+                "SubClasses": null,
+                "Linetype": "BYLAYER",
+                "EntityHand": null,
+                "Text": null
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        55.94033256488445,
+                        54.734843026693575
+                    ],
+                    [
+                        55.94026802751375,
+                        54.734852855626464
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "96",
+            "type": "Feature",
+            "properties": {
+                "Layer": "11_корпус_4_этаж-Слой_окон",
+                "PaperSpace": null,
+                "SubClasses": null,
+                "Linetype": "BYLAYER",
+                "EntityHand": null,
+                "Text": null
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        55.940180301516165,
+                        54.734868149118846
+                    ],
+                    [
+                        55.94024404413637,
+                        54.734858443140276
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "97",
+            "type": "Feature",
+            "properties": {
+                "Layer": "11_корпус_4_этаж-Слой_окон",
+                "PaperSpace": null,
+                "SubClasses": null,
+                "Linetype": "BYLAYER",
+                "EntityHand": null,
+                "Text": null
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        55.94017798272325,
+                        54.734863152722674
+                    ],
+                    [
+                        55.94024158138053,
+                        54.73485343020924
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "98",
+            "type": "Feature",
+            "properties": {
+                "Layer": "11_корпус_4_этаж-Слой_окон",
+                "PaperSpace": null,
+                "SubClasses": null,
+                "Linetype": "BYLAYER",
+                "EntityHand": null,
+                "Text": null
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        55.94017874935316,
+                        54.73486480461097
+                    ],
+                    [
+                        55.940242408371795,
+                        54.73485511354717
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "99",
+            "type": "Feature",
+            "properties": {
+                "Layer": "11_корпус_4_этаж-Слой_окон",
+                "PaperSpace": null,
+                "SubClasses": null,
+                "Linetype": "BYLAYER",
+                "EntityHand": null,
+                "Text": null
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        55.94009068182017,
+                        54.73488185836481
+                    ],
+                    [
+                        55.94015503026643,
+                        54.73487213627665
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "100",
+            "type": "Feature",
+            "properties": {
+                "Layer": "11_корпус_4_этаж-Слой_окон",
+                "PaperSpace": null,
+                "SubClasses": null,
+                "Linetype": "BYLAYER",
+                "EntityHand": null,
+                "Text": null
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        55.940088189090005,
+                        54.73487692768424
+                    ],
+                    [
+                        55.940152584313445,
+                        54.73486715955307
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "101",
+            "type": "Feature",
+            "properties": {
+                "Layer": "11_корпус_4_этаж-Слой_окон",
+                "PaperSpace": null,
+                "SubClasses": null,
+                "Linetype": "BYLAYER",
+                "EntityHand": null,
+                "Text": null
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        55.94008894613951,
+                        54.73487842514653
+                    ],
+                    [
+                        55.94015326840363,
+                        54.734868551455506
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "102",
+            "type": "Feature",
+            "properties": {
+                "Layer": "11_корпус_4_этаж-Слой_окон",
+                "PaperSpace": null,
+                "SubClasses": null,
+                "Linetype": "BYLAYER",
+                "EntityHand": null,
+                "Text": null
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        55.94015408407329,
+                        54.734870211079595
+                    ],
+                    [
+                        55.940089709957654,
+                        54.73487993599733
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "103",
+            "type": "Feature",
+            "properties": {
+                "Layer": "11_корпус_4_этаж-Слой_окон",
+                "PaperSpace": null,
+                "SubClasses": null,
+                "Linetype": "BYLAYER",
+                "EntityHand": null,
+                "Text": null
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        55.940060002635796,
+                        54.734886526925784
+                    ],
+                    [
+                        55.93999567280807,
+                        54.734896362545754
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "104",
+            "type": "Feature",
+            "properties": {
+                "Layer": "11_корпус_4_этаж-Слой_окон",
+                "PaperSpace": null,
+                "SubClasses": null,
+                "Linetype": "BYLAYER",
+                "EntityHand": null,
+                "Text": null
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        55.939993468003735,
+                        54.73489146493428
+                    ],
+                    [
+                        55.94005766704005,
+                        54.73488149432615
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "105",
+            "type": "Feature",
+            "properties": {
+                "Layer": "11_корпус_4_этаж-Слой_окон",
+                "PaperSpace": null,
+                "SubClasses": null,
+                "Linetype": "BYLAYER",
+                "EntityHand": null,
+                "Text": null
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        55.939994099020346,
+                        54.73489286663429
+                    ],
+                    [
+                        55.94005843366994,
+                        54.73488314621368
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "106",
+            "type": "Feature",
+            "properties": {
+                "Layer": "11_корпус_4_этаж-Слой_окон",
+                "PaperSpace": null,
+                "SubClasses": null,
+                "Linetype": "BYLAYER",
+                "EntityHand": null,
+                "Text": null
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        55.940059206600914,
+                        54.73488481167832
+                    ],
+                    [
+                        55.9399947854182,
+                        54.73489439135465
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "107",
+            "type": "Feature",
+            "properties": {
+                "Layer": "11_корпус_4_этаж-Слой_окон",
+                "PaperSpace": null,
+                "SubClasses": null,
+                "Linetype": "BYLAYER",
+                "EntityHand": null,
+                "Text": null
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        55.939973386188804,
+                        54.73489973274798
+                    ],
+                    [
+                        55.93990972576716,
+                        54.734909542415814
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "108",
+            "type": "Feature",
+            "properties": {
+                "Layer": "11_корпус_4_этаж-Слой_окон",
+                "PaperSpace": null,
+                "SubClasses": null,
+                "Linetype": "BYLAYER",
+                "EntityHand": null,
+                "Text": null
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        55.93990721260278,
+                        54.7349044208739
+                    ],
+                    [
+                        55.93997105059305,
+                        54.73489470014997
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "109",
+            "type": "Feature",
+            "properties": {
+                "Layer": "11_корпус_4_этаж-Слой_окон",
+                "PaperSpace": null,
+                "SubClasses": null,
+                "Linetype": "BYLAYER",
+                "EntityHand": null,
+                "Text": null
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        55.939971766814416,
+                        54.734896243419755
+                    ],
+                    [
+                        55.93990796687278,
+                        54.73490595799005
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "110",
+            "type": "Feature",
+            "properties": {
+                "Layer": "11_корпус_4_этаж-Слой_окон",
+                "PaperSpace": null,
+                "SubClasses": null,
+                "Linetype": "BYLAYER",
+                "EntityHand": null,
+                "Text": null
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        55.93997250613969,
+                        54.73489783647235
+                    ],
+                    [
+                        55.93990874646576,
+                        54.73490754671152
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "111",
+            "type": "Feature",
+            "properties": {
+                "Layer": "11_корпус_4_этаж-Слой_окон",
+                "PaperSpace": null,
+                "SubClasses": null,
+                "Linetype": "BYLAYER",
+                "EntityHand": null,
+                "Text": null
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        55.93984298704446,
+                        54.734890840828406
+                    ],
+                    [
+                        55.939826938971514,
+                        54.73485552723545
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "112",
+            "type": "Feature",
+            "properties": {
+                "Layer": "11_корпус_4_этаж-Слой_окон",
+                "PaperSpace": null,
+                "SubClasses": null,
+                "Linetype": "BYLAYER",
+                "EntityHand": null,
+                "Text": null
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        55.939833988653305,
+                        54.73489215529866
+                    ],
+                    [
+                        55.93981829208624,
+                        54.73485686493815
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "113",
+            "type": "Feature",
+            "properties": {
+                "Layer": "11_корпус_4_этаж-Слой_окон",
+                "PaperSpace": null,
+                "SubClasses": null,
+                "Linetype": "BYLAYER",
+                "EntityHand": null,
+                "Text": null
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        55.93982077965526,
+                        54.734856480102714
+                    ],
+                    [
+                        55.93983686668345,
+                        54.734891734880726
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "114",
+            "type": "Feature",
+            "properties": {
+                "Layer": "11_корпус_4_этаж-Слой_окон",
+                "PaperSpace": null,
+                "SubClasses": null,
+                "Linetype": "BYLAYER",
+                "EntityHand": null,
+                "Text": null
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        55.93982345001689,
+                        54.73485606698866
+                    ],
+                    [
+                        55.93983954829162,
+                        54.7348913431558
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "115",
+            "type": "Feature",
+            "properties": {
+                "Layer": "11_корпус_4_этаж-Слой_окон",
+                "PaperSpace": null,
+                "SubClasses": null,
+                "Linetype": "BYLAYER",
+                "EntityHand": null,
+                "Text": null
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        55.93980963997385,
+                        54.73483895604896
+                    ],
+                    [
+                        55.939802382959556,
+                        54.73482339247296
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "116",
+            "type": "Feature",
+            "properties": {
+                "Layer": "11_корпус_4_этаж-Слой_окон",
+                "PaperSpace": null,
+                "SubClasses": null,
+                "Linetype": "BYLAYER",
+                "EntityHand": null,
+                "Text": null
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        55.93981854117928,
+                        54.73483757900148
+                    ],
+                    [
+                        55.939811300967826,
+                        54.73482205163072
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "117",
+            "type": "Feature",
+            "properties": {
+                "Layer": "11_корпус_4_этаж-Слой_окон",
+                "PaperSpace": null,
+                "SubClasses": null,
+                "Linetype": "BYLAYER",
+                "EntityHand": null,
+                "Text": null
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        55.939805925490916,
+                        54.73482285984554
+                    ],
+                    [
+                        55.93981314482349,
+                        54.73483841383652
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "118",
+            "type": "Feature",
+            "properties": {
+                "Layer": "11_корпус_4_этаж-Слой_окон",
+                "PaperSpace": null,
+                "SubClasses": null,
+                "Linetype": "BYLAYER",
+                "EntityHand": null,
+                "Text": null
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        55.939815560864965,
+                        54.73483804006649
+                    ],
+                    [
+                        55.939808281833535,
+                        54.73482250556424
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "119",
+            "type": "Feature",
+            "properties": {
+                "Layer": "11_корпус_4_этаж-Слой_окон",
+                "PaperSpace": null,
+                "SubClasses": null,
+                "Linetype": "BYLAYER",
+                "EntityHand": null,
+                "Text": null
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        55.9397967708086,
+                        54.734811299731604
+                    ],
+                    [
+                        55.9397893548442,
+                        54.734795760735125
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "120",
+            "type": "Feature",
+            "properties": {
+                "Layer": "11_корпус_4_этаж-Слой_окон",
+                "PaperSpace": null,
+                "SubClasses": null,
+                "Linetype": "BYLAYER",
+                "EntityHand": null,
+                "Text": null
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        55.9397981792981,
+                        54.73479451197575
+                    ],
+                    [
+                        55.93980567201403,
+                        54.73480992268315
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "121",
+            "type": "Feature",
+            "properties": {
+                "Layer": "11_корпус_4_этаж-Слой_окон",
+                "PaperSpace": null,
+                "SubClasses": null,
+                "Linetype": "BYLAYER",
+                "EntityHand": null,
+                "Text": null
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        55.93979284980023,
+                        54.734795266159615
+                    ],
+                    [
+                        55.939800180288174,
+                        54.734810772272866
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "122",
+            "type": "Feature",
+            "properties": {
+                "Layer": "11_корпус_4_этаж-Слой_окон",
+                "PaperSpace": null,
+                "SubClasses": null,
+                "Linetype": "BYLAYER",
+                "EntityHand": null,
+                "Text": null
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        55.939795338466645,
+                        54.73479491398532
+                    ],
+                    [
+                        55.93980246916957,
+                        54.73481041817469
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "123",
+            "type": "Feature",
+            "properties": {
+                "Layer": "11_корпус_4_этаж-Слой_окон",
+                "PaperSpace": null,
+                "SubClasses": null,
+                "Linetype": "BYLAYER",
+                "EntityHand": null,
+                "Text": null
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        55.93978415550173,
+                        54.7347842638127
+                    ],
+                    [
+                        55.93977707424038,
+                        54.73476871183134
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "124",
+            "type": "Feature",
+            "properties": {
+                "Layer": "11_корпус_4_этаж-Слой_окон",
+                "PaperSpace": null,
+                "SubClasses": null,
+                "Linetype": "BYLAYER",
+                "EntityHand": null,
+                "Text": null
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        55.93978567434846,
+                        54.734767420167685
+                    ],
+                    [
+                        55.939793009929964,
+                        54.734782932805224
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "125",
+            "type": "Feature",
+            "properties": {
+                "Layer": "11_корпус_4_этаж-Слой_окон",
+                "PaperSpace": null,
+                "SubClasses": null,
+                "Linetype": "BYLAYER",
+                "EntityHand": null,
+                "Text": null
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        55.93978757023298,
+                        54.734783750506516
+                    ],
+                    [
+                        55.93978049003995,
+                        54.73476819880709
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "126",
+            "type": "Feature",
+            "properties": {
+                "Layer": "11_корпус_4_этаж-Слой_окон",
+                "PaperSpace": null,
+                "SubClasses": null,
+                "Linetype": "BYLAYER",
+                "EntityHand": null,
+                "Text": null
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        55.939782592176385,
+                        54.734767883083904
+                    ],
+                    [
+                        55.939789736846876,
+                        54.73478342481871
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "127",
+            "type": "Feature",
+            "properties": {
+                "Layer": "11_корпус_4_этаж-Слой_окон",
+                "PaperSpace": null,
+                "SubClasses": null,
+                "Linetype": "BYLAYER",
+                "EntityHand": null,
+                "Text": null
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        55.939769856278794,
+                        54.73475345262941
+                    ],
+                    [
+                        55.93975388200299,
+                        54.73471822451343
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "128",
+            "type": "Feature",
+            "properties": {
+                "Layer": "11_корпус_4_этаж-Слой_окон",
+                "PaperSpace": null,
+                "SubClasses": null,
+                "Linetype": "BYLAYER",
+                "EntityHand": null,
+                "Text": null
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        55.93977871070703,
+                        54.73475212162094
+                    ],
+                    [
+                        55.93976273643123,
+                        54.73471689350379
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "129",
+            "type": "Feature",
+            "properties": {
+                "Layer": "11_корпус_4_этаж-Слой_окон",
+                "PaperSpace": null,
+                "SubClasses": null,
+                "Linetype": "BYLAYER",
+                "EntityHand": null,
+                "Text": null
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        55.93977282557182,
+                        54.734753006281665
+                    ],
+                    [
+                        55.93975675552655,
+                        54.73471779256148
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "130",
+            "type": "Feature",
+            "properties": {
+                "Layer": "11_корпус_4_этаж-Слой_окон",
+                "PaperSpace": null,
+                "SubClasses": null,
+                "Linetype": "BYLAYER",
+                "EntityHand": null,
+                "Text": null
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        55.93975917782289,
+                        54.734717428438636
+                    ],
+                    [
+                        55.93977537615517,
+                        54.73475262287486
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "131",
+            "type": "Feature",
+            "properties": {
+                "Layer": "11_корпус_4_этаж-Слой_окон",
+                "PaperSpace": null,
+                "SubClasses": null,
+                "Linetype": "BYLAYER",
+                "EntityHand": null,
+                "Text": null
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        55.939631205149865,
+                        54.73473401136196
+                    ],
+                    [
+                        55.93965794384903,
+                        54.7347298456771
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "132",
+            "type": "Feature",
+            "properties": {
+                "Layer": "11_корпус_4_этаж-Слой_окон",
+                "PaperSpace": null,
+                "SubClasses": null,
+                "Linetype": "BYLAYER",
+                "EntityHand": null,
+                "Text": null
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        55.93962894993699,
+                        54.73472900511316
+                    ],
+                    [
+                        55.939655484724554,
+                        54.734724987389825
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "133",
+            "type": "Feature",
+            "properties": {
+                "Layer": "11_корпус_4_этаж-Слой_окон",
+                "PaperSpace": null,
+                "SubClasses": null,
+                "Linetype": "BYLAYER",
+                "EntityHand": null,
+                "Text": null
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        55.93962964216881,
+                        54.73473054176849
+                    ],
+                    [
+                        55.939656233518626,
+                        54.73472646671993
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "134",
+            "type": "Feature",
+            "properties": {
+                "Layer": "11_корпус_4_этаж-Слой_окон",
+                "PaperSpace": null,
+                "SubClasses": null,
+                "Linetype": "BYLAYER",
+                "EntityHand": null,
+                "Text": null
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        55.939630443011296,
+                        54.73473231952386
+                    ],
+                    [
+                        55.93965712688458,
+                        54.7347282316686
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "135",
+            "type": "Feature",
+            "properties": {
+                "Layer": "11_корпус_4_этаж-Слой_окон",
+                "PaperSpace": null,
+                "SubClasses": null,
+                "Linetype": "BYLAYER",
+                "EntityHand": null,
+                "Text": null
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        55.93952550511968,
+                        54.734753157548084
+                    ],
+                    [
+                        55.93954176130495,
+                        54.73478833231996
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "136",
+            "type": "Feature",
+            "properties": {
+                "Layer": "11_корпус_4_этаж-Слой_окон",
+                "PaperSpace": null,
+                "SubClasses": null,
+                "Linetype": "BYLAYER",
+                "EntityHand": null,
+                "Text": null
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        55.93955039138738,
+                        54.73478695840913
+                    ],
+                    [
+                        55.93953440632511,
+                        54.734751780497675
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "137",
+            "type": "Feature",
+            "properties": {
+                "Layer": "11_корпус_4_этаж-Слой_окон",
+                "PaperSpace": null,
+                "SubClasses": null,
+                "Linetype": "BYLAYER",
+                "EntityHand": null,
+                "Text": null
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        55.93952839006394,
+                        54.73475271123621
+                    ],
+                    [
+                        55.939544449621614,
+                        54.73478790433943
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "138",
+            "type": "Feature",
+            "properties": {
+                "Layer": "11_корпус_4_этаж-Слой_окон",
+                "PaperSpace": null,
+                "SubClasses": null,
+                "Linetype": "BYLAYER",
+                "EntityHand": null,
+                "Text": null
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        55.93954724246802,
+                        54.73478745971771
+                    ],
+                    [
+                        55.93953093326549,
+                        54.73475231779323
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "139",
+            "type": "Feature",
+            "properties": {
+                "Layer": "11_корпус_4_этаж-Слой_окон",
+                "PaperSpace": null,
+                "SubClasses": null,
+                "Linetype": "BYLAYER",
+                "EntityHand": null,
+                "Text": null
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        55.939568103399225,
+                        54.73484523959108
+                    ],
+                    [
+                        55.93955183824318,
+                        54.7348101923736
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "140",
+            "type": "Feature",
+            "properties": {
+                "Layer": "11_корпус_4_этаж-Слой_окон",
+                "PaperSpace": null,
+                "SubClasses": null,
+                "Linetype": "BYLAYER",
+                "EntityHand": null,
+                "Text": null
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        55.93956057209707,
+                        54.73480882181234
+                    ],
+                    [
+                        55.939576989617485,
+                        54.73484390366759
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "141",
+            "type": "Feature",
+            "properties": {
+                "Layer": "11_корпус_4_этаж-Слой_окон",
+                "PaperSpace": null,
+                "SubClasses": null,
+                "Linetype": "BYLAYER",
+                "EntityHand": null,
+                "Text": null
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        55.939570866547456,
+                        54.73484482418889
+                    ],
+                    [
+                        55.939554846824315,
+                        54.73480972025158
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "142",
+            "type": "Feature",
+            "properties": {
+                "Layer": "11_корпус_4_этаж-Слой_окон",
+                "PaperSpace": null,
+                "SubClasses": null,
+                "Linetype": "BYLAYER",
+                "EntityHand": null,
+                "Text": null
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        55.93955719744415,
+                        54.734809351380214
+                    ],
+                    [
+                        55.93957360508739,
+                        54.73484441248621
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "143",
+            "type": "Feature",
+            "properties": {
+                "Layer": "11_корпус_4_этаж-Слой_окон",
+                "PaperSpace": null,
+                "SubClasses": null,
+                "Linetype": "BYLAYER",
+                "EntityHand": null,
+                "Text": null
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        55.939575961684675,
+                        54.734861951907384
+                    ],
+                    [
+                        55.93959230846993,
+                        54.73489724838687
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "144",
+            "type": "Feature",
+            "properties": {
+                "Layer": "11_корпус_4_этаж-Слой_окон",
+                "PaperSpace": null,
+                "SubClasses": null,
+                "Linetype": "BYLAYER",
+                "EntityHand": null,
+                "Text": null
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        55.939601037046046,
+                        54.73489573797621
+                    ],
+                    [
+                        55.9395847273286,
+                        54.734860576429874
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "145",
+            "type": "Feature",
+            "properties": {
+                "Layer": "11_корпус_4_этаж-Слой_окон",
+                "PaperSpace": null,
+                "SubClasses": null,
+                "Linetype": "BYLAYER",
+                "EntityHand": null,
+                "Text": null
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        55.93958135266452,
+                        54.73486110597162
+                    ],
+                    [
+                        55.939597613809376,
+                        54.73489643948304
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "146",
+            "type": "Feature",
+            "properties": {
+                "Layer": "11_корпус_4_этаж-Слой_окон",
+                "PaperSpace": null,
+                "SubClasses": null,
+                "Linetype": "BYLAYER",
+                "EntityHand": null,
+                "Text": null
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        55.93959519568738,
+                        54.734896808173524
+                    ],
+                    [
+                        55.93957874863614,
+                        54.73486151458766
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "147",
+            "type": "Feature",
+            "properties": {
+                "Layer": "11_корпус_4_этаж-Слой_окон",
+                "PaperSpace": null,
+                "SubClasses": null,
+                "Linetype": "BYLAYER",
+                "EntityHand": null,
+                "Text": null
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        55.93960418808761,
+                        54.7349028029608
+                    ],
+                    [
+                        55.939620429285696,
+                        54.73493801872646
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "148",
+            "type": "Feature",
+            "properties": {
+                "Layer": "11_корпус_4_этаж-Слой_окон",
+                "PaperSpace": null,
+                "SubClasses": null,
+                "Linetype": "BYLAYER",
+                "EntityHand": null,
+                "Text": null
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        55.93961138411735,
+                        54.73493937923689
+                    ],
+                    [
+                        55.93959550101089,
+                        54.734904127477094
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "149",
+            "type": "Feature",
+            "properties": {
+                "Layer": "11_корпус_4_этаж-Слой_окон",
+                "PaperSpace": null,
+                "SubClasses": null,
+                "Linetype": "BYLAYER",
+                "EntityHand": null,
+                "Text": null
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        55.93959819821317,
+                        54.73490371623537
+                    ],
+                    [
+                        55.939614401300176,
+                        54.734938925413545
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "150",
+            "type": "Feature",
+            "properties": {
+                "Layer": "11_корпус_4_этаж-Слой_окон",
+                "PaperSpace": null,
+                "SubClasses": null,
+                "Linetype": "BYLAYER",
+                "EntityHand": null,
+                "Text": null
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        55.93961694911201,
+                        54.73493854218965
+                    ],
+                    [
+                        55.93960087044464,
+                        54.734903308800945
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "151",
+            "type": "Feature",
+            "properties": {
+                "Layer": "11_корпус_4_этаж-Слой_окон",
+                "PaperSpace": null,
+                "SubClasses": null,
+                "Linetype": "BYLAYER",
+                "EntityHand": null,
+                "Text": null
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        55.939620834580154,
+                        54.73496003615463
+                    ],
+                    [
+                        55.939637004366155,
+                        54.73499509799654
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "152",
+            "type": "Feature",
+            "properties": {
+                "Layer": "11_корпус_4_этаж-Слой_окон",
+                "PaperSpace": null,
+                "SubClasses": null,
+                "Linetype": "BYLAYER",
+                "EntityHand": null,
+                "Text": null
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        55.9396460495345,
+                        54.73499373748794
+                    ],
+                    [
+                        55.939629846142815,
+                        54.73495860323351
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "153",
+            "type": "Feature",
+            "properties": {
+                "Layer": "11_корпус_4_этаж-Слой_окон",
+                "PaperSpace": null,
+                "SubClasses": null,
+                "Linetype": "BYLAYER",
+                "EntityHand": null,
+                "Text": null
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        55.93962656960107,
+                        54.734959124233704
+                    ],
+                    [
+                        55.93964253794951,
+                        54.7349942656751
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "154",
+            "type": "Feature",
+            "properties": {
+                "Layer": "11_корпус_4_этаж-Слой_окон",
+                "PaperSpace": null,
+                "SubClasses": null,
+                "Linetype": "BYLAYER",
+                "EntityHand": null,
+                "Text": null
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        55.93963998970134,
+                        54.7349946489641
+                    ],
+                    [
+                        55.9396238404445,
+                        54.734959558194646
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "155",
+            "type": "Feature",
+            "properties": {
+                "Layer": "11_корпус_4_этаж-Слой_окон",
+                "PaperSpace": null,
+                "SubClasses": null,
+                "Linetype": "BYLAYER",
+                "EntityHand": null,
+                "Text": null
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        55.939644911244464,
+                        54.73501184153866
+                    ],
+                    [
+                        55.93966136123184,
+                        54.7350472868434
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "156",
+            "type": "Feature",
+            "properties": {
+                "Layer": "11_корпус_4_этаж-Слой_окон",
+                "PaperSpace": null,
+                "SubClasses": null,
+                "Linetype": "BYLAYER",
+                "EntityHand": null,
+                "Text": null
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        55.93967027924011,
+                        54.73504594600859
+                    ],
+                    [
+                        55.93965371889551,
+                        54.73501055658034
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "157",
+            "type": "Feature",
+            "properties": {
+                "Layer": "11_корпус_4_этаж-Слой_окон",
+                "PaperSpace": null,
+                "SubClasses": null,
+                "Linetype": "BYLAYER",
+                "EntityHand": null,
+                "Text": null
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        55.939650391085344,
+                        54.735011042078376
+                    ],
+                    [
+                        55.93966689406996,
+                        54.73504645497357
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "158",
+            "type": "Feature",
+            "properties": {
+                "Layer": "11_корпус_4_этаж-Слой_окон",
+                "PaperSpace": null,
+                "SubClasses": null,
+                "Linetype": "BYLAYER",
+                "EntityHand": null,
+                "Text": null
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        55.9396478377649,
+                        54.73501141458525
+                    ],
+                    [
+                        55.939664220128044,
+                        54.735046857004434
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "159",
+            "type": "Feature",
+            "properties": {
+                "Layer": "11_корпус_4_этаж-Слой_окон",
+                "PaperSpace": null,
+                "SubClasses": null,
+                "Linetype": "BYLAYER",
+                "EntityHand": null,
+                "Text": null
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        55.939934369877015,
+                        54.734981438744065
+                    ],
+                    [
+                        55.93993971136675,
+                        54.73499287481482
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "160",
+            "type": "Feature",
+            "properties": {
+                "Layer": "11_корпус_4_этаж-Слой_окон",
+                "PaperSpace": null,
+                "SubClasses": null,
+                "Linetype": "BYLAYER",
+                "EntityHand": null,
+                "Text": null
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        55.93993631889276,
+                        54.73498115025974
+                    ],
+                    [
+                        55.93994154940632,
+                        54.734992590464785
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "161",
+            "type": "Feature",
+            "properties": {
+                "Layer": "11_корпус_4_этаж-Слой_окон",
+                "PaperSpace": null,
+                "SubClasses": null,
+                "Linetype": "BYLAYER",
+                "EntityHand": null,
+                "Text": null
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        55.93993816749313,
+                        54.734980876638424
+                    ],
+                    [
+                        55.93994346660868,
+                        54.73499229386801
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "162",
+            "type": "Feature",
+            "properties": {
+                "Layer": "11_корпус_4_этаж-Слой_окон",
+                "PaperSpace": null,
+                "SubClasses": null,
+                "Linetype": "BYLAYER",
+                "EntityHand": null,
+                "Text": null
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        55.93994017246338,
+                        54.73498057987199
+                    ],
+                    [
+                        55.93994543357022,
+                        54.73499198957337
+                    ]
+                ]
+            }
+        }
+    ]
+}

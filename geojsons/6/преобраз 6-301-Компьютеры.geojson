@@ -1,0 +1,509 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": "0",
+            "type": "Feature",
+            "properties": {
+                "Инвен": "427007",
+                "Корпу": 6.0,
+                "Аудит": "301",
+                "Имя к?": "301-04",
+                "Домен": "в",
+                "IP-адр?": "172.20.31.4",
+                "Основ": null,
+                "MAC-адр": "00:17:31:b4:5b:10",
+                "ОС": "Майкрософт Windows 10 Pro",
+                "Харак": "Athlon 64 Processor 3000+/HDD 75 Гб/ОЗУ 1 Гб",
+                "Состо": null,
+                "Монит": "19",
+                "Доп. м": "Нет",
+                "Ответ": "Золотарёва С.Ю.",
+                "Кафед": "ГИС",
+                "Дата": "30.01.2006",
+                "Выпол": null,
+                "Сокет": null,
+                "RAM": null,
+                "Проце": "Athlon 64 Processor 3000",
+                "Мат.п?": null,
+                "Видео": null,
+                "Опера": "ОЗУ 1 Гб"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.94131866482811,
+                    54.724969731017346
+                ]
+            }
+        },
+        {
+            "id": "1",
+            "type": "Feature",
+            "properties": {
+                "Инвен": null,
+                "Корпу": null,
+                "Аудит": null,
+                "Имя к?": null,
+                "Домен": null,
+                "IP-адр?": null,
+                "Основ": null,
+                "MAC-адр": null,
+                "ОС": null,
+                "Харак": null,
+                "Состо": null,
+                "Монит": null,
+                "Доп. м": null,
+                "Ответ": null,
+                "Кафед": null,
+                "Дата": null,
+                "Выпол": null,
+                "Сокет": null,
+                "RAM": null,
+                "Проце": null,
+                "Мат.п?": null,
+                "Видео": null,
+                "Опера": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.94131313036333,
+                    54.7249573521065
+                ]
+            }
+        },
+        {
+            "id": "2",
+            "type": "Feature",
+            "properties": {
+                "Инвен": null,
+                "Корпу": null,
+                "Аудит": null,
+                "Имя к?": null,
+                "Домен": null,
+                "IP-адр?": null,
+                "Основ": null,
+                "MAC-адр": null,
+                "ОС": null,
+                "Харак": null,
+                "Состо": null,
+                "Монит": null,
+                "Доп. м": null,
+                "Ответ": null,
+                "Кафед": null,
+                "Дата": null,
+                "Выпол": null,
+                "Сокет": null,
+                "RAM": null,
+                "Проце": null,
+                "Мат.п?": null,
+                "Видео": null,
+                "Опера": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.94130664695511,
+                    54.724944928190496
+                ]
+            }
+        },
+        {
+            "id": "3",
+            "type": "Feature",
+            "properties": {
+                "Инвен": null,
+                "Корпу": null,
+                "Аудит": null,
+                "Имя к?": null,
+                "Домен": null,
+                "IP-адр?": null,
+                "Основ": null,
+                "MAC-адр": null,
+                "ОС": null,
+                "Харак": null,
+                "Состо": null,
+                "Монит": null,
+                "Доп. м": null,
+                "Ответ": null,
+                "Кафед": null,
+                "Дата": null,
+                "Выпол": null,
+                "Сокет": null,
+                "RAM": null,
+                "Проце": null,
+                "Мат.п?": null,
+                "Видео": null,
+                "Опера": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.94130187298973,
+                    54.72493340046997
+                ]
+            }
+        },
+        {
+            "id": "4",
+            "type": "Feature",
+            "properties": {
+                "Инвен": null,
+                "Корпу": null,
+                "Аудит": null,
+                "Имя к?": null,
+                "Домен": null,
+                "IP-адр?": null,
+                "Основ": null,
+                "MAC-адр": null,
+                "ОС": null,
+                "Харак": null,
+                "Состо": null,
+                "Монит": null,
+                "Доп. м": null,
+                "Ответ": null,
+                "Кафед": null,
+                "Дата": null,
+                "Выпол": null,
+                "Сокет": null,
+                "RAM": null,
+                "Проце": null,
+                "Мат.п?": null,
+                "Видео": null,
+                "Опера": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.94129639551952,
+                    54.72492166159148
+                ]
+            }
+        },
+        {
+            "id": "5",
+            "type": "Feature",
+            "properties": {
+                "Инвен": null,
+                "Корпу": null,
+                "Аудит": null,
+                "Имя к?": null,
+                "Домен": null,
+                "IP-адр?": null,
+                "Основ": null,
+                "MAC-адр": null,
+                "ОС": null,
+                "Харак": null,
+                "Состо": null,
+                "Монит": null,
+                "Доп. м": null,
+                "Ответ": null,
+                "Кафед": null,
+                "Дата": null,
+                "Выпол": null,
+                "Сокет": null,
+                "RAM": null,
+                "Проце": null,
+                "Мат.п?": null,
+                "Видео": null,
+                "Опера": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.94126392866877,
+                    54.724924779845786
+                ]
+            }
+        },
+        {
+            "id": "6",
+            "type": "Feature",
+            "properties": {
+                "Инвен": null,
+                "Корпу": null,
+                "Аудит": null,
+                "Имя к?": null,
+                "Домен": null,
+                "IP-адр?": null,
+                "Основ": null,
+                "MAC-адр": null,
+                "ОС": null,
+                "Харак": null,
+                "Состо": null,
+                "Монит": null,
+                "Доп. м": null,
+                "Ответ": null,
+                "Кафед": null,
+                "Дата": null,
+                "Выпол": null,
+                "Сокет": null,
+                "RAM": null,
+                "Проце": null,
+                "Мат.п?": null,
+                "Видео": null,
+                "Опера": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.94125876434457,
+                    54.72491258205549
+                ]
+            }
+        },
+        {
+            "id": "7",
+            "type": "Feature",
+            "properties": {
+                "Инвен": null,
+                "Корпу": null,
+                "Аудит": null,
+                "Имя к?": null,
+                "Домен": null,
+                "IP-адр?": null,
+                "Основ": null,
+                "MAC-адр": null,
+                "ОС": null,
+                "Харак": null,
+                "Состо": null,
+                "Монит": null,
+                "Доп. м": null,
+                "Ответ": null,
+                "Кафед": null,
+                "Дата": null,
+                "Выпол": null,
+                "Сокет": null,
+                "RAM": null,
+                "Проце": null,
+                "Мат.п?": null,
+                "Видео": null,
+                "Опера": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.94121586270536,
+                    54.72492601537912
+                ]
+            }
+        },
+        {
+            "id": "8",
+            "type": "Feature",
+            "properties": {
+                "Инвен": null,
+                "Корпу": null,
+                "Аудит": null,
+                "Имя к?": null,
+                "Домен": null,
+                "IP-адр?": null,
+                "Основ": null,
+                "MAC-адр": null,
+                "ОС": null,
+                "Харак": null,
+                "Состо": null,
+                "Монит": null,
+                "Доп. м": null,
+                "Ответ": null,
+                "Кафед": null,
+                "Дата": null,
+                "Выпол": null,
+                "Сокет": null,
+                "RAM": null,
+                "Проце": null,
+                "Мат.п?": null,
+                "Видео": null,
+                "Опера": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.94122060265216,
+                    54.72493742092416
+                ]
+            }
+        },
+        {
+            "id": "9",
+            "type": "Feature",
+            "properties": {
+                "Инвен": null,
+                "Корпу": null,
+                "Аудит": null,
+                "Имя к?": null,
+                "Домен": null,
+                "IP-адр?": null,
+                "Основ": null,
+                "MAC-адр": null,
+                "ОС": null,
+                "Харак": null,
+                "Состо": null,
+                "Монит": null,
+                "Доп. м": null,
+                "Ответ": null,
+                "Кафед": null,
+                "Дата": null,
+                "Выпол": null,
+                "Сокет": null,
+                "RAM": null,
+                "Проце": null,
+                "Мат.п?": null,
+                "Видео": null,
+                "Опера": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.94122652758564,
+                    54.72494859835518
+                ]
+            }
+        },
+        {
+            "id": "10",
+            "type": "Feature",
+            "properties": {
+                "Инвен": null,
+                "Корпу": null,
+                "Аудит": null,
+                "Имя к?": null,
+                "Домен": null,
+                "IP-адр?": null,
+                "Основ": null,
+                "MAC-адр": null,
+                "ОС": null,
+                "Харак": null,
+                "Состо": null,
+                "Монит": null,
+                "Доп. м": null,
+                "Ответ": null,
+                "Кафед": null,
+                "Дата": null,
+                "Выпол": null,
+                "Сокет": null,
+                "RAM": null,
+                "Проце": null,
+                "Мат.п?": null,
+                "Видео": null,
+                "Опера": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.94123107003464,
+                    54.72495966172775
+                ]
+            }
+        },
+        {
+            "id": "11",
+            "type": "Feature",
+            "properties": {
+                "Инвен": null,
+                "Корпу": null,
+                "Аудит": null,
+                "Имя к?": null,
+                "Домен": null,
+                "IP-адр?": null,
+                "Основ": null,
+                "MAC-адр": null,
+                "ОС": null,
+                "Харак": null,
+                "Состо": null,
+                "Монит": null,
+                "Доп. м": null,
+                "Ответ": null,
+                "Кафед": null,
+                "Дата": null,
+                "Выпол": null,
+                "Сокет": null,
+                "RAM": null,
+                "Проце": null,
+                "Мат.п?": null,
+                "Видео": null,
+                "Опера": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.94123699496812,
+                    54.72497072509732
+                ]
+            }
+        },
+        {
+            "id": "12",
+            "type": "Feature",
+            "properties": {
+                "Инвен": null,
+                "Корпу": null,
+                "Аудит": null,
+                "Имя к?": null,
+                "Домен": null,
+                "IP-адр?": null,
+                "Основ": null,
+                "MAC-адр": null,
+                "ОС": null,
+                "Харак": null,
+                "Состо": null,
+                "Монит": null,
+                "Доп. м": null,
+                "Ответ": null,
+                "Кафед": null,
+                "Дата": null,
+                "Выпол": null,
+                "Сокет": null,
+                "RAM": null,
+                "Проце": null,
+                "Мат.п?": null,
+                "Видео": null,
+                "Опера": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.9412805432292,
+                    54.72498529566456
+                ]
+            }
+        },
+        {
+            "id": "13",
+            "type": "Feature",
+            "properties": {
+                "Инвен": null,
+                "Корпу": null,
+                "Аудит": null,
+                "Имя к?": null,
+                "Домен": null,
+                "IP-адр?": null,
+                "Основ": null,
+                "MAC-адр": null,
+                "ОС": null,
+                "Харак": null,
+                "Состо": null,
+                "Монит": null,
+                "Доп. м": null,
+                "Ответ": null,
+                "Кафед": null,
+                "Дата": null,
+                "Выпол": null,
+                "Сокет": null,
+                "RAM": null,
+                "Проце": null,
+                "Мат.п?": null,
+                "Видео": null,
+                "Опера": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.94129476306955,
+                    54.724983584835016
+                ]
+            }
+        }
+    ]
+}

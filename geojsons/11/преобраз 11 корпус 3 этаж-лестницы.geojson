@@ -1,0 +1,2836 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": "0",
+            "type": "Feature",
+            "properties": {
+                "Layer": "11_корпус_3_этаж-лестницы",
+                "PaperSpace": null,
+                "SubClasses": null,
+                "Linetype": "BYLAYER",
+                "EntityHand": null,
+                "Text": null
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        55.93978777527088,
+                        54.73507769681844
+                    ],
+                    [
+                        55.93981197641641,
+                        54.73507378379596
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "1",
+            "type": "Feature",
+            "properties": {
+                "Layer": "11_корпус_3_этаж-лестницы",
+                "PaperSpace": null,
+                "SubClasses": null,
+                "Linetype": "BYLAYER",
+                "EntityHand": null,
+                "Text": null
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        55.93978706076117,
+                        54.73507617556567
+                    ],
+                    [
+                        55.93981110971953,
+                        54.73507234217541
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "2",
+            "type": "Feature",
+            "properties": {
+                "Layer": "11_корпус_3_этаж-лестницы",
+                "PaperSpace": null,
+                "SubClasses": null,
+                "Linetype": "BYLAYER",
+                "EntityHand": null,
+                "Text": null
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        55.939786050486,
+                        54.735074024602675
+                    ],
+                    [
+                        55.939810227224086,
+                        54.73507022769851
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "3",
+            "type": "Feature",
+            "properties": {
+                "Layer": "11_корпус_3_этаж-лестницы",
+                "PaperSpace": null,
+                "SubClasses": null,
+                "Linetype": "BYLAYER",
+                "EntityHand": null,
+                "Text": null
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        55.9397851141334,
+                        54.73507203102708
+                    ],
+                    [
+                        55.9398092768924,
+                        54.73506817999094
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "4",
+            "type": "Feature",
+            "properties": {
+                "Layer": "11_корпус_3_этаж-лестницы",
+                "PaperSpace": null,
+                "SubClasses": null,
+                "Linetype": "BYLAYER",
+                "EntityHand": null,
+                "Text": null
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        55.93978405457652,
+                        54.73506977513883
+                    ],
+                    [
+                        55.93980811778576,
+                        54.73506610830629
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "5",
+            "type": "Feature",
+            "properties": {
+                "Layer": "11_корпус_3_этаж-лестницы",
+                "PaperSpace": null,
+                "SubClasses": null,
+                "Linetype": "BYLAYER",
+                "EntityHand": null,
+                "Text": null
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        55.93978304422619,
+                        54.73506762401546
+                    ],
+                    [
+                        55.93980730312658,
+                        54.73506392705956
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "6",
+            "type": "Feature",
+            "properties": {
+                "Layer": "11_корпус_3_этаж-лестницы",
+                "PaperSpace": null,
+                "SubClasses": null,
+                "Linetype": "BYLAYER",
+                "EntityHand": null,
+                "Text": null
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        55.93978208323274,
+                        54.735065577977046
+                    ],
+                    [
+                        55.93980591087752,
+                        54.73506177889234
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "7",
+            "type": "Feature",
+            "properties": {
+                "Layer": "11_корпус_3_этаж-лестницы",
+                "PaperSpace": null,
+                "SubClasses": null,
+                "Linetype": "BYLAYER",
+                "EntityHand": null,
+                "Text": null
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        55.939781072957565,
+                        54.73506342701346
+                    ],
+                    [
+                        55.93980523715703,
+                        54.73505968839186
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "8",
+            "type": "Feature",
+            "properties": {
+                "Layer": "11_корпус_3_этаж-лестницы",
+                "PaperSpace": null,
+                "SubClasses": null,
+                "Linetype": "BYLAYER",
+                "EntityHand": null,
+                "Text": null
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        55.93978013660497,
+                        54.73506143343738
+                    ],
+                    [
+                        55.93980382580666,
+                        54.7350577120046
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "9",
+            "type": "Feature",
+            "properties": {
+                "Layer": "11_корпус_3_этаж-лестницы",
+                "PaperSpace": null,
+                "SubClasses": null,
+                "Linetype": "BYLAYER",
+                "EntityHand": null,
+                "Text": null
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        55.93977944519386,
+                        54.735058838822575
+                    ],
+                    [
+                        55.939802724003926,
+                        54.73505512497887
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "10",
+            "type": "Feature",
+            "properties": {
+                "Layer": "11_корпус_3_этаж-лестницы",
+                "PaperSpace": null,
+                "SubClasses": null,
+                "Linetype": "BYLAYER",
+                "EntityHand": null,
+                "Text": null
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        55.939820104171595,
+                        54.73508724617118
+                    ],
+                    [
+                        55.939813886675985,
+                        54.73507385406154
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "11",
+            "type": "Feature",
+            "properties": {
+                "Layer": "11_корпус_3_этаж-лестницы",
+                "PaperSpace": null,
+                "SubClasses": null,
+                "Linetype": "BYLAYER",
+                "EntityHand": null,
+                "Text": null
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        55.93982387858329,
+                        54.73508664882665
+                    ],
+                    [
+                        55.93981743388671,
+                        54.73507319274883
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "12",
+            "type": "Feature",
+            "properties": {
+                "Layer": "11_корпус_3_этаж-лестницы",
+                "PaperSpace": null,
+                "SubClasses": null,
+                "Linetype": "BYLAYER",
+                "EntityHand": null,
+                "Text": null
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        55.939827560414734,
+                        54.735086066134
+                    ],
+                    [
+                        55.939821093759626,
+                        54.73507234517764
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "13",
+            "type": "Feature",
+            "properties": {
+                "Layer": "11_корпус_3_этаж-лестницы",
+                "PaperSpace": null,
+                "SubClasses": null,
+                "Linetype": "BYLAYER",
+                "EntityHand": null,
+                "Text": null
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        55.93983124276762,
+                        54.73508548335883
+                    ],
+                    [
+                        55.93982495969452,
+                        54.73507173517486
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "14",
+            "type": "Feature",
+            "properties": {
+                "Layer": "11_корпус_3_этаж-лестницы",
+                "PaperSpace": null,
+                "SubClasses": null,
+                "Linetype": "BYLAYER",
+                "EntityHand": null,
+                "Text": null
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        55.93983501613646,
+                        54.73508488617931
+                    ],
+                    [
+                        55.939828551656205,
+                        54.73507116840206
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "15",
+            "type": "Feature",
+            "properties": {
+                "Layer": "11_корпус_3_этаж-лестницы",
+                "PaperSpace": null,
+                "SubClasses": null,
+                "Linetype": "BYLAYER",
+                "EntityHand": null,
+                "Text": null
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        55.93983869901075,
+                        54.73508430332159
+                    ],
+                    [
+                        55.939832417591106,
+                        54.73507055839925
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "16",
+            "type": "Feature",
+            "properties": {
+                "Layer": "11_корпус_3_этаж-лестницы",
+                "PaperSpace": null,
+                "SubClasses": null,
+                "Linetype": "BYLAYER",
+                "EntityHand": null,
+                "Text": null
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        55.93984238188503,
+                        54.735083720463855
+                    ],
+                    [
+                        55.939836102988345,
+                        54.735069976883324
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "17",
+            "type": "Feature",
+            "properties": {
+                "Layer": "11_корпус_3_этаж-лестницы",
+                "PaperSpace": null,
+                "SubClasses": null,
+                "Linetype": "BYLAYER",
+                "EntityHand": null,
+                "Text": null
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        55.93984615577531,
+                        54.73508312320182
+                    ],
+                    [
+                        55.93983960151448,
+                        54.735069424853634
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "18",
+            "type": "Feature",
+            "properties": {
+                "Layer": "11_корпус_3_этаж-лестницы",
+                "PaperSpace": null,
+                "SubClasses": null,
+                "Linetype": "BYLAYER",
+                "EntityHand": null,
+                "Text": null
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        55.93984974763361,
+                        54.7350825547484
+                    ],
+                    [
+                        55.939843374466214,
+                        54.73506882952252
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "19",
+            "type": "Feature",
+            "properties": {
+                "Layer": "11_корпус_3_этаж-лестницы",
+                "PaperSpace": null,
+                "SubClasses": null,
+                "Linetype": "BYLAYER",
+                "EntityHand": null,
+                "Text": null
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        55.939853520481044,
+                        54.735081957651346
+                    ],
+                    [
+                        55.939846965523124,
+                        54.735068262892455
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "20",
+            "type": "Feature",
+            "properties": {
+                "Layer": "11_корпус_3_этаж-лестницы",
+                "PaperSpace": null,
+                "SubClasses": null,
+                "Linetype": "BYLAYER",
+                "EntityHand": null,
+                "Text": null
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        55.939848440360606,
+                        54.735068030179
+                    ],
+                    [
+                        55.93987090152079,
+                        54.73506447096621
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "21",
+            "type": "Feature",
+            "properties": {
+                "Layer": "11_корпус_3_этаж-лестницы",
+                "PaperSpace": null,
+                "SubClasses": null,
+                "Linetype": "BYLAYER",
+                "EntityHand": null,
+                "Text": null
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        55.93984764851722,
+                        54.73506638063452
+                    ],
+                    [
+                        55.93987033053641,
+                        54.73506281477269
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "22",
+            "type": "Feature",
+            "properties": {
+                "Layer": "11_корпус_3_этаж-лестницы",
+                "PaperSpace": null,
+                "SubClasses": null,
+                "Linetype": "BYLAYER",
+                "EntityHand": null,
+                "Text": null
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        55.93984659199792,
+                        54.73506417972501
+                    ],
+                    [
+                        55.93986933146976,
+                        54.735060662054096
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "23",
+            "type": "Feature",
+            "properties": {
+                "Layer": "11_корпус_3_этаж-лестницы",
+                "PaperSpace": null,
+                "SubClasses": null,
+                "Linetype": "BYLAYER",
+                "EntityHand": null,
+                "Text": null
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        55.93984558620513,
+                        54.73506208448731
+                    ],
+                    [
+                        55.93986860901432,
+                        54.7350584665429
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "24",
+            "type": "Feature",
+            "properties": {
+                "Layer": "11_корпус_3_этаж-лестницы",
+                "PaperSpace": null,
+                "SubClasses": null,
+                "Linetype": "BYLAYER",
+                "EntityHand": null,
+                "Text": null
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        55.939844580630776,
+                        54.73505998970458
+                    ],
+                    [
+                        55.93986793529383,
+                        54.735056376042266
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "25",
+            "type": "Feature",
+            "properties": {
+                "Layer": "11_корпус_3_этаж-лестницы",
+                "PaperSpace": null,
+                "SubClasses": null,
+                "Linetype": "BYLAYER",
+                "EntityHand": null,
+                "Text": null
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        55.93984357527486,
+                        54.735057895376755
+                    ],
+                    [
+                        55.939866358637296,
+                        54.735054256402975
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "26",
+            "type": "Feature",
+            "properties": {
+                "Layer": "11_корпус_3_этаж-лестницы",
+                "PaperSpace": null,
+                "SubClasses": null,
+                "Linetype": "BYLAYER",
+                "EntityHand": null,
+                "Text": null
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        55.93984261977171,
+                        54.73505590490065
+                    ],
+                    [
+                        55.93986543267309,
+                        54.73505226119998
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "27",
+            "type": "Feature",
+            "properties": {
+                "Layer": "11_корпус_3_этаж-лестницы",
+                "PaperSpace": null,
+                "SubClasses": null,
+                "Linetype": "BYLAYER",
+                "EntityHand": null,
+                "Text": null
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        55.9398415632524,
+                        54.735053703990545
+                    ],
+                    [
+                        55.93986472931894,
+                        54.73504989390812
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "28",
+            "type": "Feature",
+            "properties": {
+                "Layer": "11_корпус_3_этаж-лестницы",
+                "PaperSpace": null,
+                "SubClasses": null,
+                "Linetype": "BYLAYER",
+                "EntityHand": null,
+                "Text": null
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        55.93984060731239,
+                        54.73505171260415
+                    ],
+                    [
+                        55.93986348327475,
+                        54.73504806077225
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "29",
+            "type": "Feature",
+            "properties": {
+                "Layer": "11_корпус_3_этаж-лестницы",
+                "PaperSpace": null,
+                "SubClasses": null,
+                "Linetype": "BYLAYER",
+                "EntityHand": null,
+                "Text": null
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        55.93983951329429,
+                        54.73504943357743
+                    ],
+                    [
+                        55.93986277992061,
+                        54.73504569348016
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "30",
+            "type": "Feature",
+            "properties": {
+                "Layer": "11_корпус_3_этаж-лестницы",
+                "PaperSpace": null,
+                "SubClasses": null,
+                "Linetype": "BYLAYER",
+                "EntityHand": null,
+                "Text": null
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        55.93974708011639,
+                        54.73504254510859
+                    ],
+                    [
+                        55.939739905375916,
+                        54.735027195166936
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "31",
+            "type": "Feature",
+            "properties": {
+                "Layer": "11_корпус_3_этаж-лестницы",
+                "PaperSpace": null,
+                "SubClasses": null,
+                "Linetype": "BYLAYER",
+                "EntityHand": null,
+                "Text": null
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        55.939743209273225,
+                        54.735043148694565
+                    ],
+                    [
+                        55.939736268109165,
+                        54.735027767610084
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "32",
+            "type": "Feature",
+            "properties": {
+                "Layer": "11_корпус_3_этаж-лестницы",
+                "PaperSpace": null,
+                "SubClasses": null,
+                "Linetype": "BYLAYER",
+                "EntityHand": null,
+                "Text": null
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        55.93973970704744,
+                        54.735043694801504
+                    ],
+                    [
+                        55.939732399327546,
+                        54.73502837648967
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "33",
+            "type": "Feature",
+            "properties": {
+                "Layer": "11_корпус_3_этаж-лестницы",
+                "PaperSpace": null,
+                "SubClasses": null,
+                "Linetype": "BYLAYER",
+                "EntityHand": null,
+                "Text": null
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        55.93973602087371,
+                        54.735044269591704
+                    ],
+                    [
+                        55.93972890049822,
+                        54.73502892714511
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "34",
+            "type": "Feature",
+            "properties": {
+                "Layer": "11_корпус_3_этаж-лестницы",
+                "PaperSpace": null,
+                "SubClasses": null,
+                "Linetype": "BYLAYER",
+                "EntityHand": null,
+                "Text": null
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        55.93973233506074,
+                        54.73504484432564
+                    ],
+                    [
+                        55.939725215906876,
+                        54.73502950703631
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "35",
+            "type": "Feature",
+            "properties": {
+                "Layer": "11_корпус_3_этаж-лестницы",
+                "PaperSpace": null,
+                "SubClasses": null,
+                "Linetype": "BYLAYER",
+                "EntityHand": null,
+                "Text": null
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        55.939728648887005,
+                        54.735045419115814
+                    ],
+                    [
+                        55.93972153367313,
+                        54.73503008655643
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "36",
+            "type": "Feature",
+            "properties": {
+                "Layer": "11_корпус_3_этаж-лестницы",
+                "PaperSpace": null,
+                "SubClasses": null,
+                "Linetype": "BYLAYER",
+                "EntityHand": null,
+                "Text": null
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        55.93972496235253,
+                        54.735045993962224
+                    ],
+                    [
+                        55.93971766410564,
+                        54.73503069555967
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "37",
+            "type": "Feature",
+            "properties": {
+                "Layer": "11_корпус_3_этаж-лестницы",
+                "PaperSpace": null,
+                "SubClasses": null,
+                "Linetype": "BYLAYER",
+                "EntityHand": null,
+                "Text": null
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        55.93972109187011,
+                        54.73504659749191
+                    ],
+                    [
+                        55.939713981871904,
+                        54.73503127507976
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "38",
+            "type": "Feature",
+            "properties": {
+                "Layer": "11_корпус_3_этаж-лестницы",
+                "PaperSpace": null,
+                "SubClasses": null,
+                "Linetype": "BYLAYER",
+                "EntityHand": null,
+                "Text": null
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        55.93971740641789,
+                        54.735047172169544
+                    ],
+                    [
+                        55.93971029728055,
+                        54.735031854970934
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "39",
+            "type": "Feature",
+            "properties": {
+                "Layer": "11_корпус_3_этаж-лестницы",
+                "PaperSpace": null,
+                "SubClasses": null,
+                "Linetype": "BYLAYER",
+                "EntityHand": null,
+                "Text": null
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        55.939713535935475,
+                        54.73504777569921
+                    ],
+                    [
+                        55.93970642849893,
+                        54.735032463850416
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "40",
+            "type": "Feature",
+            "properties": {
+                "Layer": "11_корпус_3_этаж-лестницы",
+                "PaperSpace": null,
+                "SubClasses": null,
+                "Linetype": "BYLAYER",
+                "EntityHand": null,
+                "Text": null
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        55.93970984904024,
+                        54.73504835060184
+                    ],
+                    [
+                        55.939702743121714,
+                        54.73503304386525
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "41",
+            "type": "Feature",
+            "properties": {
+                "Layer": "11_корпус_3_этаж-лестницы",
+                "PaperSpace": null,
+                "SubClasses": null,
+                "Linetype": "BYLAYER",
+                "EntityHand": null,
+                "Text": null
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        55.93970542527102,
+                        54.735049040406246
+                    ],
+                    [
+                        55.939697909207595,
+                        54.73503380463996
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "42",
+            "type": "Feature",
+            "properties": {
+                "Layer": "11_корпус_3_этаж-лестницы",
+                "PaperSpace": null,
+                "SubClasses": null,
+                "Linetype": "BYLAYER",
+                "EntityHand": null,
+                "Text": null
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        55.93967094046605,
+                        54.7350381314364
+                    ],
+                    [
+                        55.939697909207595,
+                        54.73503380463996
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "43",
+            "type": "Feature",
+            "properties": {
+                "Layer": "11_корпус_3_этаж-лестницы",
+                "PaperSpace": null,
+                "SubClasses": null,
+                "Linetype": "BYLAYER",
+                "EntityHand": null,
+                "Text": null
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        55.93967014368187,
+                        54.73503645535052
+                    ],
+                    [
+                        55.939697098988916,
+                        54.735032058836445
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "44",
+            "type": "Feature",
+            "properties": {
+                "Layer": "11_корпус_3_этаж-лестницы",
+                "PaperSpace": null,
+                "SubClasses": null,
+                "Linetype": "BYLAYER",
+                "EntityHand": null,
+                "Text": null
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        55.939669146627956,
+                        54.73503435798442
+                    ],
+                    [
+                        55.939696124289746,
+                        54.73502995862159
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "45",
+            "type": "Feature",
+            "properties": {
+                "Layer": "11_корпус_3_этаж-лестницы",
+                "PaperSpace": null,
+                "SubClasses": null,
+                "Linetype": "BYLAYER",
+                "EntityHand": null,
+                "Text": null
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        55.93966809942988,
+                        54.73503215513685
+                    ],
+                    [
+                        55.93969514959058,
+                        54.73502785840663
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "46",
+            "type": "Feature",
+            "properties": {
+                "Layer": "11_корпус_3_этаж-лестницы",
+                "PaperSpace": null,
+                "SubClasses": null,
+                "Linetype": "BYLAYER",
+                "EntityHand": null,
+                "Text": null
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        55.93966705315214,
+                        54.73502995422512
+                    ],
+                    [
+                        55.939694126156446,
+                        54.73502565318082
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "47",
+            "type": "Feature",
+            "properties": {
+                "Layer": "11_корпус_3_этаж-лестницы",
+                "PaperSpace": null,
+                "SubClasses": null,
+                "Linetype": "BYLAYER",
+                "EntityHand": null,
+                "Text": null
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        55.93966605609821,
+                        54.73502785685869
+                    ],
+                    [
+                        55.93969305398736,
+                        54.73502334294409
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "48",
+            "type": "Feature",
+            "properties": {
+                "Layer": "11_корпус_3_этаж-лестницы",
+                "PaperSpace": null,
+                "SubClasses": null,
+                "Linetype": "BYLAYER",
+                "EntityHand": null,
+                "Text": null
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        55.93966500982048,
+                        54.735025655946735
+                    ],
+                    [
+                        55.939692176758115,
+                        54.73502145275032
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "49",
+            "type": "Feature",
+            "properties": {
+                "Layer": "11_корпус_3_этаж-лестницы",
+                "PaperSpace": null,
+                "SubClasses": null,
+                "Linetype": "BYLAYER",
+                "EntityHand": null,
+                "Text": null
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        55.939663963235965,
+                        54.73502345438933
+                    ],
+                    [
+                        55.93969110458903,
+                        54.73501914251338
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "50",
+            "type": "Feature",
+            "properties": {
+                "Layer": "11_корпус_3_этаж-лестницы",
+                "PaperSpace": null,
+                "SubClasses": null,
+                "Linetype": "BYLAYER",
+                "EntityHand": null,
+                "Text": null
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        55.93966296648882,
+                        54.73502135766789
+                    ],
+                    [
+                        55.9396900811549,
+                        54.73501693728709
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "51",
+            "type": "Feature",
+            "properties": {
+                "Layer": "11_корпус_3_этаж-лестницы",
+                "PaperSpace": null,
+                "SubClasses": null,
+                "Linetype": "BYLAYER",
+                "EntityHand": null,
+                "Text": null
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        55.939661969741664,
+                        54.73501926094632
+                    ],
+                    [
+                        55.93968908818013,
+                        54.73501479769241
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "52",
+            "type": "Feature",
+            "properties": {
+                "Layer": "11_корпус_3_этаж-лестницы",
+                "PaperSpace": null,
+                "SubClasses": null,
+                "Linetype": "BYLAYER",
+                "EntityHand": null,
+                "Text": null
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        55.93968908818013,
+                        54.73501479769241
+                    ],
+                    [
+                        55.9396821182409,
+                        54.73499968105039
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "53",
+            "type": "Feature",
+            "properties": {
+                "Layer": "11_корпус_3_этаж-лестницы",
+                "PaperSpace": null,
+                "SubClasses": null,
+                "Linetype": "BYLAYER",
+                "EntityHand": null,
+                "Text": null
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        55.939693739453325,
+                        54.73501406560691
+                    ],
+                    [
+                        55.939686353765616,
+                        54.73499901014193
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "54",
+            "type": "Feature",
+            "properties": {
+                "Layer": "11_корпус_3_этаж-лестницы",
+                "PaperSpace": null,
+                "SubClasses": null,
+                "Linetype": "BYLAYER",
+                "EntityHand": null,
+                "Text": null
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        55.9396974240287,
+                        54.73501348567447
+                    ],
+                    [
+                        55.93969003913837,
+                        54.7349984263777
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "55",
+            "type": "Feature",
+            "properties": {
+                "Layer": "11_корпус_3_этаж-лестницы",
+                "PaperSpace": null,
+                "SubClasses": null,
+                "Linetype": "BYLAYER",
+                "EntityHand": null,
+                "Text": null
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        55.939701107814734,
+                        54.73501290586627
+                    ],
+                    [
+                        55.939693904284276,
+                        54.73499781413734
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "56",
+            "type": "Feature",
+            "properties": {
+                "Layer": "11_корпус_3_этаж-лестницы",
+                "PaperSpace": null,
+                "SubClasses": null,
+                "Linetype": "BYLAYER",
+                "EntityHand": null,
+                "Text": null
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        55.93970479317942,
+                        54.735012325809556
+                    ],
+                    [
+                        55.939697585324055,
+                        54.7349972310594
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "57",
+            "type": "Feature",
+            "properties": {
+                "Layer": "11_корпус_3_этаж-лестницы",
+                "PaperSpace": null,
+                "SubClasses": null,
+                "Linetype": "BYLAYER",
+                "EntityHand": null,
+                "Text": null
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        55.93970847617614,
+                        54.73501174612556
+                    ],
+                    [
+                        55.93970145480295,
+                        54.734996618132676
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "58",
+            "type": "Feature",
+            "properties": {
+                "Layer": "11_корпус_3_этаж-лестницы",
+                "PaperSpace": null,
+                "SubClasses": null,
+                "Linetype": "BYLAYER",
+                "EntityHand": null,
+                "Text": null
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        55.939712344151474,
+                        54.73501113732691
+                    ],
+                    [
+                        55.939704949570086,
+                        54.73499606456039
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "59",
+            "type": "Feature",
+            "properties": {
+                "Layer": "11_корпус_3_этаж-лестницы",
+                "PaperSpace": null,
+                "SubClasses": null,
+                "Linetype": "BYLAYER",
+                "EntityHand": null,
+                "Text": null
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        55.939716028726835,
+                        54.73501055739444
+                    ],
+                    [
+                        55.939708816882494,
+                        54.7349954519768
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "60",
+            "type": "Feature",
+            "properties": {
+                "Layer": "11_корпус_3_этаж-лестницы",
+                "PaperSpace": null,
+                "SubClasses": null,
+                "Linetype": "BYLAYER",
+                "EntityHand": null,
+                "Text": null
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        55.939719709355565,
+                        54.7350099780831
+                    ],
+                    [
+                        55.93971250225525,
+                        54.7349948682125
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "61",
+            "type": "Feature",
+            "properties": {
+                "Layer": "11_корпус_3_этаж-лестницы",
+                "PaperSpace": null,
+                "SubClasses": null,
+                "Linetype": "BYLAYER",
+                "EntityHand": null,
+                "Text": null
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        55.939723396298916,
+                        54.735009397777915
+                    ],
+                    [
+                        55.93971599918886,
+                        54.73499431429705
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "62",
+            "type": "Feature",
+            "properties": {
+                "Layer": "11_корпус_3_этаж-лестницы",
+                "PaperSpace": null,
+                "SubClasses": null,
+                "Linetype": "BYLAYER",
+                "EntityHand": null,
+                "Text": null
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        55.93972707929562,
+                        54.73500881809389
+                    ],
+                    [
+                        55.93971986108504,
+                        54.73499370257137
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "63",
+            "type": "Feature",
+            "properties": {
+                "Layer": "11_корпус_3_этаж-лестницы",
+                "PaperSpace": null,
+                "SubClasses": null,
+                "Linetype": "BYLAYER",
+                "EntityHand": null,
+                "Text": null
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        55.939730899940976,
+                        54.73500821674466
+                    ],
+                    [
+                        55.93972373273044,
+                        54.734993089301405
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "64",
+            "type": "Feature",
+            "properties": {
+                "Layer": "11_корпус_3_этаж-лестницы",
+                "PaperSpace": null,
+                "SubClasses": null,
+                "Linetype": "BYLAYER",
+                "EntityHand": null,
+                "Text": null
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        55.940646353017634,
+                        54.73480330009237
+                    ],
+                    [
+                        55.94069482564233,
+                        54.734795362817025
+                    ],
+                    [
+                        55.94068907476694,
+                        54.73478381148907
+                    ],
+                    [
+                        55.940640754608694,
+                        54.73479165260928
+                    ],
+                    [
+                        55.940646353017634,
+                        54.73480330009237
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "65",
+            "type": "Feature",
+            "properties": {
+                "Layer": "11_корпус_3_этаж-лестницы",
+                "PaperSpace": null,
+                "SubClasses": null,
+                "Linetype": "BYLAYER",
+                "EntityHand": null,
+                "Text": null
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        55.94065029750168,
+                        54.73480265419268
+                    ],
+                    [
+                        55.9406446872945,
+                        54.73479101443546
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "66",
+            "type": "Feature",
+            "properties": {
+                "Layer": "11_корпус_3_этаж-лестницы",
+                "PaperSpace": null,
+                "SubClasses": null,
+                "Linetype": "BYLAYER",
+                "EntityHand": null,
+                "Text": null
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        55.94065404775163,
+                        54.73480204009836
+                    ],
+                    [
+                        55.94064844998121,
+                        54.73479039981744
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "67",
+            "type": "Feature",
+            "properties": {
+                "Layer": "11_корпус_3_этаж-лестницы",
+                "PaperSpace": null,
+                "SubClasses": null,
+                "Linetype": "BYLAYER",
+                "EntityHand": null,
+                "Text": null
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        55.94065797939715,
+                        54.73480139630091
+                    ],
+                    [
+                        55.94065229817345,
+                        54.734789779385444
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "68",
+            "type": "Feature",
+            "properties": {
+                "Layer": "11_корпус_3_этаж-лестницы",
+                "PaperSpace": null,
+                "SubClasses": null,
+                "Linetype": "BYLAYER",
+                "EntityHand": null,
+                "Text": null
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        55.94066164922013,
+                        54.73480079537627
+                    ],
+                    [
+                        55.94065605726048,
+                        54.73478916938223
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "69",
+            "type": "Feature",
+            "properties": {
+                "Layer": "11_корпус_3_этаж-лестницы",
+                "PaperSpace": null,
+                "SubClasses": null,
+                "Linetype": "BYLAYER",
+                "EntityHand": null,
+                "Text": null
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        55.94066540332164,
+                        54.734800180651234
+                    ],
+                    [
+                        55.94065963464191,
+                        54.734788580301164
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "70",
+            "type": "Feature",
+            "properties": {
+                "Layer": "11_корпус_3_этаж-лестницы",
+                "PaperSpace": null,
+                "SubClasses": null,
+                "Linetype": "BYLAYER",
+                "EntityHand": null,
+                "Text": null
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        55.94066862607492,
+                        54.73479965293317
+                    ],
+                    [
+                        55.94066312599306,
+                        54.734788012764156
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "71",
+            "type": "Feature",
+            "properties": {
+                "Layer": "11_корпус_3_этаж-лестницы",
+                "PaperSpace": null,
+                "SubClasses": null,
+                "Linetype": "BYLAYER",
+                "EntityHand": null,
+                "Text": null
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        55.940672561572,
+                        54.73479900850503
+                    ],
+                    [
+                        55.94066688350648,
+                        54.7347874019611
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "72",
+            "type": "Feature",
+            "properties": {
+                "Layer": "11_корпус_3_этаж-лестницы",
+                "PaperSpace": null,
+                "SubClasses": null,
+                "Linetype": "BYLAYER",
+                "EntityHand": null,
+                "Text": null
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        55.94067622625957,
+                        54.73479840842128
+                    ],
+                    [
+                        55.94067055155529,
+                        54.734786805700956
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "73",
+            "type": "Feature",
+            "properties": {
+                "Layer": "11_корпус_3_этаж-лестницы",
+                "PaperSpace": null,
+                "SubClasses": null,
+                "Linetype": "BYLAYER",
+                "EntityHand": null,
+                "Text": null
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        55.94067998036107,
+                        54.73479779369619
+                    ],
+                    [
+                        55.94067440100885,
+                        54.734786192663144
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "74",
+            "type": "Feature",
+            "properties": {
+                "Layer": "11_корпус_3_этаж-лестницы",
+                "PaperSpace": null,
+                "SubClasses": null,
+                "Linetype": "BYLAYER",
+                "EntityHand": null,
+                "Text": null
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        55.94068364761634,
+                        54.734797193191945
+                    ],
+                    [
+                        55.94067806882266,
+                        54.73478558672862
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "75",
+            "type": "Feature",
+            "properties": {
+                "Layer": "11_корпус_3_этаж-лестницы",
+                "PaperSpace": null,
+                "SubClasses": null,
+                "Linetype": "BYLAYER",
+                "EntityHand": null,
+                "Text": null
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        55.94068731487162,
+                        54.73479659268772
+                    ],
+                    [
+                        55.940681739034446,
+                        54.73478499472989
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "76",
+            "type": "Feature",
+            "properties": {
+                "Layer": "11_корпус_3_этаж-лестницы",
+                "PaperSpace": null,
+                "SubClasses": null,
+                "Linetype": "BYLAYER",
+                "EntityHand": null,
+                "Text": null
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        55.94069107282468,
+                        54.73479597733192
+                    ],
+                    [
+                        55.940685498240924,
+                        54.73478439186738
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "77",
+            "type": "Feature",
+            "properties": {
+                "Layer": "11_корпус_3_этаж-лестницы",
+                "PaperSpace": null,
+                "SubClasses": null,
+                "Linetype": "BYLAYER",
+                "EntityHand": null,
+                "Text": null
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        55.94065260898595,
+                        54.73481553403379
+                    ],
+                    [
+                        55.940647110394075,
+                        54.73480389529758
+                    ],
+                    [
+                        55.9406952950696,
+                        54.73479616696318
+                    ],
+                    [
+                        55.940701047168325,
+                        54.73480772507968
+                    ],
+                    [
+                        55.94065260898595,
+                        54.73481553403379
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "78",
+            "type": "Feature",
+            "properties": {
+                "Layer": "11_корпус_3_этаж-лестницы",
+                "PaperSpace": null,
+                "SubClasses": null,
+                "Linetype": "BYLAYER",
+                "EntityHand": null,
+                "Text": null
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        55.940656280266545,
+                        54.7348149421689
+                    ],
+                    [
+                        55.94065078296156,
+                        54.73480330625494
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "79",
+            "type": "Feature",
+            "properties": {
+                "Layer": "11_корпус_3_этаж-лестницы",
+                "PaperSpace": null,
+                "SubClasses": null,
+                "Linetype": "BYLAYER",
+                "EntityHand": null,
+                "Text": null
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        55.94065454184553,
+                        54.73480270336805
+                    ],
+                    [
+                        55.9406602210361,
+                        54.7348143068584
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "80",
+            "type": "Feature",
+            "properties": {
+                "Layer": "11_корпус_3_этаж-лестницы",
+                "PaperSpace": null,
+                "SubClasses": null,
+                "Linetype": "BYLAYER",
+                "EntityHand": null,
+                "Text": null
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        55.940658124048305,
+                        54.73480212881899
+                    ],
+                    [
+                        55.940663799090125,
+                        54.73481373002302
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "81",
+            "type": "Feature",
+            "properties": {
+                "Layer": "11_корпус_3_этаж-лестницы",
+                "PaperSpace": null,
+                "SubClasses": null,
+                "Linetype": "BYLAYER",
+                "EntityHand": null,
+                "Text": null
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        55.940667563597316,
+                        54.73481312312861
+                    ],
+                    [
+                        55.94066197491628,
+                        54.73480151117878
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "82",
+            "type": "Feature",
+            "properties": {
+                "Layer": "11_корпус_3_этаж-лестницы",
+                "PaperSpace": null,
+                "SubClasses": null,
+                "Linetype": "BYLAYER",
+                "EntityHand": null,
+                "Text": null
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        55.940671233951484,
+                        54.73481253141303
+                    ],
+                    [
+                        55.940665828213206,
+                        54.734800893148964
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "83",
+            "type": "Feature",
+            "properties": {
+                "Layer": "11_корпус_3_этаж-лестницы",
+                "PaperSpace": null,
+                "SubClasses": null,
+                "Linetype": "BYLAYER",
+                "EntityHand": null,
+                "Text": null
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        55.94067490337922,
+                        54.73481193984681
+                    ],
+                    [
+                        55.94066923211549,
+                        54.73480034719749
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "84",
+            "type": "Feature",
+            "properties": {
+                "Layer": "11_корпус_3_этаж-лестницы",
+                "PaperSpace": null,
+                "SubClasses": null,
+                "Linetype": "BYLAYER",
+                "EntityHand": null,
+                "Text": null
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        55.940678485138996,
+                        54.73481136241394
+                    ],
+                    [
+                        55.940672902254036,
+                        54.734799758544405
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "85",
+            "type": "Feature",
+            "properties": {
+                "Layer": "11_корпус_3_этаж-лестницы",
+                "PaperSpace": null,
+                "SubClasses": null,
+                "Linetype": "BYLAYER",
+                "EntityHand": null,
+                "Text": null
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        55.940682333608386,
+                        54.73481074198355
+                    ],
+                    [
+                        55.94067666356695,
+                        54.73479915526786
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "86",
+            "type": "Feature",
+            "properties": {
+                "Layer": "11_корпус_3_этаж-лестницы",
+                "PaperSpace": null,
+                "SubClasses": null,
+                "Linetype": "BYLAYER",
+                "EntityHand": null,
+                "Text": null
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        55.94068591258886,
+                        54.73481016499875
+                    ],
+                    [
+                        55.94068042811845,
+                        54.73479855147187
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "87",
+            "type": "Feature",
+            "properties": {
+                "Layer": "11_корпус_3_этаж-лестницы",
+                "PaperSpace": null,
+                "SubClasses": null,
+                "Linetype": "BYLAYER",
+                "EntityHand": null,
+                "Text": null
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        55.940689676169605,
+                        54.734809558253616
+                    ],
+                    [
+                        55.94068409744734,
+                        54.73479796294862
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "88",
+            "type": "Feature",
+            "properties": {
+                "Layer": "11_корпус_3_этаж-лестницы",
+                "PaperSpace": null,
+                "SubClasses": null,
+                "Linetype": "BYLAYER",
+                "EntityHand": null,
+                "Text": null
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        55.9406934332653,
+                        54.734808952554
+                    ],
+                    [
+                        55.940687862808495,
+                        54.73479735902276
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "89",
+            "type": "Feature",
+            "properties": {
+                "Layer": "11_корпус_3_этаж-лестницы",
+                "PaperSpace": null,
+                "SubClasses": null,
+                "Linetype": "BYLAYER",
+                "EntityHand": null,
+                "Text": null
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        55.94069710639879,
+                        54.73480836039031
+                    ],
+                    [
+                        55.940691532947035,
+                        54.73479677036961
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "90",
+            "type": "Feature",
+            "properties": {
+                "Layer": "11_корпус_3_этаж-лестницы",
+                "PaperSpace": null,
+                "SubClasses": null,
+                "Linetype": "BYLAYER",
+                "EntityHand": null,
+                "Text": null
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        55.940653566764674,
+                        54.7348091986142
+                    ],
+                    [
+                        55.94069436780359,
+                        54.73480266546838
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "91",
+            "type": "Feature",
+            "properties": {
+                "Layer": "11_корпус_3_этаж-лестницы",
+                "PaperSpace": null,
+                "SubClasses": null,
+                "Linetype": "BYLAYER",
+                "EntityHand": null,
+                "Text": null
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        55.94069206413127,
+                        54.73478981598887
+                    ],
+                    [
+                        55.94064363218876,
+                        54.73479763941158
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "92",
+            "type": "Feature",
+            "properties": {
+                "Layer": "11_корпус_3_этаж-лестницы",
+                "PaperSpace": null,
+                "SubClasses": null,
+                "Linetype": "BYLAYER",
+                "EntityHand": null,
+                "Text": null
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        55.94064757357784,
+                        54.734797002741885
+                    ],
+                    [
+                        55.94065066651951,
+                        54.73479704338087
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "93",
+            "type": "Feature",
+            "properties": {
+                "Layer": "11_корпус_3_этаж-лестницы",
+                "PaperSpace": null,
+                "SubClasses": null,
+                "Linetype": "BYLAYER",
+                "EntityHand": null,
+                "Text": null
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        55.94064757357784,
+                        54.734797002741885
+                    ],
+                    [
+                        55.94065021056414,
+                        54.73479585356448
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "94",
+            "type": "Feature",
+            "properties": {
+                "Layer": "11_корпус_3_этаж-лестницы",
+                "PaperSpace": null,
+                "SubClasses": null,
+                "Linetype": "BYLAYER",
+                "EntityHand": null,
+                "Text": null
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        55.94069436780359,
+                        54.73480266546838
+                    ],
+                    [
+                        55.940692359081986,
+                        54.73480352572054
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "95",
+            "type": "Feature",
+            "properties": {
+                "Layer": "11_корпус_3_этаж-лестницы",
+                "PaperSpace": null,
+                "SubClasses": null,
+                "Linetype": "BYLAYER",
+                "EntityHand": null,
+                "Text": null
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        55.94069436780359,
+                        54.73480266546838
+                    ],
+                    [
+                        55.94069181334349,
+                        54.73480234979411
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "96",
+            "type": "Feature",
+            "properties": {
+                "Layer": "11_корпус_3_этаж-лестницы",
+                "PaperSpace": null,
+                "SubClasses": null,
+                "Linetype": "BYLAYER",
+                "EntityHand": null,
+                "Text": null
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        55.9406288982971,
+                        54.734931873393606
+                    ],
+                    [
+                        55.94062472275649,
+                        54.734923297450464
+                    ],
+                    [
+                        55.94064249981269,
+                        54.73492054728356
+                    ],
+                    [
+                        55.94064643349295,
+                        54.73492881598125
+                    ],
+                    [
+                        55.9406288982971,
+                        54.734931873393606
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "97",
+            "type": "Feature",
+            "properties": {
+                "Layer": "11_корпус_3_этаж-лестницы",
+                "PaperSpace": null,
+                "SubClasses": null,
+                "Linetype": "BYLAYER",
+                "EntityHand": null,
+                "Text": null
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        55.94063717849845,
+                        54.734930429669255
+                    ],
+                    [
+                        55.940633162369025,
+                        54.734921991815696
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "98",
+            "type": "Feature",
+            "properties": {
+                "Layer": "11_корпус_3_этаж-лестницы",
+                "PaperSpace": null,
+                "SubClasses": null,
+                "Linetype": "BYLAYER",
+                "EntityHand": null,
+                "Text": null
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        55.940625615841064,
+                        54.73492513171431
+                    ],
+                    [
+                        55.94064322824346,
+                        54.73492207846403
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "99",
+            "type": "Feature",
+            "properties": {
+                "Layer": "11_корпус_3_этаж-лестницы",
+                "PaperSpace": null,
+                "SubClasses": null,
+                "Linetype": "BYLAYER",
+                "EntityHand": null,
+                "Text": null
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        55.94062641000188,
+                        54.73492676280328
+                    ],
+                    [
+                        55.94064407807937,
+                        54.734923864841164
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "100",
+            "type": "Feature",
+            "properties": {
+                "Layer": "11_корпус_3_этаж-лестницы",
+                "PaperSpace": null,
+                "SubClasses": null,
+                "Linetype": "BYLAYER",
+                "EntityHand": null,
+                "Text": null
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        55.940627254086365,
+                        54.73492849642805
+                    ],
+                    [
+                        55.94064492760712,
+                        54.73492565057046
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "101",
+            "type": "Feature",
+            "properties": {
+                "Layer": "11_корпус_3_этаж-лестницы",
+                "PaperSpace": null,
+                "SubClasses": null,
+                "Linetype": "BYLAYER",
+                "EntityHand": null,
+                "Text": null
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        55.94062804732361,
+                        54.73493012562001
+                    ],
+                    [
+                        55.94064572949728,
+                        54.73492733616425
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "102",
+            "type": "Feature",
+            "properties": {
+                "Layer": "11_корпус_3_этаж-лестницы",
+                "PaperSpace": null,
+                "SubClasses": null,
+                "Linetype": "BYLAYER",
+                "EntityHand": null,
+                "Text": null
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        55.94063244206042,
+                        54.734923948334824
+                    ],
+                    [
+                        55.940633162369025,
+                        54.734921991815696
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "103",
+            "type": "Feature",
+            "properties": {
+                "Layer": "11_корпус_3_этаж-лестницы",
+                "PaperSpace": null,
+                "SubClasses": null,
+                "Linetype": "BYLAYER",
+                "EntityHand": null,
+                "Text": null
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        55.94063528430283,
+                        54.734923455609476
+                    ],
+                    [
+                        55.940633162369025,
+                        54.734921991815696
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "104",
+            "type": "Feature",
+            "properties": {
+                "Layer": "11_корпус_3_этаж-лестницы",
+                "PaperSpace": null,
+                "SubClasses": null,
+                "Linetype": "BYLAYER",
+                "EntityHand": null,
+                "Text": null
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        55.94057836028,
+                        54.734827338071746
+                    ],
+                    [
+                        55.94058227631315,
+                        54.73483577605663
+                    ],
+                    [
+                        55.94060000591384,
+                        54.73483292362939
+                    ],
+                    [
+                        55.94059610557339,
+                        54.734824515742
+                    ],
+                    [
+                        55.940596827685255,
+                        54.734826072384514
+                    ],
+                    [
+                        55.94059610557339,
+                        54.734824515742
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "105",
+            "type": "Feature",
+            "properties": {
+                "Layer": "11_корпус_3_этаж-лестницы",
+                "PaperSpace": null,
+                "SubClasses": null,
+                "Linetype": "BYLAYER",
+                "EntityHand": null,
+                "Text": null
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        55.940587053706324,
+                        54.734825955411296
+                    ],
+                    [
+                        55.940591231527826,
+                        54.73483433529673
+                    ],
+                    [
+                        55.940589853382356,
+                        54.734833233908375
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "106",
+            "type": "Feature",
+            "properties": {
+                "Layer": "11_корпус_3_этаж-лестницы",
+                "PaperSpace": null,
+                "SubClasses": null,
+                "Linetype": "BYLAYER",
+                "EntityHand": null,
+                "Text": null
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        55.940591231527826,
+                        54.73483433529673
+                    ],
+                    [
+                        55.940591379695256,
+                        54.73483299778242
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "107",
+            "type": "Feature",
+            "properties": {
+                "Layer": "11_корпус_3_этаж-лестницы",
+                "PaperSpace": null,
+                "SubClasses": null,
+                "Linetype": "BYLAYER",
+                "EntityHand": null,
+                "Text": null
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        55.94058146956438,
+                        54.73483403773289
+                    ],
+                    [
+                        55.94059919949501,
+                        54.734831185248275
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "108",
+            "type": "Feature",
+            "properties": {
+                "Layer": "11_корпус_3_этаж-лестницы",
+                "PaperSpace": null,
+                "SubClasses": null,
+                "Linetype": "BYLAYER",
+                "EntityHand": null,
+                "Text": null
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        55.94058068654336,
+                        54.73483235053593
+                    ],
+                    [
+                        55.94059841679954,
+                        54.734829498007095
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "109",
+            "type": "Feature",
+            "properties": {
+                "Layer": "11_корпус_3_этаж-лестницы",
+                "PaperSpace": null,
+                "SubClasses": null,
+                "Linetype": "BYLAYER",
+                "EntityHand": null,
+                "Text": null
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        55.94057990352246,
+                        54.734830663339146
+                    ],
+                    [
+                        55.94059763410931,
+                        54.734827810777105
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "110",
+            "type": "Feature",
+            "properties": {
+                "Layer": "11_корпус_3_этаж-лестницы",
+                "PaperSpace": null,
+                "SubClasses": null,
+                "Linetype": "BYLAYER",
+                "EntityHand": null,
+                "Text": null
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        55.94057914422936,
+                        54.73482902726923
+                    ],
+                    [
+                        55.940596827685255,
+                        54.734826072384514
+                    ]
+                ]
+            }
+        }
+    ]
+}

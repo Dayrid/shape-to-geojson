@@ -1,0 +1,24 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": "0",
+            "type": "Feature",
+            "properties": {
+                "Layer": "6-301-Коммутаторы",
+                "PaperSpace": 0,
+                "SubClasses": null,
+                "Linetype": null,
+                "EntityHand": null,
+                "Text": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.94128038139397,
+                    54.7249091564377
+                ]
+            }
+        }
+    ]
+}

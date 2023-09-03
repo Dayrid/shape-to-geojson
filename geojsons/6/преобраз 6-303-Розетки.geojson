@@ -1,0 +1,214 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": "0",
+            "type": "Feature",
+            "properties": {
+                "Layer": "6-303-Розетка\\Удлинитель",
+                "PaperSpace": null,
+                "SubClasses": null,
+                "Linetype": null,
+                "EntityHand": null,
+                "Text": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.9412340863162,
+                    54.72498867498177
+                ]
+            }
+        },
+        {
+            "id": "1",
+            "type": "Feature",
+            "properties": {
+                "Layer": "6-303-Розетка\\Удлинитель",
+                "PaperSpace": null,
+                "SubClasses": null,
+                "Linetype": null,
+                "EntityHand": null,
+                "Text": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.941229922663574,
+                    54.724979973358224
+                ]
+            }
+        },
+        {
+            "id": "2",
+            "type": "Feature",
+            "properties": {
+                "Layer": "6-303-Розетка\\Удлинитель",
+                "PaperSpace": null,
+                "SubClasses": null,
+                "Linetype": null,
+                "EntityHand": null,
+                "Text": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.941219110905564,
+                    54.7249575337533
+                ]
+            }
+        },
+        {
+            "id": "3",
+            "type": "Feature",
+            "properties": {
+                "Layer": "6-303-Розетка\\Удлинитель",
+                "PaperSpace": null,
+                "SubClasses": null,
+                "Linetype": null,
+                "EntityHand": null,
+                "Text": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.941208294442326,
+                    54.72493566322173
+                ]
+            }
+        },
+        {
+            "id": "4",
+            "type": "Feature",
+            "properties": {
+                "Layer": "6-303-Розетка\\Удлинитель",
+                "PaperSpace": null,
+                "SubClasses": null,
+                "Linetype": null,
+                "EntityHand": null,
+                "Text": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.94121044796646,
+                    54.724939751877315
+                ]
+            }
+        },
+        {
+            "id": "5",
+            "type": "Feature",
+            "properties": {
+                "Layer": "6-303-Розетка\\Удлинитель",
+                "PaperSpace": null,
+                "SubClasses": null,
+                "Linetype": null,
+                "EntityHand": null,
+                "Text": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.9411247579661,
+                    54.72494600089956
+                ]
+            }
+        },
+        {
+            "id": "6",
+            "type": "Feature",
+            "properties": {
+                "Layer": "6-303-Розетка\\Удлинитель",
+                "PaperSpace": null,
+                "SubClasses": null,
+                "Linetype": null,
+                "EntityHand": null,
+                "Text": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.94112827902027,
+                    54.724952437950414
+                ]
+            }
+        },
+        {
+            "id": "7",
+            "type": "Feature",
+            "properties": {
+                "Layer": "6-303-Розетка\\Удлинитель",
+                "PaperSpace": null,
+                "SubClasses": null,
+                "Linetype": null,
+                "EntityHand": null,
+                "Text": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.94113851339345,
+                    54.724973324758345
+                ]
+            }
+        },
+        {
+            "id": "8",
+            "type": "Feature",
+            "properties": {
+                "Layer": "6-303-Розетка\\Удлинитель",
+                "PaperSpace": null,
+                "SubClasses": null,
+                "Linetype": null,
+                "EntityHand": null,
+                "Text": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.94114561515948,
+                    54.724987171613954
+                ]
+            }
+        },
+        {
+            "id": "9",
+            "type": "Feature",
+            "properties": {
+                "Layer": "6-303-Розетка\\Удлинитель",
+                "PaperSpace": null,
+                "SubClasses": null,
+                "Linetype": null,
+                "EntityHand": null,
+                "Text": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.9412005475904,
+                    54.72500214589964
+                ]
+            }
+        },
+        {
+            "id": "10",
+            "type": "Feature",
+            "properties": {
+                "Layer": "6-303-Розетка\\Удлинитель",
+                "PaperSpace": null,
+                "SubClasses": null,
+                "Linetype": null,
+                "EntityHand": null,
+                "Text": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.94122536023805,
+                    54.72496970900974
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,100 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": "0",
+            "type": "Feature",
+            "properties": {
+                "Layer": "6-302-Узлы_сети",
+                "PaperSpace": 0,
+                "SubClasses": null,
+                "Linetype": null,
+                "EntityHand": null,
+                "Text": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.94119414414571,
+                    54.724837262945485
+                ]
+            }
+        },
+        {
+            "id": "1",
+            "type": "Feature",
+            "properties": {
+                "Layer": "6-302-Узлы_сети",
+                "PaperSpace": 0,
+                "SubClasses": null,
+                "Linetype": null,
+                "EntityHand": null,
+                "Text": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.941129952987865,
+                    54.72478863616972
+                ]
+            }
+        },
+        {
+            "id": "2",
+            "type": "Feature",
+            "properties": {
+                "Layer": "6-302-Узлы_сети",
+                "PaperSpace": 0,
+                "SubClasses": null,
+                "Linetype": null,
+                "EntityHand": null,
+                "Text": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.94114577443391,
+                    54.724785773269936
+                ]
+            }
+        },
+        {
+            "id": "3",
+            "type": "Feature",
+            "properties": {
+                "Layer": "6-302-Узлы_сети",
+                "PaperSpace": 0,
+                "SubClasses": null,
+                "Linetype": null,
+                "EntityHand": null,
+                "Text": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.941176229976975,
+                    54.72482710484816
+                ]
+            }
+        },
+        {
+            "id": "4",
+            "type": "Feature",
+            "properties": {
+                "Layer": "6-302-Узлы_сети",
+                "PaperSpace": 0,
+                "SubClasses": null,
+                "Linetype": null,
+                "EntityHand": null,
+                "Text": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.94111919170279,
+                    54.72487893043624
+                ]
+            }
+        }
+    ]
+}

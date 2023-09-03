@@ -1,0 +1,43 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": "0",
+            "type": "Feature",
+            "properties": {
+                "invnum": "431506\n",
+                "model": "HP LaserJet P2055d",
+                "otvet": "Золотарева С.Ю.",
+                "caf": "ГИС",
+                "sost": "В работе\n",
+                "date": "06.11.2009"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.94108727272116,
+                    54.72481960053951
+                ]
+            }
+        },
+        {
+            "id": "1",
+            "type": "Feature",
+            "properties": {
+                "invnum": "430552\n",
+                "model": "HP LaserJet P2015d",
+                "otvet": "Золотарева С.Ю.",
+                "caf": "ГИС",
+                "sost": "В работе",
+                "date": "12.03.2009"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.941165566526315,
+                    54.72481409035407
+                ]
+            }
+        }
+    ]
+}

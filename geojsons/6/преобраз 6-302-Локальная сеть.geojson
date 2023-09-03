@@ -1,0 +1,218 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": "0",
+            "type": "Feature",
+            "properties": {
+                "ID": "001B000045CA",
+                "Ingeo_Styl": "Ethernet"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        55.94119414414571,
+                        54.724837262945485
+                    ],
+                    [
+                        55.94119991647223,
+                        54.724836358089156
+                    ],
+                    [
+                        55.941206820680556,
+                        54.72485298028838
+                    ],
+                    [
+                        55.94121136963083,
+                        54.724852406765365
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "1",
+            "type": "Feature",
+            "properties": {
+                "ID": "001B000045CB",
+                "Ingeo_Styl": "Ethernet"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        55.94120528699147,
+                        54.72484928786192
+                    ],
+                    [
+                        55.94120978964856,
+                        54.724848756983654
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "2",
+            "type": "Feature",
+            "properties": {
+                "ID": "001B000045CC",
+                "Ingeo_Styl": "Ethernet"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        55.94119991647223,
+                        54.724836358089156
+                    ],
+                    [
+                        55.94119965350791,
+                        54.72483572898226
+                    ],
+                    [
+                        55.941203864715085,
+                        54.72483507029928
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "3",
+            "type": "Feature",
+            "properties": {
+                "ID": "001B000045CD",
+                "Ingeo_Styl": "Ethernet"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        55.94120107639914,
+                        54.72483915066703
+                    ],
+                    [
+                        55.94120564219512,
+                        54.72483860602653
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "4",
+            "type": "Feature",
+            "properties": {
+                "ID": "001B000045CE",
+                "Ingeo_Styl": "Ethernet"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        55.94119714979047,
+                        54.724842712031965
+                    ],
+                    [
+                        55.94120231265883,
+                        54.724842127019464
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "5",
+            "type": "Feature",
+            "properties": {
+                "ID": "001B000045CF",
+                "Ingeo_Styl": "Ethernet"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        55.94114577443391,
+                        54.724785773269936
+                    ],
+                    [
+                        55.94114814626058,
+                        54.724791019671954
+                    ],
+                    [
+                        55.9411568602428,
+                        54.72478979015226
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "6",
+            "type": "Feature",
+            "properties": {
+                "ID": "001B000045D0",
+                "Ingeo_Styl": "Ethernet"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        55.941176229976975,
+                        54.72482710484816
+                    ],
+                    [
+                        55.94120406221286,
+                        54.72482183983341
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "7",
+            "type": "Feature",
+            "properties": {
+                "ID": "001B000045D1",
+                "Ingeo_Styl": "Ethernet"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        55.941129952987865,
+                        54.72478863616972
+                    ],
+                    [
+                        55.94108517573437,
+                        54.72479529129541
+                    ],
+                    [
+                        55.941101103579854,
+                        54.724832851975364
+                    ],
+                    [
+                        55.94109222925136,
+                        54.72483414674518
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "8",
+            "type": "Feature",
+            "properties": {
+                "ID": "001B000045D2",
+                "Ingeo_Styl": "Ethernet"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        55.941088386989605,
+                        54.72480286400667
+                    ],
+                    [
+                        55.94109724591625,
+                        54.72480159944813
+                    ]
+                ]
+            }
+        }
+    ]
+}

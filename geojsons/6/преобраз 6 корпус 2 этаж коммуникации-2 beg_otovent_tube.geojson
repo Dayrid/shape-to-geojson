@@ -1,0 +1,4159 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": "0",
+            "type": "Feature",
+            "properties": {
+                "ID": "00050001C4AB",
+                "X": null,
+                "FLOOR": 2.0,
+                "ELEVATION": 4.0,
+                "HEIGHT": 0.0,
+                "SHAPE_LENG": 9.86928918781
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        55.94112326935777,
+                        54.724365316697
+                    ],
+                    [
+                        55.94113035534215,
+                        54.72436415859351
+                    ],
+                    [
+                        55.94112861430439,
+                        54.72436060597889
+                    ],
+                    [
+                        55.94099606355821,
+                        54.72438226778772
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "1",
+            "type": "Feature",
+            "properties": {
+                "ID": "00050001C4AC",
+                "X": null,
+                "FLOOR": 2.0,
+                "ELEVATION": 4.0,
+                "HEIGHT": 0.0,
+                "SHAPE_LENG": 0.488724659956
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        55.94098642398628,
+                        54.724386994391025
+                    ],
+                    [
+                        55.94099364457686,
+                        54.72438581699591
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "2",
+            "type": "Feature",
+            "properties": {
+                "ID": "00050001C4AD",
+                "X": null,
+                "FLOOR": 2.0,
+                "ELEVATION": 4.0,
+                "HEIGHT": 0.0,
+                "SHAPE_LENG": 0.36669512009
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        55.940919302657484,
+                        54.72439769024407
+                    ],
+                    [
+                        55.94091388500386,
+                        54.724398573715725
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "3",
+            "type": "Feature",
+            "properties": {
+                "ID": "00050001C4AE",
+                "X": null,
+                "FLOOR": 2.0,
+                "ELEVATION": 4.0,
+                "HEIGHT": 0.0,
+                "SHAPE_LENG": 0.366537163734
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        55.94089535945817,
+                        54.724402074691874
+                    ],
+                    [
+                        55.94090077514672,
+                        54.72440119235512
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "4",
+            "type": "Feature",
+            "properties": {
+                "ID": "00050001C4AF",
+                "X": null,
+                "FLOOR": 2.0,
+                "ELEVATION": 4.0,
+                "HEIGHT": 0.0,
+                "SHAPE_LENG": 0.427863871721
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        55.94083238046299,
+                        54.72441241817373
+                    ],
+                    [
+                        55.94082605888458,
+                        54.724413448606576
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "5",
+            "type": "Feature",
+            "properties": {
+                "ID": "00050001C4B0",
+                "X": null,
+                "FLOOR": 2.0,
+                "ELEVATION": 4.0,
+                "HEIGHT": 0.0,
+                "SHAPE_LENG": 4.36664938641
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        55.94082259449454,
+                        54.7244138616876
+                    ],
+                    [
+                        55.94080917022879,
+                        54.72438637420169
+                    ],
+                    [
+                        55.94079224718455,
+                        54.724389130724774
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "6",
+            "type": "Feature",
+            "properties": {
+                "ID": "00050001C4B1",
+                "X": null,
+                "FLOOR": 2.0,
+                "ELEVATION": 4.0,
+                "HEIGHT": 0.0,
+                "SHAPE_LENG": 0.593172250521
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        55.94080942175569,
+                        54.7244282361095
+                    ],
+                    [
+                        55.94081062240363,
+                        54.72443069360006
+                    ],
+                    [
+                        55.94080611358744,
+                        54.7244314284073
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "7",
+            "type": "Feature",
+            "properties": {
+                "ID": "00050001C4B2",
+                "X": null,
+                "FLOOR": 2.0,
+                "ELEVATION": 4.0,
+                "HEIGHT": 0.0,
+                "SHAPE_LENG": 0.38430389129
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        55.9408157796876,
+                        54.72444122886211
+                    ],
+                    [
+                        55.940814177186134,
+                        54.72443794975003
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "8",
+            "type": "Feature",
+            "properties": {
+                "ID": "00050001C4B3",
+                "X": null,
+                "FLOOR": 2.0,
+                "ELEVATION": 4.0,
+                "HEIGHT": 0.0,
+                "SHAPE_LENG": 0.287680655538
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        55.94083540664601,
+                        54.72448142704368
+                    ],
+                    [
+                        55.94083660631142,
+                        54.72448388169393
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "9",
+            "type": "Feature",
+            "properties": {
+                "ID": "00050001C4B4",
+                "X": null,
+                "FLOOR": 2.0,
+                "ELEVATION": 4.0,
+                "HEIGHT": 0.0,
+                "SHAPE_LENG": 0.384180704081
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        55.94084158772307,
+                        54.72449427792477
+                    ],
+                    [
+                        55.94083998522162,
+                        54.72449099995181
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "10",
+            "type": "Feature",
+            "properties": {
+                "ID": "00050001C4B5",
+                "X": null,
+                "FLOOR": 2.0,
+                "ELEVATION": 4.0,
+                "HEIGHT": 0.0,
+                "SHAPE_LENG": 0.192112457486
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        55.940860964137116,
+                        54.72453456173371
+                    ],
+                    [
+                        55.94086176489659,
+                        54.72453620100218
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "11",
+            "type": "Feature",
+            "properties": {
+                "ID": "00050001C4B6",
+                "X": null,
+                "FLOOR": 2.0,
+                "ELEVATION": 4.0,
+                "HEIGHT": 0.0,
+                "SHAPE_LENG": 0.829204810789
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        55.9408666136671,
+                        54.72454639692138
+                    ],
+                    [
+                        55.94086501214816,
+                        54.72454312008747
+                    ],
+                    [
+                        55.94085843511274,
+                        54.72454419250588
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "12",
+            "type": "Feature",
+            "properties": {
+                "ID": "00050001C4B7",
+                "X": null,
+                "FLOOR": 2.0,
+                "ELEVATION": 4.0,
+                "HEIGHT": 0.0,
+                "SHAPE_LENG": 1.27348184785
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        55.9408863388782,
+                        54.72458620064412
+                    ],
+                    [
+                        55.94088794039713,
+                        54.724589476907134
+                    ],
+                    [
+                        55.94088286269785,
+                        54.72459030476779
+                    ],
+                    [
+                        55.94088417142374,
+                        54.72459298354096
+                    ],
+                    [
+                        55.94088074535226,
+                        54.72459354187873
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "13",
+            "type": "Feature",
+            "properties": {
+                "ID": "00050001C4B8",
+                "X": null,
+                "FLOOR": 2.0,
+                "ELEVATION": 4.0,
+                "HEIGHT": 0.0,
+                "SHAPE_LENG": 0.969247465609
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        55.940892924756376,
+                        54.72459951790827
+                    ],
+                    [
+                        55.940891324219955,
+                        54.72459624164609
+                    ],
+                    [
+                        55.940887713433405,
+                        54.724596830056896
+                    ],
+                    [
+                        55.94088732828285,
+                        54.72459604305032
+                    ],
+                    [
+                        55.940883654614574,
+                        54.72459664224204
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "14",
+            "type": "Feature",
+            "properties": {
+                "ID": "00050001C4B9",
+                "X": null,
+                "FLOOR": 2.0,
+                "ELEVATION": 4.0,
+                "HEIGHT": 0.0,
+                "SHAPE_LENG": 0.384040132025
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        55.94091182071473,
+                        54.72463844151694
+                    ],
+                    [
+                        55.94091342223366,
+                        54.72464171834314
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "15",
+            "type": "Feature",
+            "properties": {
+                "ID": "00050001C4BA",
+                "X": null,
+                "FLOOR": 2.0,
+                "ELEVATION": 4.0,
+                "HEIGHT": 0.0,
+                "SHAPE_LENG": 0.38396115569
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        55.940918368274346,
+                        54.72465173436504
+                    ],
+                    [
+                        55.940916767737946,
+                        54.72464845810706
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "16",
+            "type": "Feature",
+            "properties": {
+                "ID": "00050001C4BB",
+                "X": null,
+                "FLOOR": 2.0,
+                "ELEVATION": 4.0,
+                "HEIGHT": 0.0,
+                "SHAPE_LENG": 0.480135848512
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        55.940937674928975,
+                        54.72469078899643
+                    ],
+                    [
+                        55.9409396773189,
+                        54.72469488573312
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "17",
+            "type": "Feature",
+            "properties": {
+                "ID": "00050001C4BC",
+                "X": null,
+                "FLOOR": 2.0,
+                "ELEVATION": 4.0,
+                "HEIGHT": 0.0,
+                "SHAPE_LENG": 0.383961155686
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        55.94096378656527,
+                        54.724744111793584
+                    ],
+                    [
+                        55.94096538710168,
+                        54.72474738804382
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "18",
+            "type": "Feature",
+            "properties": {
+                "ID": "00050001C4BD",
+                "X": null,
+                "FLOOR": 2.0,
+                "ELEVATION": 4.0,
+                "HEIGHT": 0.0,
+                "SHAPE_LENG": 1.53500521786
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        55.94092541790523,
+                        54.72479550190986
+                    ],
+                    [
+                        55.94093183871887,
+                        54.72480859611176
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "19",
+            "type": "Feature",
+            "properties": {
+                "ID": "00050001C4BE",
+                "X": null,
+                "FLOOR": 2.0,
+                "ELEVATION": 4.0,
+                "HEIGHT": 0.0,
+                "SHAPE_LENG": 0.366739328047
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        55.94096408721853,
+                        54.724813936039205
+                    ],
+                    [
+                        55.94095866858237,
+                        54.72481481893437
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "20",
+            "type": "Feature",
+            "properties": {
+                "ID": "00050001C4BF",
+                "X": null,
+                "FLOOR": 2.0,
+                "ELEVATION": 4.0,
+                "HEIGHT": 0.0,
+                "SHAPE_LENG": 0.427582731136
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        55.94102784240998,
+                        54.72480330952045
+                    ],
+                    [
+                        55.94103416005829,
+                        54.724802280232325
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "21",
+            "type": "Feature",
+            "properties": {
+                "ID": "00050001C4C0",
+                "X": null,
+                "FLOOR": 2.0,
+                "ELEVATION": 4.0,
+                "HEIGHT": 0.0,
+                "SHAPE_LENG": 0.488768867844
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        55.94105334782714,
+                        54.72479915264889
+                    ],
+                    [
+                        55.94104612625405,
+                        54.72480032946461
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "22",
+            "type": "Feature",
+            "properties": {
+                "ID": "00050001C4C1",
+                "X": null,
+                "FLOOR": 2.0,
+                "ELEVATION": 4.0,
+                "HEIGHT": 0.0,
+                "SHAPE_LENG": 0.427600112796
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        55.94111905431714,
+                        54.724788082408764
+                    ],
+                    [
+                        55.94112537196544,
+                        54.72478705255284
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "23",
+            "type": "Feature",
+            "properties": {
+                "ID": "00050001C4C2",
+                "X": null,
+                "FLOOR": 2.0,
+                "ELEVATION": 4.0,
+                "HEIGHT": 0.0,
+                "SHAPE_LENG": 0.427802278495
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        55.94114482698164,
+                        54.72478378878892
+                    ],
+                    [
+                        55.94113850638575,
+                        54.72478481921233
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "24",
+            "type": "Feature",
+            "properties": {
+                "ID": "00050001C4C3",
+                "X": null,
+                "FLOOR": 2.0,
+                "ELEVATION": 4.0,
+                "HEIGHT": 0.0,
+                "SHAPE_LENG": 0.549893412066
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        55.94121014832106,
+                        54.724772939268604
+                    ],
+                    [
+                        55.94121827283643,
+                        54.724771614924464
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "25",
+            "type": "Feature",
+            "properties": {
+                "ID": "00050001C4C4",
+                "X": null,
+                "FLOOR": 2.0,
+                "ELEVATION": 4.0,
+                "HEIGHT": 0.0,
+                "SHAPE_LENG": 0.192253028633
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        55.94128049921596,
+                        54.72476108485504
+                    ],
+                    [
+                        55.94127969747396,
+                        54.72475944446083
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "26",
+            "type": "Feature",
+            "properties": {
+                "ID": "00050001C4C5",
+                "X": null,
+                "FLOOR": 2.0,
+                "ELEVATION": 4.0,
+                "HEIGHT": 0.0,
+                "SHAPE_LENG": 2.71419890964
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        55.941313792141756,
+                        54.72488704037535
+                    ],
+                    [
+                        55.94131539169563,
+                        54.72489031377694
+                    ],
+                    [
+                        55.941294119987106,
+                        54.72489377839624
+                    ],
+                    [
+                        55.94128095609098,
+                        54.72489592207962
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "27",
+            "type": "Feature",
+            "properties": {
+                "ID": "00050001C4C6",
+                "X": null,
+                "FLOOR": 2.0,
+                "ELEVATION": 4.0,
+                "HEIGHT": 0.0,
+                "SHAPE_LENG": 0.191866087196
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        55.94138327546535,
+                        54.72496746191521
+                    ],
+                    [
+                        55.94138407622481,
+                        54.72496909889651
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "28",
+            "type": "Feature",
+            "properties": {
+                "ID": "00050001C4C7",
+                "X": null,
+                "FLOOR": 2.0,
+                "ELEVATION": 4.0,
+                "HEIGHT": 0.0,
+                "SHAPE_LENG": 0.366334999651
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        55.94131471669961,
+                        54.72497814796907
+                    ],
+                    [
+                        55.9413201294406,
+                        54.72497726621229
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "29",
+            "type": "Feature",
+            "properties": {
+                "ID": "00050001C4C8",
+                "X": null,
+                "FLOOR": 2.0,
+                "ELEVATION": 4.0,
+                "HEIGHT": 0.0,
+                "SHAPE_LENG": 0.366633528616
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        55.941244066134004,
+                        54.72499000515623
+                    ],
+                    [
+                        55.94123864946291,
+                        54.72499088861496
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "30",
+            "type": "Feature",
+            "properties": {
+                "ID": "00050001C4C9",
+                "X": null,
+                "FLOOR": 2.0,
+                "ELEVATION": 4.0,
+                "HEIGHT": 0.0,
+                "SHAPE_LENG": 0.427802278495
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        55.941222177398544,
+                        54.72499363715317
+                    ],
+                    [
+                        55.94122849799443,
+                        54.72499260673508
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "31",
+            "type": "Feature",
+            "properties": {
+                "ID": "00050001C4CA",
+                "X": null,
+                "FLOOR": 2.0,
+                "ELEVATION": 4.0,
+                "HEIGHT": 0.0,
+                "SHAPE_LENG": 0.427397947066
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        55.94115530661412,
+                        54.72500494338002
+                    ],
+                    [
+                        55.9411489919134,
+                        54.725005972662984
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "32",
+            "type": "Feature",
+            "properties": {
+                "ID": "00050001C4CB",
+                "X": null,
+                "FLOOR": 2.0,
+                "ELEVATION": 4.0,
+                "HEIGHT": 0.0,
+                "SHAPE_LENG": 0.366616139232
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        55.94113118066479,
+                        54.72500887723808
+                    ],
+                    [
+                        55.94113659733589,
+                        54.725007994347145
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "33",
+            "type": "Feature",
+            "properties": {
+                "ID": "00050001C4CC",
+                "X": null,
+                "FLOOR": 2.0,
+                "ELEVATION": 4.0,
+                "HEIGHT": 0.0,
+                "SHAPE_LENG": 0.427740685738
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        55.94106454765189,
+                        54.725019843014394
+                    ],
+                    [
+                        55.94105822803853,
+                        54.725020873431795
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "34",
+            "type": "Feature",
+            "properties": {
+                "ID": "00050001C4CD",
+                "X": null,
+                "FLOOR": 2.0,
+                "ELEVATION": 4.0,
+                "HEIGHT": 0.0,
+                "SHAPE_LENG": 0.427802278495
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        55.94104023109232,
+                        54.725024478757724
+                    ],
+                    [
+                        55.94104655168821,
+                        54.725023448340394
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "35",
+            "type": "Feature",
+            "properties": {
+                "ID": "00050001C4CE",
+                "X": null,
+                "FLOOR": 2.0,
+                "ELEVATION": 4.0,
+                "HEIGHT": 0.0,
+                "SHAPE_LENG": 0.48884784509
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        55.94097340943425,
+                        54.725035781571485
+                    ],
+                    [
+                        55.940966186878626,
+                        54.72503695894774
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "36",
+            "type": "Feature",
+            "properties": {
+                "ID": "00050001C4CF",
+                "X": null,
+                "FLOOR": 2.0,
+                "ELEVATION": 4.0,
+                "HEIGHT": 0.0,
+                "SHAPE_LENG": 0.488847845104
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        55.940948581960676,
+                        54.725040057574894
+                    ],
+                    [
+                        55.940955804516314,
+                        54.72503888019874
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "37",
+            "type": "Feature",
+            "properties": {
+                "ID": "00050001C4D0",
+                "X": null,
+                "FLOOR": 2.0,
+                "ELEVATION": 4.0,
+                "HEIGHT": 0.0,
+                "SHAPE_LENG": 0.488707273403
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        55.940882087484084,
+                        54.72505131839602
+                    ],
+                    [
+                        55.94087486689351,
+                        54.72505249520441
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "38",
+            "type": "Feature",
+            "properties": {
+                "ID": "00050001C4D1",
+                "X": null,
+                "FLOOR": 2.0,
+                "ELEVATION": 4.0,
+                "HEIGHT": 0.0,
+                "SHAPE_LENG": 0.480056871722
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        55.94086660580689,
+                        54.72504427286498
+                    ],
+                    [
+                        55.940868607214284,
+                        54.72504836899853
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "39",
+            "type": "Feature",
+            "properties": {
+                "ID": "00050001C4D2",
+                "X": null,
+                "FLOOR": 2.0,
+                "ELEVATION": 4.0,
+                "HEIGHT": 0.0,
+                "SHAPE_LENG": 0.384101725554
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        55.940850191711604,
+                        54.72501138008628
+                    ],
+                    [
+                        55.940848590192665,
+                        54.72500810272256
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "40",
+            "type": "Feature",
+            "properties": {
+                "ID": "00050001C4D3",
+                "X": null,
+                "FLOOR": 2.0,
+                "ELEVATION": 4.0,
+                "HEIGHT": 0.0,
+                "SHAPE_LENG": 0.480197442531
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        55.940841847110185,
+                        54.72499515894902
+                    ],
+                    [
+                        55.94084384950012,
+                        54.72499925622233
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "41",
+            "type": "Feature",
+            "properties": {
+                "ID": "00050001C4D4",
+                "X": null,
+                "FLOOR": 2.0,
+                "ELEVATION": 4.0,
+                "HEIGHT": 0.0,
+                "SHAPE_LENG": 0.384427079853
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        55.940823210538944,
+                        54.72495815920739
+                    ],
+                    [
+                        55.94082160803749,
+                        54.72495487900232
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "42",
+            "type": "Feature",
+            "properties": {
+                "ID": "00050001C4D5",
+                "X": null,
+                "FLOOR": 2.0,
+                "ELEVATION": 4.0,
+                "HEIGHT": 0.0,
+                "SHAPE_LENG": 0.384040132021
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        55.940815220629766,
+                        54.7249428056211
+                    ],
+                    [
+                        55.940816822148705,
+                        54.7249460824227
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "43",
+            "type": "Feature",
+            "properties": {
+                "ID": "00050001C4D6",
+                "X": null,
+                "FLOOR": 2.0,
+                "ELEVATION": 4.0,
+                "HEIGHT": 0.0,
+                "SHAPE_LENG": 0.384180704081
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        55.94079765992553,
+                        54.72490561745086
+                    ],
+                    [
+                        55.940796057424066,
+                        54.72490233951118
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "44",
+            "type": "Feature",
+            "properties": {
+                "ID": "00050001C4D7",
+                "X": null,
+                "FLOOR": 2.0,
+                "ELEVATION": 4.0,
+                "HEIGHT": 0.0,
+                "SHAPE_LENG": 0.480056871726
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        55.94078995298411,
+                        54.72489007943568
+                    ],
+                    [
+                        55.940791954391514,
+                        54.7248941755848
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "45",
+            "type": "Feature",
+            "properties": {
+                "ID": "00050001C4D8",
+                "X": null,
+                "FLOOR": 2.0,
+                "ELEVATION": 4.0,
+                "HEIGHT": 0.0,
+                "SHAPE_LENG": 0.479933683272
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        55.94077283834712,
+                        54.72485637115968
+                    ],
+                    [
+                        55.94077083693972,
+                        54.72485227614159
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "46",
+            "type": "Feature",
+            "properties": {
+                "ID": "00050001C4D9",
+                "X": null,
+                "FLOOR": 2.0,
+                "ELEVATION": 4.0,
+                "HEIGHT": 0.0,
+                "SHAPE_LENG": 0.191989269638
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        55.9407620217079,
+                        54.724837467799105
+                    ],
+                    [
+                        55.94076282246736,
+                        54.72483910592049
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "47",
+            "type": "Feature",
+            "properties": {
+                "ID": "00050001C4DA",
+                "X": null,
+                "FLOOR": 2.0,
+                "ELEVATION": 4.0,
+                "HEIGHT": 0.0,
+                "SHAPE_LENG": 0.288146579878
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        55.94074174628169,
+                        54.72479522614686
+                    ],
+                    [
+                        55.94074054465123,
+                        54.72479276754356
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "48",
+            "type": "Feature",
+            "properties": {
+                "ID": "00050001C4DB",
+                "X": null,
+                "FLOOR": 2.0,
+                "ELEVATION": 4.0,
+                "HEIGHT": 0.0,
+                "SHAPE_LENG": 0.479793112023
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        55.94073594052992,
+                        54.72478140905547
+                    ],
+                    [
+                        55.9407379409548,
+                        54.72478550294591
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "49",
+            "type": "Feature",
+            "properties": {
+                "ID": "00050001C4DC",
+                "X": null,
+                "FLOOR": 2.0,
+                "ELEVATION": 4.0,
+                "HEIGHT": 0.0,
+                "SHAPE_LENG": 0.384224915868
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        55.94071777065898,
+                        54.72474451011846
+                    ],
+                    [
+                        55.940716169140046,
+                        54.72474123159832
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "50",
+            "type": "Feature",
+            "properties": {
+                "ID": "00050001C4DD",
+                "X": null,
+                "FLOOR": 2.0,
+                "ELEVATION": 4.0,
+                "HEIGHT": 0.0,
+                "SHAPE_LENG": 0.383961155686
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        55.940709541995744,
+                        54.724729272771214
+                    ],
+                    [
+                        55.94071114253215,
+                        54.72473254902263
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "51",
+            "type": "Feature",
+            "properties": {
+                "ID": "00050001C4DE",
+                "X": null,
+                "FLOOR": 2.0,
+                "ELEVATION": 4.0,
+                "HEIGHT": 0.0,
+                "SHAPE_LENG": 0.38430389129
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        55.940690069294064,
+                        54.724690146115165
+                    ],
+                    [
+                        55.940688466792615,
+                        54.72468686702321
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "52",
+            "type": "Feature",
+            "properties": {
+                "ID": "00050001C4DF",
+                "X": null,
+                "FLOOR": 2.0,
+                "ELEVATION": 4.0,
+                "HEIGHT": 0.0,
+                "SHAPE_LENG": 0.384101725554
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        55.94068278975187,
+                        54.72467549432007
+                    ],
+                    [
+                        55.94068439127081,
+                        54.724678771710686
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "53",
+            "type": "Feature",
+            "properties": {
+                "ID": "00050001C4E0",
+                "X": null,
+                "FLOOR": 2.0,
+                "ELEVATION": 4.0,
+                "HEIGHT": 0.0,
+                "SHAPE_LENG": 0.384101725554
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        55.940664949027465,
+                        54.72463763408423
+                    ],
+                    [
+                        55.940663347508526,
+                        54.72463435669031
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "54",
+            "type": "Feature",
+            "properties": {
+                "ID": "00050001C4E1",
+                "X": null,
+                "FLOOR": 2.0,
+                "ELEVATION": 4.0,
+                "HEIGHT": 0.0,
+                "SHAPE_LENG": 0.479995277636
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        55.9406578021264,
+                        54.7246231224219
+                    ],
+                    [
+                        55.940659803533805,
+                        54.72462721803059
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "55",
+            "type": "Feature",
+            "properties": {
+                "ID": "00050001C4E2",
+                "X": null,
+                "FLOOR": 2.0,
+                "ELEVATION": 4.0,
+                "HEIGHT": 0.0,
+                "SHAPE_LENG": 0.383635801283
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        55.94063253153317,
+                        54.72456990897701
+                    ],
+                    [
+                        55.94063413108705,
+                        54.72457318240425
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "56",
+            "type": "Feature",
+            "properties": {
+                "ID": "00050001C4E3",
+                "X": null,
+                "FLOOR": 2.0,
+                "ELEVATION": 4.0,
+                "HEIGHT": 0.0,
+                "SHAPE_LENG": 0.384180704081
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        55.94063890223793,
+                        54.724583850404734
+                    ],
+                    [
+                        55.940637299736466,
+                        54.72458057243903
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "57",
+            "type": "Feature",
+            "properties": {
+                "ID": "00050001C4E4",
+                "X": null,
+                "FLOOR": 2.0,
+                "ELEVATION": 4.0,
+                "HEIGHT": 0.0,
+                "SHAPE_LENG": 0.288208173516
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        55.94061394408828,
+                        54.72453144774763
+                    ],
+                    [
+                        55.940612742457816,
+                        54.72452898856094
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "58",
+            "type": "Feature",
+            "properties": {
+                "ID": "00050001C4E5",
+                "X": null,
+                "FLOOR": 2.0,
+                "ELEVATION": 4.0,
+                "HEIGHT": 0.0,
+                "SHAPE_LENG": 0.288067604334
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        55.94060720002327,
+                        54.724518321113436
+                    ],
+                    [
+                        55.9406084006712,
+                        54.72452077916594
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "59",
+            "type": "Feature",
+            "properties": {
+                "ID": "00050001C4E6",
+                "X": null,
+                "FLOOR": 2.0,
+                "ELEVATION": 4.0,
+                "HEIGHT": 0.0,
+                "SHAPE_LENG": 0.38396115569
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        55.94058795232025,
+                        54.72447940079389
+                    ],
+                    [
+                        55.94058635178386,
+                        54.72447612452202
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "60",
+            "type": "Feature",
+            "properties": {
+                "ID": "00050001C4E7",
+                "X": null,
+                "FLOOR": 2.0,
+                "ELEVATION": 4.0,
+                "HEIGHT": 0.0,
+                "SHAPE_LENG": 0.287865440777
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        55.940581190569766,
+                        54.7244652306607
+                    ],
+                    [
+                        55.94058239023517,
+                        54.72446768701417
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "61",
+            "type": "Feature",
+            "properties": {
+                "ID": "00050001C4E8",
+                "X": null,
+                "FLOOR": 2.0,
+                "ELEVATION": 4.0,
+                "HEIGHT": 0.0,
+                "SHAPE_LENG": 0.384101725554
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        55.940561972342564,
+                        54.72442597721537
+                    ],
+                    [
+                        55.94056037082364,
+                        54.72442269980433
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "62",
+            "type": "Feature",
+            "properties": {
+                "ID": "00050001C4E9",
+                "X": null,
+                "FLOOR": 2.0,
+                "ELEVATION": 4.0,
+                "HEIGHT": 0.0,
+                "SHAPE_LENG": 0.383916946428
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        55.940555018999326,
+                        54.724412727984486
+                    ],
+                    [
+                        55.940556620518244,
+                        54.72441600369409
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "63",
+            "type": "Feature",
+            "properties": {
+                "ID": "00050001C4EA",
+                "X": null,
+                "FLOOR": 2.0,
+                "ELEVATION": 4.0,
+                "HEIGHT": 0.0,
+                "SHAPE_LENG": 0.38396115569
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        55.940536434502,
+                        54.72437377295099
+                    ],
+                    [
+                        55.94053483396559,
+                        54.724370496670566
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "64",
+            "type": "Feature",
+            "properties": {
+                "ID": "00050001C4EB",
+                "X": null,
+                "FLOOR": 2.0,
+                "ELEVATION": 4.0,
+                "HEIGHT": 0.0,
+                "SHAPE_LENG": 0.383714779642
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        55.94053028388328,
+                        54.7243604788769
+                    ],
+                    [
+                        55.940531884419684,
+                        54.724363752888465
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "65",
+            "type": "Feature",
+            "properties": {
+                "ID": "00050001C4EC",
+                "X": null,
+                "FLOOR": 2.0,
+                "ELEVATION": 4.0,
+                "HEIGHT": 0.0,
+                "SHAPE_LENG": 0.384109749542
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        55.940511822201834,
+                        54.72432105907597
+                    ],
+                    [
+                        55.94051021675279,
+                        54.724317782223864
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "66",
+            "type": "Feature",
+            "properties": {
+                "ID": "00050001C4ED",
+                "X": null,
+                "FLOOR": 2.0,
+                "ELEVATION": 4.0,
+                "HEIGHT": 0.0,
+                "SHAPE_LENG": 0.383899560943
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        55.9405057953815,
+                        54.72430818601056
+                    ],
+                    [
+                        55.940507395917905,
+                        54.724311461728604
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "67",
+            "type": "Feature",
+            "properties": {
+                "ID": "00050001C4EE",
+                "X": null,
+                "FLOOR": 2.0,
+                "ELEVATION": 4.0,
+                "HEIGHT": 0.0,
+                "SHAPE_LENG": 0.480056871722
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        55.94049246642085,
+                        54.724282977782366
+                    ],
+                    [
+                        55.94049046501345,
+                        54.72427888157149
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "68",
+            "type": "Feature",
+            "properties": {
+                "ID": "00050001C4EF",
+                "X": null,
+                "FLOOR": 2.0,
+                "ELEVATION": 4.0,
+                "HEIGHT": 0.0,
+                "SHAPE_LENG": 0.305553192956
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        55.940500259824645,
+                        54.7242749623955
+                    ],
+                    [
+                        55.940495745113296,
+                        54.724275697772974
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "69",
+            "type": "Feature",
+            "properties": {
+                "ID": "00050001C4F0",
+                "X": null,
+                "FLOOR": 2.0,
+                "ELEVATION": 4.0,
+                "HEIGHT": 0.0,
+                "SHAPE_LENG": 0.366598759958
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        55.940569452320254,
+                        54.724263539643715
+                    ],
+                    [
+                        55.940574868991355,
+                        54.724262657303925
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "70",
+            "type": "Feature",
+            "properties": {
+                "ID": "00050001C4F1",
+                "X": null,
+                "FLOOR": 2.0,
+                "ELEVATION": 4.0,
+                "HEIGHT": 0.0,
+                "SHAPE_LENG": 0.305430001195
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        55.94059331298732,
+                        54.724259122837935
+                    ],
+                    [
+                        55.94058880024102,
+                        54.72425985821569
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "71",
+            "type": "Feature",
+            "properties": {
+                "ID": "00050001C4F2",
+                "X": null,
+                "FLOOR": 2.0,
+                "ELEVATION": 4.0,
+                "HEIGHT": 0.0,
+                "SHAPE_LENG": 0.366413973756
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        55.94070785008433,
+                        54.72424015281047
+                    ],
+                    [
+                        55.94071326380785,
+                        54.72423927047019
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "72",
+            "type": "Feature",
+            "properties": {
+                "ID": "00050001C4F3",
+                "X": null,
+                "FLOOR": 2.0,
+                "ELEVATION": 4.0,
+                "HEIGHT": 0.0,
+                "SHAPE_LENG": 0.427863871707
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        55.940754479831,
+                        54.72426194632533
+                    ],
+                    [
+                        55.94074815825258,
+                        54.72426297676202
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "73",
+            "type": "Feature",
+            "properties": {
+                "ID": "00050001C4F4",
+                "X": null,
+                "FLOOR": 2.0,
+                "ELEVATION": 4.0,
+                "HEIGHT": 0.0,
+                "SHAPE_LENG": 0.42739794708
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        55.94082238325125,
+                        54.72425086572486
+                    ],
+                    [
+                        55.940828697951986,
+                        54.72424983642274
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "74",
+            "type": "Feature",
+            "properties": {
+                "ID": "00050001C4F5",
+                "X": null,
+                "FLOOR": 2.0,
+                "ELEVATION": 4.0,
+                "HEIGHT": 0.0,
+                "SHAPE_LENG": 0.366616139232
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        55.940846521973434,
+                        54.724246864837525
+                    ],
+                    [
+                        55.94084110530234,
+                        54.72424774774505
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "75",
+            "type": "Feature",
+            "properties": {
+                "ID": "00050001C4F6",
+                "X": null,
+                "FLOOR": 2.0,
+                "ELEVATION": 4.0,
+                "HEIGHT": 0.0,
+                "SHAPE_LENG": 0.488715281668
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        55.9409125703828,
+                        54.724236099151845
+                    ],
+                    [
+                        55.94091978999084,
+                        54.72423492005005
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "76",
+            "type": "Feature",
+            "properties": {
+                "ID": "00050001C4F7",
+                "X": null,
+                "FLOOR": 2.0,
+                "ELEVATION": 4.0,
+                "HEIGHT": 0.0,
+                "SHAPE_LENG": 9.76625951727
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        55.940926454471175,
+                        54.72423666884298
+                    ],
+                    [
+                        55.941058765480776,
+                        54.724215103985465
+                    ],
+                    [
+                        55.94105746952771,
+                        54.724212452991004
+                    ],
+                    [
+                        55.941050076012395,
+                        54.72421365819485
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "77",
+            "type": "Feature",
+            "properties": {
+                "ID": "00050001C4F8",
+                "X": null,
+                "FLOOR": 2.0,
+                "ELEVATION": 4.0,
+                "HEIGHT": 0.0,
+                "SHAPE_LENG": 1.21299857078
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        55.94138327546535,
+                        54.72496746191521
+                    ],
+                    [
+                        55.94137821545153,
+                        54.72495711233346
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "78",
+            "type": "Feature",
+            "properties": {
+                "ID": "00050001C4F9",
+                "X": null,
+                "FLOOR": 2.0,
+                "ELEVATION": 4.0,
+                "HEIGHT": 0.0,
+                "SHAPE_LENG": 1.0208529351
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        55.94131471669961,
+                        54.72497814796907
+                    ],
+                    [
+                        55.941299631963304,
+                        54.72498060258924
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "79",
+            "type": "Feature",
+            "properties": {
+                "ID": "00050001C4FA",
+                "X": null,
+                "FLOOR": 2.0,
+                "ELEVATION": 4.0,
+                "HEIGHT": 0.0,
+                "SHAPE_LENG": 1.05590011181
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        55.941244066134004,
+                        54.72499000515623
+                    ],
+                    [
+                        55.941259664731916,
+                        54.72498745804863
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "80",
+            "type": "Feature",
+            "properties": {
+                "ID": "00050001C4FB",
+                "X": null,
+                "FLOOR": 2.0,
+                "ELEVATION": 4.0,
+                "HEIGHT": 0.0,
+                "SHAPE_LENG": 0.995296560084
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        55.941222177398544,
+                        54.72499363715317
+                    ],
+                    [
+                        55.94120747093511,
+                        54.72499603162684
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "81",
+            "type": "Feature",
+            "properties": {
+                "ID": "00050001C4FC",
+                "X": null,
+                "FLOOR": 2.0,
+                "ELEVATION": 4.0,
+                "HEIGHT": 0.0,
+                "SHAPE_LENG": 0.856113300664
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        55.94115530661412,
+                        54.72500494338002
+                    ],
+                    [
+                        55.94116795370106,
+                        54.725002878005085
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "82",
+            "type": "Feature",
+            "properties": {
+                "ID": "00050001C4FD",
+                "X": null,
+                "FLOOR": 2.0,
+                "ELEVATION": 4.0,
+                "HEIGHT": 0.0,
+                "SHAPE_LENG": 0.826982652045
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        55.94113118066479,
+                        54.72500887723808
+                    ],
+                    [
+                        55.941118959994554,
+                        54.72501086431005
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "83",
+            "type": "Feature",
+            "properties": {
+                "ID": "00050001C4FE",
+                "X": null,
+                "FLOOR": 2.0,
+                "ELEVATION": 4.0,
+                "HEIGHT": 0.0,
+                "SHAPE_LENG": 0.716896808504
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        55.94106454765189,
+                        54.725019843014394
+                    ],
+                    [
+                        55.94107513732739,
+                        54.725018111844996
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "84",
+            "type": "Feature",
+            "properties": {
+                "ID": "00050001C4FF",
+                "X": null,
+                "FLOOR": 2.0,
+                "ELEVATION": 4.0,
+                "HEIGHT": 0.0,
+                "SHAPE_LENG": 0.854227567
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        55.94104025860308,
+                        54.725024474218436
+                    ],
+                    [
+                        55.94102763411426,
+                        54.72502652427218
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "85",
+            "type": "Feature",
+            "properties": {
+                "ID": "00050001C500",
+                "X": null,
+                "FLOOR": 2.0,
+                "ELEVATION": 4.0,
+                "HEIGHT": 0.0,
+                "SHAPE_LENG": 0.751300932
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        55.94097340943425,
+                        54.725035781571485
+                    ],
+                    [
+                        55.940984512971355,
+                        54.72503397890907
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "86",
+            "type": "Feature",
+            "properties": {
+                "ID": "00050001C501",
+                "X": null,
+                "FLOOR": 2.0,
+                "ELEVATION": 4.0,
+                "HEIGHT": 0.0,
+                "SHAPE_LENG": 0.994734309408
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        55.940948609471434,
+                        54.725040053035634
+                    ],
+                    [
+                        55.94093391086822,
+                        54.72504244523694
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "87",
+            "type": "Feature",
+            "properties": {
+                "ID": "00050001C502",
+                "X": null,
+                "FLOOR": 2.0,
+                "ELEVATION": 4.0,
+                "HEIGHT": 0.0,
+                "SHAPE_LENG": 0.995390173939
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        55.940882087484084,
+                        54.72505131839602
+                    ],
+                    [
+                        55.940896790999936,
+                        54.72504891484703
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "88",
+            "type": "Feature",
+            "properties": {
+                "ID": "00050001C503",
+                "X": null,
+                "FLOOR": 2.0,
+                "ELEVATION": 4.0,
+                "HEIGHT": 0.0,
+                "SHAPE_LENG": 1.00409406191
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        55.9408666136671,
+                        54.725044288752485
+                    ],
+                    [
+                        55.94086241925954,
+                        54.72503572256082
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "89",
+            "type": "Feature",
+            "properties": {
+                "ID": "00050001C504",
+                "X": null,
+                "FLOOR": 2.0,
+                "ELEVATION": 4.0,
+                "HEIGHT": 0.0,
+                "SHAPE_LENG": 1.01119807712
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        55.940850191711604,
+                        54.72501138008628
+                    ],
+                    [
+                        55.94085441166487,
+                        54.725020007563444
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "90",
+            "type": "Feature",
+            "properties": {
+                "ID": "00050001C505",
+                "X": null,
+                "FLOOR": 2.0,
+                "ELEVATION": 4.0,
+                "HEIGHT": 0.0,
+                "SHAPE_LENG": 1.01199086497
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        55.940841847110185,
+                        54.72499515894902
+                    ],
+                    [
+                        55.940837631087035,
+                        54.72498652352284
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "91",
+            "type": "Feature",
+            "properties": {
+                "ID": "00050001C506",
+                "X": null,
+                "FLOOR": 2.0,
+                "ELEVATION": 4.0,
+                "HEIGHT": 0.0,
+                "SHAPE_LENG": 1.10824304322
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        55.940823210538944,
+                        54.72495815920739
+                    ],
+                    [
+                        55.940827836275844,
+                        54.72496761454884
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "92",
+            "type": "Feature",
+            "properties": {
+                "ID": "00050001C507",
+                "X": null,
+                "FLOOR": 2.0,
+                "ELEVATION": 4.0,
+                "HEIGHT": 0.0,
+                "SHAPE_LENG": 0.777356122239
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        55.940815228489974,
+                        54.724942820941216
+                    ],
+                    [
+                        55.94081199204619,
+                        54.72493618733221
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "93",
+            "type": "Feature",
+            "properties": {
+                "ID": "00050001C508",
+                "X": null,
+                "FLOOR": 2.0,
+                "ELEVATION": 4.0,
+                "HEIGHT": 0.0,
+                "SHAPE_LENG": 1.01154082238
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        55.94079765992553,
+                        54.72490561745086
+                    ],
+                    [
+                        55.940801881843846,
+                        54.724914247787595
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "94",
+            "type": "Feature",
+            "properties": {
+                "ID": "00050001C509",
+                "X": null,
+                "FLOOR": 2.0,
+                "ELEVATION": 4.0,
+                "HEIGHT": 0.0,
+                "SHAPE_LENG": 1.07295592904
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        55.94078995298411,
+                        54.72489007943568
+                    ],
+                    [
+                        55.94078547659131,
+                        54.72488092480476
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "95",
+            "type": "Feature",
+            "properties": {
+                "ID": "00050001C50A",
+                "X": null,
+                "FLOOR": 2.0,
+                "ELEVATION": 4.0,
+                "HEIGHT": 0.0,
+                "SHAPE_LENG": 1.1072496034
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        55.94077283834712,
+                        54.72485637115968
+                    ],
+                    [
+                        55.940777460153896,
+                        54.72486581801368
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "96",
+            "type": "Feature",
+            "properties": {
+                "ID": "00050001C50B",
+                "X": null,
+                "FLOOR": 2.0,
+                "ELEVATION": 4.0,
+                "HEIGHT": 0.0,
+                "SHAPE_LENG": 1.02054337687
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        55.9407620217079,
+                        54.724837467799105
+                    ],
+                    [
+                        55.940757764418606,
+                        54.724828760277845
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "97",
+            "type": "Feature",
+            "properties": {
+                "ID": "00050001C50C",
+                "X": null,
+                "FLOOR": 2.0,
+                "ELEVATION": 4.0,
+                "HEIGHT": 0.0,
+                "SHAPE_LENG": 1.01169080588
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        55.94074174628169,
+                        54.72479522614686
+                    ],
+                    [
+                        55.94074596623496,
+                        54.72480385820931
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "98",
+            "type": "Feature",
+            "properties": {
+                "ID": "00050001C50D",
+                "X": null,
+                "FLOOR": 2.0,
+                "ELEVATION": 4.0,
+                "HEIGHT": 0.0,
+                "SHAPE_LENG": 1.05536604946
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        55.94073594052992,
+                        54.72478140905547
+                    ],
+                    [
+                        55.940731542739286,
+                        54.72477240362986
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "99",
+            "type": "Feature",
+            "properties": {
+                "ID": "00050001C50E",
+                "X": null,
+                "FLOOR": 2.0,
+                "ELEVATION": 4.0,
+                "HEIGHT": 0.0,
+                "SHAPE_LENG": 1.01192775932
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        55.94071777065898,
+                        54.72474451011846
+                    ],
+                    [
+                        55.940721993559826,
+                        54.72475314389396
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "100",
+            "type": "Feature",
+            "properties": {
+                "ID": "00050001C50F",
+                "X": null,
+                "FLOOR": 2.0,
+                "ELEVATION": 4.0,
+                "HEIGHT": 0.0,
+                "SHAPE_LENG": 1.01280743452
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        55.940709541995744,
+                        54.724729272771214
+                    ],
+                    [
+                        55.94070531811237,
+                        54.7247206310468
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "101",
+            "type": "Feature",
+            "properties": {
+                "ID": "00050001C510",
+                "X": null,
+                "FLOOR": 2.0,
+                "ELEVATION": 4.0,
+                "HEIGHT": 0.0,
+                "SHAPE_LENG": 1.0115770607
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        55.940690069294064,
+                        54.724690146115165
+                    ],
+                    [
+                        55.94069428629975,
+                        54.7246987776326
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "102",
+            "type": "Feature",
+            "properties": {
+                "ID": "00050001C511",
+                "X": null,
+                "FLOOR": 2.0,
+                "ELEVATION": 4.0,
+                "HEIGHT": 0.0,
+                "SHAPE_LENG": 1.01214094051
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        55.94068278975187,
+                        54.72467549432007
+                    ],
+                    [
+                        55.940678575693774,
+                        54.724666857123516
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "103",
+            "type": "Feature",
+            "properties": {
+                "ID": "00050001C512",
+                "X": null,
+                "FLOOR": 2.0,
+                "ELEVATION": 4.0,
+                "HEIGHT": 0.0,
+                "SHAPE_LENG": 1.05559352835
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        55.940664949027465,
+                        54.72463763408423
+                    ],
+                    [
+                        55.940669352713265,
+                        54.72464664067463
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "104",
+            "type": "Feature",
+            "properties": {
+                "ID": "00050001C513",
+                "X": null,
+                "FLOOR": 2.0,
+                "ELEVATION": 4.0,
+                "HEIGHT": 0.0,
+                "SHAPE_LENG": 1.01301905379
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        55.940657809004094,
+                        54.724623136039895
+                    ],
+                    [
+                        55.94065358708578,
+                        54.724614492023214
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "105",
+            "type": "Feature",
+            "properties": {
+                "ID": "00050001C514",
+                "X": null,
+                "FLOOR": 2.0,
+                "ELEVATION": 4.0,
+                "HEIGHT": 0.0,
+                "SHAPE_LENG": 1.0200174082
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        55.94063890223793,
+                        54.724583850404734
+                    ],
+                    [
+                        55.94064315068447,
+                        54.7245925545741
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "106",
+            "type": "Feature",
+            "properties": {
+                "ID": "00050001C515",
+                "X": null,
+                "FLOOR": 2.0,
+                "ELEVATION": 4.0,
+                "HEIGHT": 0.0,
+                "SHAPE_LENG": 1.00416501183
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        55.94063254234097,
+                        54.72456993110627
+                    ],
+                    [
+                        55.94062835088098,
+                        54.724561363679534
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "107",
+            "type": "Feature",
+            "properties": {
+                "ID": "00050001C516",
+                "X": null,
+                "FLOOR": 2.0,
+                "ELEVATION": 4.0,
+                "HEIGHT": 0.0,
+                "SHAPE_LENG": 1.11555873836
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        55.94061394408828,
+                        54.72453144774763
+                    ],
+                    [
+                        55.94061859340582,
+                        54.72454096673933
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "108",
+            "type": "Feature",
+            "properties": {
+                "ID": "00050001C517",
+                "X": null,
+                "FLOOR": 2.0,
+                "ELEVATION": 4.0,
+                "HEIGHT": 0.0,
+                "SHAPE_LENG": 1.00404183442
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        55.94060720788349,
+                        54.724518338135944
+                    ],
+                    [
+                        55.9406030164235,
+                        54.72450977183311
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "109",
+            "type": "Feature",
+            "properties": {
+                "ID": "00050001C518",
+                "X": null,
+                "FLOOR": 2.0,
+                "ELEVATION": 4.0,
+                "HEIGHT": 0.0,
+                "SHAPE_LENG": 1.11560296361
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        55.94058795232025,
+                        54.72447940079389
+                    ],
+                    [
+                        55.940592600655265,
+                        54.72448892036524
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "110",
+            "type": "Feature",
+            "properties": {
+                "ID": "00050001C519",
+                "X": null,
+                "FLOOR": 2.0,
+                "ELEVATION": 4.0,
+                "HEIGHT": 0.0,
+                "SHAPE_LENG": 1.02080713532
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        55.940581190569766,
+                        54.7244652306607
+                    ],
+                    [
+                        55.940576932297944,
+                        54.72445652078979
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "111",
+            "type": "Feature",
+            "properties": {
+                "ID": "00050001C51A",
+                "X": null,
+                "FLOOR": 2.0,
+                "ELEVATION": 4.0,
+                "HEIGHT": 0.0,
+                "SHAPE_LENG": 1.00267238114
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        55.940561972342564,
+                        54.72442597721537
+                    ],
+                    [
+                        55.94056614906465,
+                        54.72443453332236
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "112",
+            "type": "Feature",
+            "properties": {
+                "ID": "00050001C51B",
+                "X": null,
+                "FLOOR": 2.0,
+                "ELEVATION": 4.0,
+                "HEIGHT": 0.0,
+                "SHAPE_LENG": 1.11764992763
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        55.940555027842066,
+                        54.724412745007065
+                    ],
+                    [
+                        55.940550364769145,
+                        54.724403208962684
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "113",
+            "type": "Feature",
+            "properties": {
+                "ID": "00050001C51C",
+                "X": null,
+                "FLOOR": 2.0,
+                "ELEVATION": 4.0,
+                "HEIGHT": 0.0,
+                "SHAPE_LENG": 1.21223569839
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        55.940536434502,
+                        54.72437377295099
+                    ],
+                    [
+                        55.94054148272549,
+                        54.724384117574914
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "114",
+            "type": "Feature",
+            "properties": {
+                "ID": "00050001C51D",
+                "X": null,
+                "FLOOR": 2.0,
+                "ELEVATION": 4.0,
+                "HEIGHT": 0.0,
+                "SHAPE_LENG": 1.11759776301
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        55.940530292726024,
+                        54.72436049589946
+                    ],
+                    [
+                        55.94052563260068,
+                        54.72435095984281
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "115",
+            "type": "Feature",
+            "properties": {
+                "ID": "00050001C51E",
+                "X": null,
+                "FLOOR": 2.0,
+                "ELEVATION": 4.0,
+                "HEIGHT": 0.0,
+                "SHAPE_LENG": 1.2128074668
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        55.94051181434161,
+                        54.72432104318818
+                    ],
+                    [
+                        55.94051686354763,
+                        54.72433139293237
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "116",
+            "type": "Feature",
+            "properties": {
+                "ID": "00050001C51F",
+                "X": null,
+                "FLOOR": 2.0,
+                "ELEVATION": 4.0,
+                "HEIGHT": 0.0,
+                "SHAPE_LENG": 1.11761514782
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        55.94050580618929,
+                        54.724308207572534
+                    ],
+                    [
+                        55.940501145081434,
+                        54.72429867150354
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "117",
+            "type": "Feature",
+            "properties": {
+                "ID": "00050001C520",
+                "X": null,
+                "FLOOR": 2.0,
+                "ELEVATION": 4.0,
+                "HEIGHT": 0.0,
+                "SHAPE_LENG": 1.11678910231
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        55.9404924605257,
+                        54.724282965866564
+                    ],
+                    [
+                        55.94049711672093,
+                        54.72429249513016
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "118",
+            "type": "Feature",
+            "properties": {
+                "ID": "00050001C521",
+                "X": null,
+                "FLOOR": 2.0,
+                "ELEVATION": 4.0,
+                "HEIGHT": 0.0,
+                "SHAPE_LENG": 1.15996880584
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        55.940500259824645,
+                        54.7242749623955
+                    ],
+                    [
+                        55.9405173950947,
+                        54.72427216274066
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "119",
+            "type": "Feature",
+            "properties": {
+                "ID": "00050001C522",
+                "X": null,
+                "FLOOR": 2.0,
+                "ELEVATION": 4.0,
+                "HEIGHT": 0.0,
+                "SHAPE_LENG": 0.853470927509
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        55.940569452320254,
+                        54.724263539643715
+                    ],
+                    [
+                        55.94055683962176,
+                        54.72426558916852
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "120",
+            "type": "Feature",
+            "properties": {
+                "ID": "00050001C523",
+                "X": null,
+                "FLOOR": 2.0,
+                "ELEVATION": 4.0,
+                "HEIGHT": 0.0,
+                "SHAPE_LENG": 0.778232848137
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        55.94059328940667,
+                        54.72425912624245
+                    ],
+                    [
+                        55.94060478595454,
+                        54.72425724864591
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "121",
+            "type": "Feature",
+            "properties": {
+                "ID": "00050001C524",
+                "X": null,
+                "FLOOR": 2.0,
+                "ELEVATION": 4.0,
+                "HEIGHT": 0.0,
+                "SHAPE_LENG": 1.05581632432
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        55.94070787759509,
+                        54.7242401482711
+                    ],
+                    [
+                        55.94069227506708,
+                        54.724242684644636
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "122",
+            "type": "Feature",
+            "properties": {
+                "ID": "00050001C525",
+                "X": null,
+                "FLOOR": 2.0,
+                "ELEVATION": 4.0,
+                "HEIGHT": 0.0,
+                "SHAPE_LENG": 1.05641829372
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        55.940754479831,
+                        54.72426194632533
+                    ],
+                    [
+                        55.94077008530659,
+                        54.7242593963349
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "123",
+            "type": "Feature",
+            "properties": {
+                "ID": "00050001C526",
+                "X": null,
+                "FLOOR": 2.0,
+                "ELEVATION": 4.0,
+                "HEIGHT": 0.0,
+                "SHAPE_LENG": 0.66098886825
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        55.94082238325125,
+                        54.72425086572486
+                    ],
+                    [
+                        55.94081261496829,
+                        54.724252452802055
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "124",
+            "type": "Feature",
+            "properties": {
+                "ID": "00050001C527",
+                "X": null,
+                "FLOOR": 2.0,
+                "ELEVATION": 4.0,
+                "HEIGHT": 0.0,
+                "SHAPE_LENG": 0.751995991771
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        55.940846521973434,
+                        54.724246864837525
+                    ],
+                    [
+                        55.94085763631833,
+                        54.72424506157261
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "125",
+            "type": "Feature",
+            "properties": {
+                "ID": "00050001C528",
+                "X": null,
+                "FLOOR": 2.0,
+                "ELEVATION": 4.0,
+                "HEIGHT": 0.0,
+                "SHAPE_LENG": 0.994162548861
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        55.94091259494597,
+                        54.72423609517989
+                    ],
+                    [
+                        55.940897905185494,
+                        54.72423848686121
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "126",
+            "type": "Feature",
+            "properties": {
+                "ID": "00050001C529",
+                "X": null,
+                "FLOOR": 2.0,
+                "ELEVATION": 4.0,
+                "HEIGHT": 0.0,
+                "SHAPE_LENG": 2.15937009288
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        55.941050076012395,
+                        54.72421365819485
+                    ],
+                    [
+                        55.94102275586795,
+                        54.72421811642737
+                    ],
+                    [
+                        55.94102404985594,
+                        54.72422076231469
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "127",
+            "type": "Feature",
+            "properties": {
+                "ID": "00050001C52A",
+                "X": null,
+                "FLOOR": 2.0,
+                "ELEVATION": 4.0,
+                "HEIGHT": 0.0,
+                "SHAPE_LENG": 0.000527757529335
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        55.94101216619244,
+                        54.72422269892476
+                    ],
+                    [
+                        55.94101217405266,
+                        54.72422269778991
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "128",
+            "type": "Feature",
+            "properties": {
+                "ID": "00050001C52B",
+                "X": null,
+                "FLOOR": 2.0,
+                "ELEVATION": 4.0,
+                "HEIGHT": 0.0,
+                "SHAPE_LENG": 2.79901609839
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        55.94101205713195,
+                        54.72422271651483
+                    ],
+                    [
+                        55.94101085746654,
+                        54.72422025844424
+                    ],
+                    [
+                        55.94097801945072,
+                        54.7242256063931
+                    ],
+                    [
+                        55.9409792220637,
+                        54.72422806843534
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "129",
+            "type": "Feature",
+            "properties": {
+                "ID": "00050001C52C",
+                "X": null,
+                "FLOOR": 2.0,
+                "ELEVATION": 4.0,
+                "HEIGHT": 0.0,
+                "SHAPE_LENG": 2.65040201822
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        55.940963939839484,
+                        54.72423055941589
+                    ],
+                    [
+                        55.94096273919154,
+                        54.72422810134579
+                    ],
+                    [
+                        55.94093209614093,
+                        54.724233091818085
+                    ],
+                    [
+                        55.940933297771394,
+                        54.7242355532924
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "130",
+            "type": "Feature",
+            "properties": {
+                "ID": "00050001C52D",
+                "X": null,
+                "FLOOR": 2.0,
+                "ELEVATION": 4.0,
+                "HEIGHT": 0.0,
+                "SHAPE_LENG": 2.2629741989
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        55.94112326935777,
+                        54.724365316697
+                    ],
+                    [
+                        55.94109597574154,
+                        54.724369768671245
+                    ],
+                    [
+                        55.94109424256399,
+                        54.724366222866166
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "131",
+            "type": "Feature",
+            "properties": {
+                "ID": "00050001C52E",
+                "X": null,
+                "FLOOR": 2.0,
+                "ELEVATION": 4.0,
+                "HEIGHT": 0.0,
+                "SHAPE_LENG": 2.9050526149
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        55.94108171141523,
+                        54.72436827125096
+                    ],
+                    [
+                        55.94108331293417,
+                        54.72437154809899
+                    ],
+                    [
+                        55.941051717814936,
+                        54.72437669743107
+                    ],
+                    [
+                        55.941050122191164,
+                        54.72437343306669
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "132",
+            "type": "Feature",
+            "properties": {
+                "ID": "00050001C52F",
+                "X": null,
+                "FLOOR": 2.0,
+                "ELEVATION": 4.0,
+                "HEIGHT": 0.0,
+                "SHAPE_LENG": 2.96510474043
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        55.94103733656793,
+                        54.724375522872734
+                    ],
+                    [
+                        55.94103893710434,
+                        54.72437879801792
+                    ],
+                    [
+                        55.94100644788558,
+                        54.724384093175885
+                    ],
+                    [
+                        55.94100485324433,
+                        54.72438083108176
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "133",
+            "type": "Feature",
+            "properties": {
+                "ID": "00050001C530",
+                "X": null,
+                "FLOOR": 2.0,
+                "ELEVATION": 4.0,
+                "HEIGHT": 0.0,
+                "SHAPE_LENG": 1.05485756306
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        55.94098642398628,
+                        54.724386994391025
+                    ],
+                    [
+                        55.940970836196165,
+                        54.72438952962055
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "134",
+            "type": "Feature",
+            "properties": {
+                "ID": "00050001C531",
+                "X": null,
+                "FLOOR": 2.0,
+                "ELEVATION": 4.0,
+                "HEIGHT": 0.0,
+                "SHAPE_LENG": 0.740756659124
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        55.940919302657484,
+                        54.72439769024407
+                    ],
+                    [
+                        55.940930246042676,
+                        54.724395904008425
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "135",
+            "type": "Feature",
+            "properties": {
+                "ID": "00050001C532",
+                "X": null,
+                "FLOOR": 2.0,
+                "ELEVATION": 4.0,
+                "HEIGHT": 0.0,
+                "SHAPE_LENG": 0.934041005817
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        55.94089540563692,
+                        54.7244020673154
+                    ],
+                    [
+                        55.94088160309829,
+                        54.724404312025406
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "136",
+            "type": "Feature",
+            "properties": {
+                "ID": "00050001C533",
+                "X": null,
+                "FLOOR": 2.0,
+                "ELEVATION": 4.0,
+                "HEIGHT": 0.0,
+                "SHAPE_LENG": 0.932948089273
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        55.94083238046299,
+                        54.72441241817373
+                    ],
+                    [
+                        55.9408461633511,
+                        54.72441016892484
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "137",
+            "type": "Feature",
+            "properties": {
+                "ID": "00050001C534",
+                "X": null,
+                "FLOOR": 2.0,
+                "ELEVATION": 4.0,
+                "HEIGHT": 0.0,
+                "SHAPE_LENG": 1.00412889852
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        55.940809430598435,
+                        54.72442825369947
+                    ],
+                    [
+                        55.940805234225806,
+                        54.724419687377605
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "138",
+            "type": "Feature",
+            "properties": {
+                "ID": "00050001C535",
+                "X": null,
+                "FLOOR": 2.0,
+                "ELEVATION": 4.0,
+                "HEIGHT": 0.0,
+                "SHAPE_LENG": 0.358221670298
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        55.940806141098186,
+                        54.724431423867934
+                    ],
+                    [
+                        55.94080084724296,
+                        54.7244322840747
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "139",
+            "type": "Feature",
+            "properties": {
+                "ID": "00050001C536",
+                "X": null,
+                "FLOOR": 2.0,
+                "ELEVATION": 4.0,
+                "HEIGHT": 0.0,
+                "SHAPE_LENG": 1.11618423927
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        55.9408157796876,
+                        54.72444122886211
+                    ],
+                    [
+                        55.940820426057556,
+                        54.72445075411658
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "140",
+            "type": "Feature",
+            "properties": {
+                "ID": "00050001C537",
+                "X": null,
+                "FLOOR": 2.0,
+                "ELEVATION": 4.0,
+                "HEIGHT": 0.0,
+                "SHAPE_LENG": 1.10896474482
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        55.94083541352369,
+                        54.72448144179654
+                    ],
+                    [
+                        55.94083078876933,
+                        54.72447197953267
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "141",
+            "type": "Feature",
+            "properties": {
+                "ID": "00050001C538",
+                "X": null,
+                "FLOOR": 2.0,
+                "ELEVATION": 4.0,
+                "HEIGHT": 0.0,
+                "SHAPE_LENG": 1.11697388796
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        55.94084158772307,
+                        54.72449427792477
+                    ],
+                    [
+                        55.94084624391831,
+                        54.72450380884096
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "142",
+            "type": "Feature",
+            "properties": {
+                "ID": "00050001C539",
+                "X": null,
+                "FLOOR": 2.0,
+                "ELEVATION": 4.0,
+                "HEIGHT": 0.0,
+                "SHAPE_LENG": 0.777204587464
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        55.940860970032276,
+                        54.724534574216904
+                    ],
+                    [
+                        55.94085772474575,
+                        54.724527943378185
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "143",
+            "type": "Feature",
+            "properties": {
+                "ID": "00050001C53A",
+                "X": null,
+                "FLOOR": 2.0,
+                "ELEVATION": 4.0,
+                "HEIGHT": 0.0,
+                "SHAPE_LENG": 0.557061121836
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        55.94085843511274,
+                        54.72454419250588
+                    ],
+                    [
+                        55.94085020153687,
+                        54.72454552763836
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "144",
+            "type": "Feature",
+            "properties": {
+                "ID": "00050001C53B",
+                "X": null,
+                "FLOOR": 2.0,
+                "ELEVATION": 4.0,
+                "HEIGHT": 0.0,
+                "SHAPE_LENG": 1.00209277595
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        55.9408666136671,
+                        54.72454639692138
+                    ],
+                    [
+                        55.940870785476534,
+                        54.72455494846361
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "145",
+            "type": "Feature",
+            "properties": {
+                "ID": "00050001C53C",
+                "X": null,
+                "FLOOR": 2.0,
+                "ELEVATION": 4.0,
+                "HEIGHT": 0.0,
+                "SHAPE_LENG": 1.02130784785
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        55.94088634477337,
+                        54.72458621369472
+                    ],
+                    [
+                        55.94088208257144,
+                        54.724577499877896
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "146",
+            "type": "Feature",
+            "properties": {
+                "ID": "00050001C53D",
+                "X": null,
+                "FLOOR": 2.0,
+                "ELEVATION": 4.0,
+                "HEIGHT": 0.0,
+                "SHAPE_LENG": 0.392499853532
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        55.94088077286302,
+                        54.724593537339395
+                    ],
+                    [
+                        55.94087497104136,
+                        54.72459447698102
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "147",
+            "type": "Feature",
+            "properties": {
+                "ID": "00050001C53E",
+                "X": null,
+                "FLOOR": 2.0,
+                "ELEVATION": 4.0,
+                "HEIGHT": 0.0,
+                "SHAPE_LENG": 0.506687499317
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        55.94088367721269,
+                        54.724596638270135
+                    ],
+                    [
+                        55.94087618839225,
+                        54.72459785310865
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "148",
+            "type": "Feature",
+            "properties": {
+                "ID": "00050001C53F",
+                "X": null,
+                "FLOOR": 2.0,
+                "ELEVATION": 4.0,
+                "HEIGHT": 0.0,
+                "SHAPE_LENG": 1.15897814971
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        55.940892924756376,
+                        54.72459951790827
+                    ],
+                    [
+                        55.94089775485887,
+                        54.724609407406774
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "149",
+            "type": "Feature",
+            "properties": {
+                "ID": "00050001C540",
+                "X": null,
+                "FLOOR": 2.0,
+                "ELEVATION": 4.0,
+                "HEIGHT": 0.0,
+                "SHAPE_LENG": 1.11757894668
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        55.940911827592416,
+                        54.72463845626975
+                    ],
+                    [
+                        55.940907161571914,
+                        54.72462892141331
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "150",
+            "type": "Feature",
+            "properties": {
+                "ID": "00050001C541",
+                "X": null,
+                "FLOOR": 2.0,
+                "ELEVATION": 4.0,
+                "HEIGHT": 0.0,
+                "SHAPE_LENG": 1.11679857263
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        55.94091836237918,
+                        54.72465172244931
+                    ],
+                    [
+                        55.940923015626836,
+                        54.72466125219365
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "151",
+            "type": "Feature",
+            "properties": {
+                "ID": "00050001C542",
+                "X": null,
+                "FLOOR": 2.0,
+                "ELEVATION": 4.0,
+                "HEIGHT": 0.0,
+                "SHAPE_LENG": 1.16915744219
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        55.940937674928975,
+                        54.72469078899643
+                    ],
+                    [
+                        55.94093279864771,
+                        54.724680813270666
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "152",
+            "type": "Feature",
+            "properties": {
+                "ID": "00050001C543",
+                "X": null,
+                "FLOOR": 2.0,
+                "ELEVATION": 4.0,
+                "HEIGHT": 0.0,
+                "SHAPE_LENG": 1.10903579697
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        55.94096379540802,
+                        54.72474413108568
+                    ],
+                    [
+                        55.940959173601236,
+                        54.724734667748315
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "153",
+            "type": "Feature",
+            "properties": {
+                "ID": "00050001C544",
+                "X": null,
+                "FLOOR": 2.0,
+                "ELEVATION": 4.0,
+                "HEIGHT": 0.0,
+                "SHAPE_LENG": 1.11761514782
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        55.94092542969556,
+                        54.72479552517381
+                    ],
+                    [
+                        55.94092076858769,
+                        54.7247859892195
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "154",
+            "type": "Feature",
+            "properties": {
+                "ID": "00050001C545",
+                "X": null,
+                "FLOOR": 2.0,
+                "ELEVATION": 4.0,
+                "HEIGHT": 0.0,
+                "SHAPE_LENG": 0.932727248956
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        55.94096408721853,
+                        54.724813936039205
+                    ],
+                    [
+                        55.940977865193986,
+                        54.7248116839755
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "155",
+            "type": "Feature",
+            "properties": {
+                "ID": "00050001C546",
+                "X": null,
+                "FLOOR": 2.0,
+                "ELEVATION": 4.0,
+                "HEIGHT": 0.0,
+                "SHAPE_LENG": 0.803430505485
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        55.94102787778095,
+                        54.724803303846315
+                    ],
+                    [
+                        55.94101600590777,
+                        54.72480523588927
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "156",
+            "type": "Feature",
+            "properties": {
+                "ID": "00050001C547",
+                "X": null,
+                "FLOOR": 2.0,
+                "ELEVATION": 4.0,
+                "HEIGHT": 0.0,
+                "SHAPE_LENG": 1.05531101587
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        55.94105334782714,
+                        54.72479915264889
+                    ],
+                    [
+                        55.941068937582315,
+                        54.72479660666415
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "157",
+            "type": "Feature",
+            "properties": {
+                "ID": "00050001C548",
+                "X": null,
+                "FLOOR": 2.0,
+                "ELEVATION": 4.0,
+                "HEIGHT": 0.0,
+                "SHAPE_LENG": 0.951790361121
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        55.9411190749502,
+                        54.72478807900427
+                    ],
+                    [
+                        55.941105010076875,
+                        54.724790366248925
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "158",
+            "type": "Feature",
+            "properties": {
+                "ID": "00050001C549",
+                "X": null,
+                "FLOOR": 2.0,
+                "ELEVATION": 4.0,
+                "HEIGHT": 0.0,
+                "SHAPE_LENG": 1.05525754573
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        55.94114482698164,
+                        54.72478378878892
+                    ],
+                    [
+                        55.94116041477176,
+                        54.724781240533545
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "159",
+            "type": "Feature",
+            "properties": {
+                "ID": "00050001C54A",
+                "X": null,
+                "FLOOR": 2.0,
+                "ELEVATION": 4.0,
+                "HEIGHT": 0.0,
+                "SHAPE_LENG": 0.934031467755
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        55.9412101787794,
+                        54.72477293416188
+                    ],
+                    [
+                        55.941196377223285,
+                        54.72477518055356
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "160",
+            "type": "Feature",
+            "properties": {
+                "ID": "00050001C54B",
+                "X": null,
+                "FLOOR": 2.0,
+                "ELEVATION": 4.0,
+                "HEIGHT": 0.0,
+                "SHAPE_LENG": 1.10688149757
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        55.94128049921596,
+                        54.72476108485504
+                    ],
+                    [
+                        55.941285114145046,
+                        54.72477052946158
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "161",
+            "type": "Feature",
+            "properties": {
+                "ID": "00050001C54C",
+                "X": null,
+                "FLOOR": 2.0,
+                "ELEVATION": 4.0,
+                "HEIGHT": 0.0,
+                "SHAPE_LENG": 6.90493917179
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        55.941313792141756,
+                        54.72488704037535
+                    ],
+                    [
+                        55.941294396077176,
+                        54.72484734475646
+                    ],
+                    [
+                        55.94126110708148,
+                        54.72485275844248
+                    ]
+                ]
+            }
+        }
+    ]
+}

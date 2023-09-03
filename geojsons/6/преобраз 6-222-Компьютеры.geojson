@@ -1,0 +1,24 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": "0",
+            "type": "Feature",
+            "properties": {
+                "Layer": "6-222-Компьютеры",
+                "PaperSpace": null,
+                "SubClasses": null,
+                "Linetype": null,
+                "EntityHand": null,
+                "Text": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.9408124738416,
+                    54.72446339437877
+                ]
+            }
+        }
+    ]
+}

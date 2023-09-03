@@ -1,0 +1,24 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": "0",
+            "type": "Feature",
+            "properties": {
+                "Layer": "6-222-Узлы_сети",
+                "PaperSpace": null,
+                "SubClasses": null,
+                "Linetype": null,
+                "EntityHand": null,
+                "Text": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.9408152210982,
+                    54.724458904934345
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,747 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": "0",
+            "type": "Feature",
+            "properties": {
+                "invnum": "427007",
+                "campus": 6,
+                "cab": "301",
+                "hostname": "301-01",
+                "domain": "gis.ugatu",
+                "ip": "172.20.31.1",
+                "mac": "00:17:31:b4:5b:10",
+                "os": "Майкрософт Windows 10 Pro",
+                "charact": "Athlon 64 Processor 3000+/HDD 75 Гб/ОЗУ 1 Гб",
+                "sost": "В работе",
+                "monitors": "19",
+                "dopmonit": "Нет",
+                "otvet": "Золотарева С.Ю.",
+                "caf": "ГИС",
+                "date": "30.01.2006",
+                "ram": "1024 (DDR2-SDRAM)",
+                "proc": "Athlon 64 Processor 3000",
+                "matpl": "ASRock G31M-GS",
+                "video": "Intel UHD Graphics 610",
+                "oppam": "Samsung M3 78T5663SH3-CF7 1 Гб DDR2-800"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            55.94131866482811,
+                            54.724969731017346
+                        ],
+                        [
+                            55.94131778947257,
+                            54.72496825134827
+                        ],
+                        [
+                            55.9413157144474,
+                            54.724968534040734
+                        ],
+                        [
+                            55.94131634825717,
+                            54.724969952169786
+                        ],
+                        [
+                            55.94131866482811,
+                            54.724969731017346
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "1",
+            "type": "Feature",
+            "properties": {
+                "invnum": "427333",
+                "campus": 6,
+                "cab": "301",
+                "hostname": "301-02",
+                "domain": "gis.ugatu",
+                "ip": "172.20.31.2",
+                "mac": "00:17:31:b4:5b:10",
+                "os": "Майкрософт Windows 10 Pro",
+                "charact": "Athlon 64 Processor 3000+/HDD 75 Гб/ОЗУ 1 Гб",
+                "sost": "В работе",
+                "monitors": "19",
+                "dopmonit": "Нет",
+                "otvet": "Золотарева С.Ю.",
+                "caf": "ГИС",
+                "date": "12.12.2009",
+                "ram": "1024 (DDR2-SDRAM)",
+                "proc": "DualCore Intel Core 2 Duo E8400",
+                "matpl": "ASRock G31M-GS",
+                "video": "NVIDIA GeForce 9400 GT",
+                "oppam": "Apacer 78.B1GNL.4032B 1 Гб"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            55.94131313036333,
+                            54.7249573521065
+                        ],
+                        [
+                            55.941312312117375,
+                            54.72495589089831
+                        ],
+                        [
+                            55.94130940101059,
+                            54.72495642927502
+                        ],
+                        [
+                            55.94131023464836,
+                            54.72495786716896
+                        ],
+                        [
+                            55.94131313036333,
+                            54.7249573521065
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "2",
+            "type": "Feature",
+            "properties": {
+                "invnum": "4273352",
+                "campus": 6,
+                "cab": "301",
+                "hostname": "301-03",
+                "domain": "gis.ugatu",
+                "ip": "172.20.31.3",
+                "mac": "00:17:31:b4:5b:10",
+                "os": "Майкрософт Windows 10 Pro",
+                "charact": "Athlon 64 Processor 3000+/HDD 75 Гб/ОЗУ 1 Гб",
+                "sost": "В работе",
+                "monitors": "19",
+                "dopmonit": "Нет",
+                "otvet": "Золотарева С.Ю.",
+                "caf": "ГИС",
+                "date": "20.02.2009",
+                "ram": "2048 (DDR2-SDRAM)",
+                "proc": "DualCore Intel Pentium Gold G5400",
+                "matpl": "Asus Prime H310M-R R2.0",
+                "video": "Intel UHD Graphics 610",
+                "oppam": "Apacer 78.B1GNL.4032B 1 Гб"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            55.94130664695511,
+                            54.724944928190496
+                        ],
+                        [
+                            55.941305966558936,
+                            54.724943416236016
+                        ],
+                        [
+                            55.94130299104068,
+                            54.724943868354615
+                        ],
+                        [
+                            55.941304062488435,
+                            54.7249453780825
+                        ],
+                        [
+                            55.94130664695511,
+                            54.724944928190496
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "3",
+            "type": "Feature",
+            "properties": {
+                "invnum": "492059",
+                "campus": 6,
+                "cab": "301",
+                "hostname": "301-04",
+                "domain": "gis.ugatu",
+                "ip": "172.20.31.4",
+                "mac": "00:17:31:b4:5b:10",
+                "os": "Майкрософт Windows 10 Pro",
+                "charact": "Athlon 64 Processor 3000+/HDD 75 Гб/ОЗУ 1 Гб",
+                "sost": "В работе",
+                "monitors": "19",
+                "dopmonit": "Нет",
+                "otvet": "Золотарева С.Ю.",
+                "caf": "ГИС",
+                "date": "12.12.2009",
+                "ram": "4096 (DDR4-SDRAM)",
+                "proc": "\nDualCore Intel Core 2 Duo E8400",
+                "matpl": "ASRock G31M-GS",
+                "video": "NVIDIA GeForce 9400 GT",
+                "oppam": "Apacer 78.B1GNL.4032B 1 Гб"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            55.94130187298973,
+                            54.72493340046997
+                        ],
+                        [
+                            55.941301486320924,
+                            54.72493215143414
+                        ],
+                        [
+                            55.94129885867637,
+                            54.72493238348372
+                        ],
+                        [
+                            55.94129899099454,
+                            54.72493378311999
+                        ],
+                        [
+                            55.94130187298973,
+                            54.72493340046997
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "4",
+            "type": "Feature",
+            "properties": {
+                "invnum": "301055",
+                "campus": 6,
+                "cab": "301",
+                "hostname": "301-05",
+                "domain": "gis.ugatu",
+                "ip": "172.20.31.5",
+                "mac": "00:17:31:b4:5b:10",
+                "os": "Майкрософт Windows 10 Pro",
+                "charact": "Athlon 64 Processor 3000+/HDD 75 Гб/ОЗУ 1 Гб",
+                "sost": "В работе",
+                "monitors": "19",
+                "dopmonit": "Нет",
+                "otvet": "Золотарева С.Ю.",
+                "caf": "ГИС",
+                "date": "12.03.2011",
+                "ram": "1024 (DDR2-SDRAM)",
+                "proc": "DualCore Intel Pentium Gold G5400",
+                "matpl": "Asus Prime H310M-R R2.0",
+                "video": "NVIDIA GeForce 9400 GT",
+                "oppam": "Samsung M3 78T5663SH3-CF7 1Гб DDR2-800"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            55.94129639551952,
+                            54.72492166159148
+                        ],
+                        [
+                            55.94129588593027,
+                            54.72492044736916
+                        ],
+                        [
+                            55.94129416809609,
+                            54.724920528757664
+                        ],
+                        [
+                            55.94129392004734,
+                            54.72492215384427
+                        ],
+                        [
+                            55.94129639551952,
+                            54.72492166159148
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "5",
+            "type": "Feature",
+            "properties": {
+                "invnum": "847292",
+                "campus": 6,
+                "cab": "301",
+                "hostname": "301-06",
+                "domain": "gis.ugatu",
+                "ip": "172.20.31.6",
+                "mac": "00:17:31:b4:5b:10",
+                "os": "Майкрософт Windows 10",
+                "charact": "Athlon 64 Processor 3000+/HDD 75 Гб/ОЗУ 1 Гб",
+                "sost": "В работе",
+                "monitors": "22",
+                "dopmonit": "Нет",
+                "otvet": "Золотарева С.Ю.",
+                "caf": "ГИС",
+                "date": "12.03.2011",
+                "ram": "1024 (DDR2-SDRAM)",
+                "proc": "DualCore Intel Pentium Gold G5400",
+                "matpl": "Asus Prime H310M-R R2.0",
+                "video": "NVIDIA GeForce 9400 GT",
+                "oppam": "Samsung M3 78T5663SH3-CF7 1Гб DDR2-800"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            55.941265054666744,
+                            54.724926137571806
+                        ],
+                        [
+                            55.94126392866877,
+                            54.724924779845786
+                        ],
+                        [
+                            55.941261087678704,
+                            54.7249250886324
+                        ],
+                        [
+                            55.941261832592296,
+                            54.724926305594146
+                        ],
+                        [
+                            55.941265054666744,
+                            54.724926137571806
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "6",
+            "type": "Feature",
+            "properties": {
+                "invnum": "392945",
+                "campus": 6,
+                "cab": "301",
+                "hostname": "301-07",
+                "domain": "gis.ugatu",
+                "ip": "172.20.31.7",
+                "mac": "00:17:31:b4:5b:10",
+                "os": "Майкрософт Windows 10 Pro",
+                "charact": "Athlon 64 Processor 3000+/HDD 75 Гб/ОЗУ 1 Гб",
+                "sost": "В работе",
+                "monitors": "19",
+                "dopmonit": "Нет",
+                "otvet": "Золотарева С.Ю.",
+                "caf": "ГИС",
+                "date": "12.03.2011",
+                "ram": "1024 (DDR2-SDRAM)",
+                "proc": "DualCore Intel Pentium Gold G5400",
+                "matpl": "Asus Prime H310M-R R2.0",
+                "video": "NVIDIA GeForce 9400 GT",
+                "oppam": "Apacer 78.B1GNL.4032B 1 Гб"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            55.9412589879429,
+                            54.724913211026795
+                        ],
+                        [
+                            55.94125876434457,
+                            54.72491258205549
+                        ],
+                        [
+                            55.94125680377552,
+                            54.724912069937
+                        ],
+                        [
+                            55.941256416202044,
+                            54.72491355566605
+                        ],
+                        [
+                            55.9412589879429,
+                            54.724913211026795
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "7",
+            "type": "Feature",
+            "properties": {
+                "invnum": "2947232",
+                "campus": 6,
+                "cab": "301",
+                "hostname": "301-08",
+                "domain": "gis.ugatu",
+                "ip": "172.20.31.8",
+                "mac": "00:17:31:b4:5b:10",
+                "os": "Майкрософт Windows 10 Pro",
+                "charact": "Athlon 64 Processor 3000+/HDD 75 Гб/ОЗУ 1 Гб",
+                "sost": "В работе",
+                "monitors": "19",
+                "dopmonit": "Нет",
+                "otvet": "Золотарева С.Ю.",
+                "caf": "ГИС",
+                "date": "12.03.2011",
+                "ram": "1024 (DDR2-SDRAM)",
+                "proc": "DualCore Intel Pentium Gold G5400",
+                "matpl": "Asus Prime H310M-R R2.0",
+                "video": "NVIDIA GeForce 9400 GT",
+                "oppam": "Samsung M3 78T5663SH3-CF7 1Гб DDR2-800"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            55.9412164286317,
+                            54.72492674114928
+                        ],
+                        [
+                            55.94121586270536,
+                            54.72492601537912
+                        ],
+                        [
+                            55.94121324148111,
+                            54.72492556307178
+                        ],
+                        [
+                            55.94121403321563,
+                            54.72492701597404
+                        ],
+                        [
+                            55.9412164286317,
+                            54.72492674114928
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "8",
+            "type": "Feature",
+            "properties": {
+                "invnum": "2200405",
+                "campus": 6,
+                "cab": "301",
+                "hostname": "301-09",
+                "domain": "gis.ugatu",
+                "ip": "172.20.31.9",
+                "mac": "00:17:31:b4:5b:10",
+                "os": "Майкрософт Windows 10 Pro",
+                "charact": "Athlon 64 Processor 3000+/HDD 75 Гб/ОЗУ 1 Гб",
+                "sost": "В работе",
+                "monitors": "19",
+                "dopmonit": "Нет",
+                "otvet": "Золотарева С.Ю.",
+                "caf": "ГИС",
+                "date": "12.03.2011",
+                "ram": "1024 (DDR2-SDRAM)",
+                "proc": "DualCore Intel Pentium Gold G5400",
+                "matpl": "Asus Prime H310M-R R2.0",
+                "video": "NVIDIA GeForce 9400 GT",
+                "oppam": "Apacer 78.B1GNL.4032B 1 Гб"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            55.94122171411093,
+                            54.72493894413261
+                        ],
+                        [
+                            55.94122060265216,
+                            54.72493742092416
+                        ],
+                        [
+                            55.94121871283696,
+                            54.724937857121944
+                        ],
+                        [
+                            55.94121913281826,
+                            54.724939127890835
+                        ],
+                        [
+                            55.94122171411093,
+                            54.72493894413261
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "9",
+            "type": "Feature",
+            "properties": {
+                "invnum": "2403294",
+                "campus": 6,
+                "cab": "301",
+                "hostname": "301-10",
+                "domain": "gis.ugatu",
+                "ip": "172.20.31.10",
+                "mac": "00:17:31:b4:5b:10",
+                "os": "Майкрософт Windows 10 Pro",
+                "charact": "Athlon 64 Processor 3000+/HDD 75 Гб/ОЗУ 1 Гб",
+                "sost": "В работе",
+                "monitors": "22",
+                "dopmonit": "Нет",
+                "otvet": "Золотарева С.Ю.",
+                "caf": "ГИС",
+                "date": "12.03.2011",
+                "ram": "1024 (DDR2-SDRAM)",
+                "proc": "DualCore Intel Pentium Gold G5400",
+                "matpl": "Asus Prime H310M-R R2.0",
+                "video": "NVIDIA GeForce 9400 GT",
+                "oppam": "Samsung M3 78T5663SH3-CF7 1Гб DDR2-800"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            55.941227145852366,
+                            54.72494974196039
+                        ],
+                        [
+                            55.94122652758564,
+                            54.72494859835518
+                        ],
+                        [
+                            55.94122434047586,
+                            54.724949191129
+                        ],
+                        [
+                            55.94122475043631,
+                            54.724950016785016
+                        ],
+                        [
+                            55.941227145852366,
+                            54.72494974196039
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "10",
+            "type": "Feature",
+            "properties": {
+                "invnum": "4304394",
+                "campus": 6,
+                "cab": "301",
+                "hostname": "301-11",
+                "domain": "gis.ugatu",
+                "ip": "172.20.31.11",
+                "mac": "00:17:31:b4:5b:10",
+                "os": "Майкрософт Windows 10 Pro",
+                "charact": "Athlon 64 Processor 3000+/HDD 75 Гб/ОЗУ 1 Гб",
+                "sost": "В работе",
+                "monitors": "22",
+                "dopmonit": "Нет",
+                "otvet": "Золотарева С.Ю.",
+                "caf": "ГИС",
+                "date": "12.05.2011",
+                "ram": "1024 (DDR2-SDRAM)",
+                "proc": "DualCore Intel Pentium Gold G5400",
+                "matpl": "Asus Prime H310M-R R2.0",
+                "video": "NVIDIA GeForce 9400 GT",
+                "oppam": "Samsung M3 78T5663SH3-CF7 1Гб DDR2-800"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            55.94123191128567,
+                            54.7249607559266
+                        ],
+                        [
+                            55.94123107003464,
+                            54.72495966172775
+                        ],
+                        [
+                            55.94122921677845,
+                            54.72495986181088
+                        ],
+                        [
+                            55.941229757180864,
+                            54.724960950175365
+                        ],
+                        [
+                            55.94123191128567,
+                            54.7249607559266
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "11",
+            "type": "Feature",
+            "properties": {
+                "invnum": "34890385",
+                "campus": 6,
+                "cab": "301",
+                "hostname": "301-12",
+                "domain": "gis.ugatu",
+                "ip": "172.20.31.12",
+                "mac": "00:17:31:b4:5b:10",
+                "os": "Майкрософт Windows 10 Pro",
+                "charact": "Athlon 64 Processor 3000+/HDD 75 Гб/ОЗУ 1 Гб",
+                "sost": "В работе",
+                "monitors": "20",
+                "dopmonit": "Нет",
+                "otvet": "Золотарева С.Ю.",
+                "caf": "ГИС",
+                "date": "12.05.2011",
+                "ram": "1024 (DDR2-SDRAM)",
+                "proc": "DualCore Intel Pentium Gold G5400",
+                "matpl": "Asus Prime H310M-R R2.0",
+                "video": "NVIDIA GeForce 9400 GT",
+                "oppam": "Apacer 78.B1GNL.4032B 1 Гб"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            55.94123781703591,
+                            54.72497180017951
+                        ],
+                        [
+                            55.94123699496812,
+                            54.72497072509732
+                        ],
+                        [
+                            55.94123439812589,
+                            54.7249708635598
+                        ],
+                        [
+                            55.941235198474125,
+                            54.724971908878
+                        ],
+                        [
+                            55.94123781703591,
+                            54.72497180017951
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "12",
+            "type": "Feature",
+            "properties": {
+                "invnum": "2049829",
+                "campus": 6,
+                "cab": "301",
+                "hostname": "301-13",
+                "domain": "gis.ugatu",
+                "ip": "172.20.31.13",
+                "mac": "00:17:31:b4:5b:10",
+                "os": "Майкрософт Windows 10",
+                "charact": "Athlon 64 Processor 3000+/HDD 75 Гб/ОЗУ 1 Гб",
+                "sost": "В работе",
+                "monitors": "19",
+                "dopmonit": "Нет",
+                "otvet": "Золотарева С.Ю.",
+                "caf": "ГИС",
+                "date": "12.05.2011",
+                "ram": "1024 (DDR2-SDRAM)",
+                "proc": "DualCore Intel Pentium Gold G5400",
+                "matpl": "Asus Prime H310M-R R2.0",
+                "video": "NVIDIA GeForce 9400 GT",
+                "oppam": "Apacer 78.B1GNL.4032B 1 Гб"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            55.94128258161802,
+                            54.72498601941701
+                        ],
+                        [
+                            55.9412822734441,
+                            54.724984973828306
+                        ],
+                        [
+                            55.9412805432292,
+                            54.72498529566456
+                        ],
+                        [
+                            55.94128010258094,
+                            54.7249862674731
+                        ],
+                        [
+                            55.94128258161802,
+                            54.72498601941701
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "13",
+            "type": "Feature",
+            "properties": {
+                "invnum": "2948204",
+                "campus": 6,
+                "cab": "301",
+                "hostname": "301-14",
+                "domain": "gis.ugatu",
+                "ip": "172.20.31.14",
+                "mac": "00:17:31:b4:5b:10",
+                "os": "Майкрософт Windows 10 Pro",
+                "charact": "Athlon 64 Processor 3000+/HDD 75 Гб/ОЗУ 1 Гб",
+                "sost": "В работе",
+                "monitors": "19",
+                "dopmonit": "Нет",
+                "otvet": "Золотарева С.Ю.",
+                "caf": "ГИС",
+                "date": "12.03.2009",
+                "ram": "1024 (DDR2-SDRAM)",
+                "proc": "DualCore Intel Pentium Gold G5400",
+                "matpl": "Asus Prime H310M-R R2.0",
+                "video": "Intel UHD Graphics 610",
+                "oppam": "Apacer 78.B1GNL.4032B 1 Гб"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            55.94129619021825,
+                            54.72498360342566
+                        ],
+                        [
+                            55.94129593747898,
+                            54.72498238619477
+                        ],
+                        [
+                            55.94129173152495,
+                            54.72498283899013
+                        ],
+                        [
+                            55.94129476306955,
+                            54.724983584835016
+                        ],
+                        [
+                            55.94129619021825,
+                            54.72498360342566
+                        ]
+                    ]
+                ]
+            }
+        }
+    ]
+}

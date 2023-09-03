@@ -1,0 +1,20 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": "0",
+            "type": "Feature",
+            "properties": {
+                "ID": "001B0000472A",
+                "Ingeo_Styl": "Новый стиль"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.9412645246991,
+                    54.72483256504618
+                ]
+            }
+        }
+    ]
+}

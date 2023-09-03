@@ -1,0 +1,23 @@
+Version 300
+Charset "WindowsCyrillic"
+Delimiter ","
+CoordSys NonEarth Units "m" Bounds (-68500.0, 6066800.0) (-67500.0, 6068000.0)
+Columns 14
+  ID Char(12)
+  Инвентарный номер Char(10)
+  Серийный номер Integer
+  Расположение Char(20)
+  Здание Char(10)
+  Комната Integer
+  Изготовитель Char(20)
+  Сетевое имя Char(20)
+  IP-адрес Char(15)
+  Маска подсети Char(15)
+  Интерфейс администратора Char(20)
+  Число портов Integer
+  MAC-адрес Char(20)
+  Сетевое описание Char(30)
+Data
+
+Point -68064.1838589047256 6067303.78629409522
+    Symbol (35,0,12)

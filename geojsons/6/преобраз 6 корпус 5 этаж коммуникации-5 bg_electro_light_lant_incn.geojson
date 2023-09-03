@@ -1,0 +1,30 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": "0",
+            "type": "Feature",
+            "properties": {
+                "ID": "00050001CDF2",
+                "X": null,
+                "FLOOR": 5.0,
+                "ELEVATION": 13.0,
+                "HEIGHT": 0.0,
+                "SHAPE_LENG": 0.00298064113718
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        55.94095664162927,
+                        54.72474112662668
+                    ],
+                    [
+                        55.9409566534196,
+                        54.72474115216033
+                    ]
+                ]
+            }
+        }
+    ]
+}
